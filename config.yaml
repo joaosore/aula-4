@@ -1,0 +1,29 @@
+api:
+  url: 'https://ieeexploreapi.ieee.org/api/v1'
+  key: '5az2n3znt5xasjxtk4ud2v6v'
+  path: '/search/articles'
+  max_records: 1
+
+search: ['big data', 'java']
+
+# AND, OR, NOT
+operator: 'OR'
+
+data:
+  [
+    'author',
+    'title',
+    'year',
+    'isbn',
+    'publisher',
+    'address',
+    'url',
+    'doi',
+    'abstract',
+    'booktitle',
+    'pages',
+    'numpages',
+    'keywords',
+    'location',
+    'series',
+  ]
