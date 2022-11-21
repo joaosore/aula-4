@@ -1,0 +1,3926 @@
+{
+    "search-results": {
+        "opensearch:totalResults": "79855",
+        "opensearch:startIndex": "780",
+        "opensearch:itemsPerPage": "100",
+        "opensearch:Query": {
+            "@role": "request",
+            "@searchTerms": "big data OR java",
+            "@startPage": "780"
+        },
+        "link": [
+            {
+                "@_fa": "true",
+                "@ref": "self",
+                "@href": "https://api.elsevier.com/content/search/sciencedirect?start=780&count=100&query=big+data+OR+java&apiKey=7f59af901d2d86f78a1fd60c1bf9426a&httpAccept=application%2Fjson",
+                "@type": "application/json"
+            },
+            {
+                "@_fa": "true",
+                "@ref": "first",
+                "@href": "https://api.elsevier.com/content/search/sciencedirect?start=0&count=100&query=big+data+OR+java&apiKey=7f59af901d2d86f78a1fd60c1bf9426a&httpAccept=application%2Fjson",
+                "@type": "application/json"
+            },
+            {
+                "@_fa": "true",
+                "@ref": "prev",
+                "@href": "https://api.elsevier.com/content/search/sciencedirect?start=680&count=100&query=big+data+OR+java&apiKey=7f59af901d2d86f78a1fd60c1bf9426a&httpAccept=application%2Fjson",
+                "@type": "application/json"
+            },
+            {
+                "@_fa": "true",
+                "@ref": "next",
+                "@href": "https://api.elsevier.com/content/search/sciencedirect?start=880&count=100&query=big+data+OR+java&apiKey=7f59af901d2d86f78a1fd60c1bf9426a&httpAccept=application%2Fjson",
+                "@type": "application/json"
+            },
+            {
+                "@_fa": "true",
+                "@ref": "last",
+                "@href": "https://api.elsevier.com/content/search/sciencedirect?start=5900&count=100&query=big+data+OR+java&apiKey=7f59af901d2d86f78a1fd60c1bf9426a&httpAccept=application%2Fjson",
+                "@type": "application/json"
+            }
+        ],
+        "entry": [
+            {
+                "@_fa": "true",
+                "load-date": "2022-05-04T00:00:00.000Z",
+                "link": [
+                    {
+                        "@_fa": "true",
+                        "@ref": "self",
+                        "@href": "https://api.elsevier.com/content/article/pii/S0303243422001106"
+                    },
+                    {
+                        "@_fa": "true",
+                        "@ref": "scidir",
+                        "@href": "https://www.sciencedirect.com/science/article/pii/S0303243422001106?dgcid=api_sd_search-api-endpoint"
+                    }
+                ],
+                "dc:identifier": "DOI:10.1016/j.jag.2022.102784",
+                "prism:url": "https://api.elsevier.com/content/article/pii/S0303243422001106",
+                "dc:title": "Analyzing large-scale Data Cubes with user-defined algorithms: A cloud-native approach",
+                "dc:creator": "Chen Xu",
+                "prism:publicationName": "International Journal of Applied Earth Observation and Geoinformation",
+                "prism:volume": "109",
+                "prism:coverDate": "2022-05-31",
+                "prism:startingPage": "102784",
+                "prism:doi": "10.1016/j.jag.2022.102784",
+                "openaccess": true,
+                "pii": "S0303243422001106",
+                "authors": {
+                    "author": [
+                        {
+                            "$": "Chen Xu"
+                        },
+                        {
+                            "$": "Xiaoping Du"
+                        },
+                        {
+                            "$": "Xiangtao Fan"
+                        }
+                    ]
+                }
+            },
+            {
+                "@_fa": "true",
+                "load-date": "2018-12-14T00:00:00.000Z",
+                "link": [
+                    {
+                        "@_fa": "true",
+                        "@ref": "self",
+                        "@href": "https://api.elsevier.com/content/article/pii/S0040195118304190"
+                    },
+                    {
+                        "@_fa": "true",
+                        "@ref": "scidir",
+                        "@href": "https://www.sciencedirect.com/science/article/pii/S0040195118304190?dgcid=api_sd_search-api-endpoint"
+                    }
+                ],
+                "dc:identifier": "DOI:10.1016/j.tecto.2018.12.008",
+                "prism:url": "https://api.elsevier.com/content/article/pii/S0040195118304190",
+                "dc:title": "Thinking about LIPs: A brief history of ideas in Large igneous province research",
+                "dc:creator": "Henrik H. Svensen",
+                "prism:publicationName": "Tectonophysics",
+                "prism:volume": "760",
+                "prism:coverDate": "2019-06-05",
+                "prism:startingPage": "229",
+                "prism:endingPage": "251",
+                "prism:doi": "10.1016/j.tecto.2018.12.008",
+                "openaccess": false,
+                "pii": "S0040195118304190",
+                "authors": {
+                    "author": [
+                        {
+                            "$": "Henrik H. Svensen"
+                        },
+                        {
+                            "$": "Dougal A. Jerram"
+                        },
+                        {
+                            "$": "Henry C. Emeleus"
+                        }
+                    ]
+                }
+            },
+            {
+                "@_fa": "true",
+                "load-date": "2004-04-09T00:00:00.000Z",
+                "link": [
+                    {
+                        "@_fa": "true",
+                        "@ref": "self",
+                        "@href": "https://api.elsevier.com/content/article/pii/S0920548904000200"
+                    },
+                    {
+                        "@_fa": "true",
+                        "@ref": "scidir",
+                        "@href": "https://www.sciencedirect.com/science/article/pii/S0920548904000200?dgcid=api_sd_search-api-endpoint"
+                    }
+                ],
+                "dc:identifier": "DOI:10.1016/j.csi.2004.03.001",
+                "prism:url": "https://api.elsevier.com/content/article/pii/S0920548904000200",
+                "dc:title": "Remotely accessible laboratory for electronic measurement teaching",
+                "dc:creator": "G. Canfora",
+                "prism:publicationName": "Computer Standards & Interfaces",
+                "prism:volume": "26",
+                "prism:coverDate": "2004-10-31",
+                "prism:startingPage": "489",
+                "prism:endingPage": "499",
+                "prism:doi": "10.1016/j.csi.2004.03.001",
+                "openaccess": false,
+                "pii": "S0920548904000200",
+                "authors": {
+                    "author": [
+                        {
+                            "$": "G. Canfora"
+                        },
+                        {
+                            "$": "P. Daponte"
+                        },
+                        {
+                            "$": "S. Rapuano"
+                        }
+                    ]
+                }
+            },
+            {
+                "@_fa": "true",
+                "load-date": "2022-03-23T00:00:00.000Z",
+                "link": [
+                    {
+                        "@_fa": "true",
+                        "@ref": "self",
+                        "@href": "https://api.elsevier.com/content/article/pii/S0029801822004991"
+                    },
+                    {
+                        "@_fa": "true",
+                        "@ref": "scidir",
+                        "@href": "https://www.sciencedirect.com/science/article/pii/S0029801822004991?dgcid=api_sd_search-api-endpoint"
+                    }
+                ],
+                "dc:identifier": "DOI:10.1016/j.oceaneng.2022.111086",
+                "prism:url": "https://api.elsevier.com/content/article/pii/S0029801822004991",
+                "dc:title": "Description and variation of ocean wave energy in Indonesian seas and adjacent waters",
+                "dc:creator": "A. M. Rizal",
+                "prism:publicationName": "Ocean Engineering",
+                "prism:volume": "251",
+                "prism:coverDate": "2022-05-01",
+                "prism:startingPage": "111086",
+                "prism:doi": "10.1016/j.oceaneng.2022.111086",
+                "openaccess": false,
+                "pii": "S0029801822004991",
+                "authors": {
+                    "author": [
+                        {
+                            "$": "A. M. Rizal"
+                        },
+                        {
+                            "$": "N. S. Ningsih"
+                        }
+                    ]
+                }
+            },
+            {
+                "@_fa": "true",
+                "load-date": "2020-08-07T00:00:00.000Z",
+                "link": [
+                    {
+                        "@_fa": "true",
+                        "@ref": "self",
+                        "@href": "https://api.elsevier.com/content/article/pii/S0306437920300910"
+                    },
+                    {
+                        "@_fa": "true",
+                        "@ref": "scidir",
+                        "@href": "https://www.sciencedirect.com/science/article/pii/S0306437920300910?dgcid=api_sd_search-api-endpoint"
+                    }
+                ],
+                "dc:identifier": "DOI:10.1016/j.is.2020.101616",
+                "prism:url": "https://api.elsevier.com/content/article/pii/S0306437920300910",
+                "dc:title": "In-situ visual exploration over big raw data",
+                "dc:creator": "Nikos Bikakis",
+                "prism:publicationName": "Information Systems",
+                "prism:volume": "95",
+                "prism:coverDate": "2021-01-31",
+                "prism:startingPage": "101616",
+                "prism:doi": "10.1016/j.is.2020.101616",
+                "openaccess": false,
+                "pii": "S0306437920300910",
+                "authors": {
+                    "author": [
+                        {
+                            "$": "Nikos Bikakis"
+                        },
+                        {
+                            "$": "Stavros Maroulis"
+                        },
+                        {
+                            "$": "Panos Vassiliadis"
+                        }
+                    ]
+                }
+            },
+            {
+                "@_fa": "true",
+                "load-date": "2020-02-11T00:00:00.000Z",
+                "link": [
+                    {
+                        "@_fa": "true",
+                        "@ref": "self",
+                        "@href": "https://api.elsevier.com/content/article/pii/S0950584920300288"
+                    },
+                    {
+                        "@_fa": "true",
+                        "@ref": "scidir",
+                        "@href": "https://www.sciencedirect.com/science/article/pii/S0950584920300288?dgcid=api_sd_search-api-endpoint"
+                    }
+                ],
+                "dc:identifier": "DOI:10.1016/j.infsof.2020.106278",
+                "prism:url": "https://api.elsevier.com/content/article/pii/S0950584920300288",
+                "dc:title": "A large scale empirical study of the impact of Spaghetti Code and Blob anti-patterns on program comprehension",
+                "dc:creator": "Cristiano Politowski",
+                "prism:publicationName": "Information and Software Technology",
+                "prism:volume": "122",
+                "prism:coverDate": "2020-06-30",
+                "prism:startingPage": "106278",
+                "prism:doi": "10.1016/j.infsof.2020.106278",
+                "openaccess": false,
+                "pii": "S0950584920300288",
+                "authors": {
+                    "author": [
+                        {
+                            "$": "Cristiano Politowski"
+                        },
+                        {
+                            "$": "Foutse Khomh"
+                        },
+                        {
+                            "$": "Abdou Maiga"
+                        }
+                    ]
+                }
+            },
+            {
+                "@_fa": "true",
+                "load-date": "2019-06-07T00:00:00.000Z",
+                "link": [
+                    {
+                        "@_fa": "true",
+                        "@ref": "self",
+                        "@href": "https://api.elsevier.com/content/article/pii/S1386505618308451"
+                    },
+                    {
+                        "@_fa": "true",
+                        "@ref": "scidir",
+                        "@href": "https://www.sciencedirect.com/science/article/pii/S1386505618308451?dgcid=api_sd_search-api-endpoint"
+                    }
+                ],
+                "dc:identifier": "DOI:10.1016/j.ijmedinf.2019.05.024",
+                "prism:url": "https://api.elsevier.com/content/article/pii/S1386505618308451",
+                "dc:title": "Semantic preservation of standardized healthcare documents in big data",
+                "dc:creator": "Shujaat Hussain",
+                "prism:publicationName": "International Journal of Medical Informatics",
+                "prism:volume": "129",
+                "prism:coverDate": "2019-09-30",
+                "prism:startingPage": "133",
+                "prism:endingPage": "145",
+                "prism:doi": "10.1016/j.ijmedinf.2019.05.024",
+                "openaccess": false,
+                "pii": "S1386505618308451",
+                "authors": {
+                    "author": [
+                        {
+                            "$": "Shujaat Hussain"
+                        },
+                        {
+                            "$": "Maqbool Hussain"
+                        },
+                        {
+                            "$": "Sungyoung Lee"
+                        }
+                    ]
+                }
+            },
+            {
+                "@_fa": "true",
+                "load-date": "2015-11-26T00:00:00.000Z",
+                "link": [
+                    {
+                        "@_fa": "true",
+                        "@ref": "self",
+                        "@href": "https://api.elsevier.com/content/article/pii/S0167642315004049"
+                    },
+                    {
+                        "@_fa": "true",
+                        "@ref": "scidir",
+                        "@href": "https://www.sciencedirect.com/science/article/pii/S0167642315004049?dgcid=api_sd_search-api-endpoint"
+                    }
+                ],
+                "dc:identifier": "DOI:10.1016/j.scico.2015.11.008",
+                "prism:url": "https://api.elsevier.com/content/article/pii/S0167642315004049",
+                "dc:title": "JPC: A library for categorising and applying inter-language conversions between Java and Prolog",
+                "dc:creator": "Sergio Castro",
+                "prism:publicationName": "Science of Computer Programming",
+                "prism:volume": "134",
+                "prism:coverDate": "2017-02-01",
+                "prism:startingPage": "75",
+                "prism:endingPage": "99",
+                "prism:doi": "10.1016/j.scico.2015.11.008",
+                "openaccess": true,
+                "pii": "S0167642315004049",
+                "authors": {
+                    "author": [
+                        {
+                            "$": "Sergio Castro"
+                        },
+                        {
+                            "$": "Kim Mens"
+                        },
+                        {
+                            "$": "Paulo Moura"
+                        }
+                    ]
+                }
+            },
+            {
+                "@_fa": "true",
+                "load-date": "2017-10-19T00:00:00.000Z",
+                "link": [
+                    {
+                        "@_fa": "true",
+                        "@ref": "self",
+                        "@href": "https://api.elsevier.com/content/article/pii/S2214579617300102"
+                    },
+                    {
+                        "@_fa": "true",
+                        "@ref": "scidir",
+                        "@href": "https://www.sciencedirect.com/science/article/pii/S2214579617300102?dgcid=api_sd_search-api-endpoint"
+                    }
+                ],
+                "dc:identifier": "DOI:10.1016/j.bdr.2017.09.003",
+                "prism:url": "https://api.elsevier.com/content/article/pii/S2214579617300102",
+                "dc:title": "Big Data Model Simulation on a Graph Database for Surveillance in Wireless Multimedia Sensor Networks",
+                "dc:creator": "Cihan Küçükkeçeci",
+                "prism:publicationName": "Big Data Research",
+                "prism:volume": "11",
+                "prism:coverDate": "2018-03-31",
+                "prism:startingPage": "33",
+                "prism:endingPage": "43",
+                "prism:doi": "10.1016/j.bdr.2017.09.003",
+                "openaccess": false,
+                "pii": "S2214579617300102",
+                "authors": {
+                    "author": [
+                        {
+                            "$": "Cihan Küçükkeçeci"
+                        },
+                        {
+                            "$": "Adnan Yazıcı"
+                        }
+                    ]
+                }
+            },
+            {
+                "@_fa": "true",
+                "load-date": "2014-01-15T00:00:00.000Z",
+                "link": [
+                    {
+                        "@_fa": "true",
+                        "@ref": "self",
+                        "@href": "https://api.elsevier.com/content/article/pii/S0167587714000105"
+                    },
+                    {
+                        "@_fa": "true",
+                        "@ref": "scidir",
+                        "@href": "https://www.sciencedirect.com/science/article/pii/S0167587714000105?dgcid=api_sd_search-api-endpoint"
+                    }
+                ],
+                "dc:identifier": "DOI:10.1016/j.prevetmed.2014.01.009",
+                "prism:url": "https://api.elsevier.com/content/article/pii/S0167587714000105",
+                "dc:title": "Rabies in the Dutch East Indies a century ago – A spatio-temporal case study in disease emergence",
+                "dc:creator": "Michael P. Ward",
+                "prism:publicationName": "Preventive Veterinary Medicine",
+                "prism:volume": "114",
+                "prism:coverDate": "2014-04-01",
+                "prism:startingPage": "11",
+                "prism:endingPage": "20",
+                "prism:doi": "10.1016/j.prevetmed.2014.01.009",
+                "openaccess": false,
+                "pii": "S0167587714000105",
+                "authors": {
+                    "author": "Michael P. Ward"
+                }
+            },
+            {
+                "@_fa": "true",
+                "load-date": "2017-12-05T00:00:00.000Z",
+                "link": [
+                    {
+                        "@_fa": "true",
+                        "@ref": "self",
+                        "@href": "https://api.elsevier.com/content/article/pii/S0167642317302186"
+                    },
+                    {
+                        "@_fa": "true",
+                        "@ref": "scidir",
+                        "@href": "https://www.sciencedirect.com/science/article/pii/S0167642317302186?dgcid=api_sd_search-api-endpoint"
+                    }
+                ],
+                "dc:identifier": "DOI:10.1016/j.scico.2017.10.006",
+                "prism:url": "https://api.elsevier.com/content/article/pii/S0167642317302186",
+                "dc:title": "Typechecking protocols with Mungo and StMungo: A session type toolchain for Java",
+                "dc:creator": "Dimitrios Kouzapas",
+                "prism:publicationName": "Science of Computer Programming",
+                "prism:volume": "155",
+                "prism:coverDate": "2018-04-01",
+                "prism:startingPage": "52",
+                "prism:endingPage": "75",
+                "prism:doi": "10.1016/j.scico.2017.10.006",
+                "openaccess": true,
+                "pii": "S0167642317302186",
+                "authors": {
+                    "author": [
+                        {
+                            "$": "Dimitrios Kouzapas"
+                        },
+                        {
+                            "$": "Ornela Dardha"
+                        },
+                        {
+                            "$": "Simon J. Gay"
+                        }
+                    ]
+                }
+            },
+            {
+                "@_fa": "true",
+                "load-date": "2011-08-19T00:00:00.000Z",
+                "link": [
+                    {
+                        "@_fa": "true",
+                        "@ref": "self",
+                        "@href": "https://api.elsevier.com/content/article/pii/S0010465511002797"
+                    },
+                    {
+                        "@_fa": "true",
+                        "@ref": "scidir",
+                        "@href": "https://www.sciencedirect.com/science/article/pii/S0010465511002797?dgcid=api_sd_search-api-endpoint"
+                    }
+                ],
+                "dc:identifier": "DOI:10.1016/j.cpc.2011.08.007",
+                "prism:url": "https://api.elsevier.com/content/article/pii/S0010465511002797",
+                "dc:title": "A new 3D visualization Java framework based on physics principles",
+                "dc:creator": "Carlos A. Jara",
+                "prism:publicationName": "Computer Physics Communications",
+                "prism:volume": "183",
+                "prism:coverDate": "2012-02-29",
+                "prism:startingPage": "231",
+                "prism:endingPage": "244",
+                "prism:doi": "10.1016/j.cpc.2011.08.007",
+                "openaccess": false,
+                "pii": "S0010465511002797",
+                "authors": {
+                    "author": [
+                        {
+                            "$": "Carlos A. Jara"
+                        },
+                        {
+                            "$": "Francisco Esquembre"
+                        },
+                        {
+                            "$": "Sebastián Dormido"
+                        }
+                    ]
+                }
+            },
+            {
+                "@_fa": "true",
+                "load-date": "2016-08-03T00:00:00.000Z",
+                "link": [
+                    {
+                        "@_fa": "true",
+                        "@ref": "self",
+                        "@href": "https://api.elsevier.com/content/article/pii/S0957417416304018"
+                    },
+                    {
+                        "@_fa": "true",
+                        "@ref": "scidir",
+                        "@href": "https://www.sciencedirect.com/science/article/pii/S0957417416304018?dgcid=api_sd_search-api-endpoint"
+                    }
+                ],
+                "dc:identifier": "DOI:10.1016/j.eswa.2016.08.008",
+                "prism:url": "https://api.elsevier.com/content/article/pii/S0957417416304018",
+                "dc:title": "An adaptive rule-based classifier for mining big biological data",
+                "dc:creator": "Dewan Md. Farid",
+                "prism:publicationName": "Expert Systems with Applications",
+                "prism:volume": "64",
+                "prism:coverDate": "2016-12-01",
+                "prism:startingPage": "305",
+                "prism:endingPage": "316",
+                "prism:doi": "10.1016/j.eswa.2016.08.008",
+                "openaccess": false,
+                "pii": "S0957417416304018",
+                "authors": {
+                    "author": [
+                        {
+                            "$": "Dewan Md. Farid"
+                        },
+                        {
+                            "$": "Mohammad Abdullah Al-Mamun"
+                        },
+                        {
+                            "$": "Ann Nowe"
+                        }
+                    ]
+                }
+            },
+            {
+                "@_fa": "true",
+                "load-date": "2021-04-16T00:00:00.000Z",
+                "link": [
+                    {
+                        "@_fa": "true",
+                        "@ref": "self",
+                        "@href": "https://api.elsevier.com/content/article/pii/S0277379121001190"
+                    },
+                    {
+                        "@_fa": "true",
+                        "@ref": "scidir",
+                        "@href": "https://www.sciencedirect.com/science/article/pii/S0277379121001190?dgcid=api_sd_search-api-endpoint"
+                    }
+                ],
+                "dc:identifier": "DOI:10.1016/j.quascirev.2021.106912",
+                "prism:url": "https://api.elsevier.com/content/article/pii/S0277379121001190",
+                "dc:title": "Hominin homelands of East Java: Revised stratigraphy and landscape reconstructions for Plio-Pleistocene Trinil",
+                "dc:creator": "H. W. K. Berghuis",
+                "prism:publicationName": "Quaternary Science Reviews",
+                "prism:volume": "260",
+                "prism:coverDate": "2021-05-15",
+                "prism:startingPage": "106912",
+                "prism:doi": "10.1016/j.quascirev.2021.106912",
+                "openaccess": true,
+                "pii": "S0277379121001190",
+                "authors": {
+                    "author": [
+                        {
+                            "$": "H. W. K. Berghuis"
+                        },
+                        {
+                            "$": "A. Veldkamp"
+                        },
+                        {
+                            "$": "Josephine C. A. Joordens"
+                        }
+                    ]
+                }
+            },
+            {
+                "@_fa": "true",
+                "load-date": "2021-03-05T00:00:00.000Z",
+                "link": [
+                    {
+                        "@_fa": "true",
+                        "@ref": "self",
+                        "@href": "https://api.elsevier.com/content/article/pii/S1120179721000958"
+                    },
+                    {
+                        "@_fa": "true",
+                        "@ref": "scidir",
+                        "@href": "https://www.sciencedirect.com/science/article/pii/S1120179721000958?dgcid=api_sd_search-api-endpoint"
+                    }
+                ],
+                "dc:identifier": "DOI:10.1016/j.ejmp.2021.02.007",
+                "prism:url": "https://api.elsevier.com/content/article/pii/S1120179721000958",
+                "dc:title": "Data preparation for artificial intelligence in medical imaging: A comprehensive guide to open-access platforms and tools",
+                "dc:creator": "Oliver Diaz",
+                "prism:publicationName": "Physica Medica",
+                "prism:volume": "83",
+                "prism:coverDate": "2021-03-31",
+                "prism:startingPage": "25",
+                "prism:endingPage": "37",
+                "prism:doi": "10.1016/j.ejmp.2021.02.007",
+                "openaccess": true,
+                "pii": "S1120179721000958",
+                "authors": {
+                    "author": [
+                        {
+                            "$": "Oliver Diaz"
+                        },
+                        {
+                            "$": "Kaisar Kushibar"
+                        },
+                        {
+                            "$": "Karim Lekadir"
+                        }
+                    ]
+                }
+            },
+            {
+                "@_fa": "true",
+                "load-date": "2017-11-16T00:00:00.000Z",
+                "link": [
+                    {
+                        "@_fa": "true",
+                        "@ref": "self",
+                        "@href": "https://api.elsevier.com/content/article/pii/S0167739X17305149"
+                    },
+                    {
+                        "@_fa": "true",
+                        "@ref": "scidir",
+                        "@href": "https://www.sciencedirect.com/science/article/pii/S0167739X17305149?dgcid=api_sd_search-api-endpoint"
+                    }
+                ],
+                "dc:identifier": "DOI:10.1016/j.future.2017.10.045",
+                "prism:url": "https://api.elsevier.com/content/article/pii/S0167739X17305149",
+                "dc:title": "A new architecture of Internet of Things and big data ecosystem for secured smart healthcare monitoring and alerting system",
+                "dc:creator": "Gunasekaran Manogaran",
+                "prism:publicationName": "Future Generation Computer Systems",
+                "prism:volume": "82",
+                "prism:coverDate": "2018-05-31",
+                "prism:startingPage": "375",
+                "prism:endingPage": "387",
+                "prism:doi": "10.1016/j.future.2017.10.045",
+                "openaccess": false,
+                "pii": "S0167739X17305149",
+                "authors": {
+                    "author": [
+                        {
+                            "$": "Gunasekaran Manogaran"
+                        },
+                        {
+                            "$": "R. Varatharajan"
+                        },
+                        {
+                            "$": "Chandu Thota"
+                        }
+                    ]
+                }
+            },
+            {
+                "@_fa": "true",
+                "load-date": "2013-08-14T00:00:00.000Z",
+                "link": [
+                    {
+                        "@_fa": "true",
+                        "@ref": "self",
+                        "@href": "https://api.elsevier.com/content/article/pii/S0743731513001378"
+                    },
+                    {
+                        "@_fa": "true",
+                        "@ref": "scidir",
+                        "@href": "https://www.sciencedirect.com/science/article/pii/S0743731513001378?dgcid=api_sd_search-api-endpoint"
+                    }
+                ],
+                "dc:identifier": "DOI:10.1016/j.jpdc.2013.08.001",
+                "prism:url": "https://api.elsevier.com/content/article/pii/S0743731513001378",
+                "dc:title": "Resource management policies for real-time Java remote invocations",
+                "dc:creator": "Pablo Basanta-Val",
+                "prism:publicationName": "Journal of Parallel and Distributed Computing",
+                "prism:volume": "74",
+                "prism:coverDate": "2014-01-31",
+                "prism:startingPage": "1930",
+                "prism:endingPage": "1944",
+                "prism:doi": "10.1016/j.jpdc.2013.08.001",
+                "openaccess": false,
+                "pii": "S0743731513001378",
+                "authors": {
+                    "author": [
+                        {
+                            "$": "Pablo Basanta-Val"
+                        },
+                        {
+                            "$": "Marisol García-Valls"
+                        }
+                    ]
+                }
+            },
+            {
+                "@_fa": "true",
+                "load-date": "2016-04-14T00:00:00.000Z",
+                "link": [
+                    {
+                        "@_fa": "true",
+                        "@ref": "self",
+                        "@href": "https://api.elsevier.com/content/article/pii/S1878029616002334"
+                    },
+                    {
+                        "@_fa": "true",
+                        "@ref": "scidir",
+                        "@href": "https://www.sciencedirect.com/science/article/pii/S1878029616002334?dgcid=api_sd_search-api-endpoint"
+                    }
+                ],
+                "dc:identifier": "DOI:10.1016/j.proenv.2016.03.068",
+                "prism:url": "https://api.elsevier.com/content/article/pii/S1878029616002334",
+                "dc:title": "Heavy Rainfall Distributions Over Java Sea in Wet Season",
+                "dc:creator": "Danang Eko Nuryanto",
+                "prism:publicationName": "Procedia Environmental Sciences",
+                "prism:volume": "33",
+                "prism:coverDate": "2016-12-31",
+                "prism:startingPage": "178",
+                "prism:endingPage": "186",
+                "prism:doi": "10.1016/j.proenv.2016.03.068",
+                "openaccess": true,
+                "pii": "S1878029616002334",
+                "authors": {
+                    "author": [
+                        {
+                            "$": "Danang Eko Nuryanto"
+                        },
+                        {
+                            "$": "Hidayat Pawitan"
+                        },
+                        {
+                            "$": "Edvin Aldrian"
+                        }
+                    ]
+                }
+            },
+            {
+                "@_fa": "true",
+                "load-date": "2014-09-23T00:00:00.000Z",
+                "link": [
+                    {
+                        "@_fa": "true",
+                        "@ref": "self",
+                        "@href": "https://api.elsevier.com/content/article/pii/S0164121214002040"
+                    },
+                    {
+                        "@_fa": "true",
+                        "@ref": "scidir",
+                        "@href": "https://www.sciencedirect.com/science/article/pii/S0164121214002040?dgcid=api_sd_search-api-endpoint"
+                    }
+                ],
+                "dc:identifier": "DOI:10.1016/j.jss.2014.09.016",
+                "prism:url": "https://api.elsevier.com/content/article/pii/S0164121214002040",
+                "dc:title": "An effective and economical architecture for semantic-based heterogeneous multimedia big data retrieval",
+                "dc:creator": "Kehua Guo",
+                "prism:publicationName": "Journal of Systems and Software",
+                "prism:volume": "102",
+                "prism:coverDate": "2015-04-30",
+                "prism:startingPage": "207",
+                "prism:endingPage": "216",
+                "prism:doi": "10.1016/j.jss.2014.09.016",
+                "openaccess": false,
+                "pii": "S0164121214002040",
+                "authors": {
+                    "author": [
+                        {
+                            "$": "Kehua Guo"
+                        },
+                        {
+                            "$": "Wei Pan"
+                        },
+                        {
+                            "$": "Jianhua Ma"
+                        }
+                    ]
+                }
+            },
+            {
+                "@_fa": "true",
+                "load-date": "2017-04-09T00:00:00.000Z",
+                "link": [
+                    {
+                        "@_fa": "true",
+                        "@ref": "self",
+                        "@href": "https://api.elsevier.com/content/article/pii/S1877750317303113"
+                    },
+                    {
+                        "@_fa": "true",
+                        "@ref": "scidir",
+                        "@href": "https://www.sciencedirect.com/science/article/pii/S1877750317303113?dgcid=api_sd_search-api-endpoint"
+                    }
+                ],
+                "dc:identifier": "DOI:10.1016/j.jocs.2017.03.027",
+                "prism:url": "https://api.elsevier.com/content/article/pii/S1877750317303113",
+                "dc:title": "High performance system based on Cloud and beyond: Jungle Computing",
+                "dc:creator": "Dimitrios Tychalas",
+                "prism:publicationName": "Journal of Computational Science",
+                "prism:volume": "22",
+                "prism:coverDate": "2017-09-30",
+                "prism:startingPage": "131",
+                "prism:endingPage": "147",
+                "prism:doi": "10.1016/j.jocs.2017.03.027",
+                "openaccess": false,
+                "pii": "S1877750317303113",
+                "authors": {
+                    "author": [
+                        {
+                            "$": "Dimitrios Tychalas"
+                        },
+                        {
+                            "$": "Helen Karatza"
+                        }
+                    ]
+                }
+            },
+            {
+                "@_fa": "true",
+                "load-date": "2018-08-16T00:00:00.000Z",
+                "link": [
+                    {
+                        "@_fa": "true",
+                        "@ref": "self",
+                        "@href": "https://api.elsevier.com/content/article/pii/S0167739X18311129"
+                    },
+                    {
+                        "@_fa": "true",
+                        "@ref": "scidir",
+                        "@href": "https://www.sciencedirect.com/science/article/pii/S0167739X18311129?dgcid=api_sd_search-api-endpoint"
+                    }
+                ],
+                "dc:identifier": "DOI:10.1016/j.future.2018.08.015",
+                "prism:url": "https://api.elsevier.com/content/article/pii/S0167739X18311129",
+                "dc:title": "An improved technique for increasing availability in Big Data replication",
+                "dc:creator": "Mostafa R. Kaseb",
+                "prism:publicationName": "Future Generation Computer Systems",
+                "prism:volume": "91",
+                "prism:coverDate": "2019-02-28",
+                "prism:startingPage": "493",
+                "prism:endingPage": "505",
+                "prism:doi": "10.1016/j.future.2018.08.015",
+                "openaccess": false,
+                "pii": "S0167739X18311129",
+                "authors": {
+                    "author": [
+                        {
+                            "$": "Mostafa R. Kaseb"
+                        },
+                        {
+                            "$": "Mohamed H. Khafagy"
+                        },
+                        {
+                            "$": "ElSayed M. Saad"
+                        }
+                    ]
+                }
+            },
+            {
+                "@_fa": "true",
+                "load-date": "2016-02-13T00:00:00.000Z",
+                "link": [
+                    {
+                        "@_fa": "true",
+                        "@ref": "self",
+                        "@href": "https://api.elsevier.com/content/article/pii/S1978301915300322"
+                    },
+                    {
+                        "@_fa": "true",
+                        "@ref": "scidir",
+                        "@href": "https://www.sciencedirect.com/science/article/pii/S1978301915300322?dgcid=api_sd_search-api-endpoint"
+                    }
+                ],
+                "dc:identifier": "DOI:10.1016/j.hjb.2016.01.001",
+                "prism:url": "https://api.elsevier.com/content/article/pii/S1978301915300322",
+                "dc:title": "The Notes on Mammal Carcasses Collected in Pangandaran Nature Reserve, West Java, Indonesia",
+                "dc:creator": "Yamato Tsuji",
+                "prism:publicationName": "HAYATI Journal of Biosciences",
+                "prism:volume": "23",
+                "prism:coverDate": "2016-01-31",
+                "prism:startingPage": "35",
+                "prism:endingPage": "38",
+                "prism:doi": "10.1016/j.hjb.2016.01.001",
+                "openaccess": true,
+                "pii": "S1978301915300322",
+                "authors": {
+                    "author": [
+                        {
+                            "$": "Yamato Tsuji"
+                        },
+                        {
+                            "$": "Bambang Prayitno"
+                        },
+                        {
+                            "$": "Bambang Suryobroto"
+                        }
+                    ]
+                }
+            },
+            {
+                "@_fa": "true",
+                "load-date": "2015-11-11T00:00:00.000Z",
+                "link": [
+                    {
+                        "@_fa": "true",
+                        "@ref": "self",
+                        "@href": "https://api.elsevier.com/content/article/pii/S1470160X15004665"
+                    },
+                    {
+                        "@_fa": "true",
+                        "@ref": "scidir",
+                        "@href": "https://www.sciencedirect.com/science/article/pii/S1470160X15004665?dgcid=api_sd_search-api-endpoint"
+                    }
+                ],
+                "dc:identifier": "DOI:10.1016/j.ecolind.2015.08.034",
+                "prism:url": "https://api.elsevier.com/content/article/pii/S1470160X15004665",
+                "dc:title": "Uncertainty and sensitivity analysis of West Java Water Sustainability Index – A case study on Citarum catchment in Indonesia",
+                "dc:creator": "I. Juwana",
+                "prism:publicationName": "Ecological Indicators",
+                "prism:volume": "61",
+                "prism:coverDate": "2016-02-29",
+                "prism:startingPage": "170",
+                "prism:endingPage": "178",
+                "prism:doi": "10.1016/j.ecolind.2015.08.034",
+                "openaccess": false,
+                "pii": "S1470160X15004665",
+                "authors": {
+                    "author": [
+                        {
+                            "$": "I. Juwana"
+                        },
+                        {
+                            "$": "N. Muttil"
+                        },
+                        {
+                            "$": "B. J. C. Perera"
+                        }
+                    ]
+                }
+            },
+            {
+                "@_fa": "true",
+                "load-date": "2005-11-24T00:00:00.000Z",
+                "link": [
+                    {
+                        "@_fa": "true",
+                        "@ref": "self",
+                        "@href": "https://api.elsevier.com/content/article/pii/S1571066105051522"
+                    },
+                    {
+                        "@_fa": "true",
+                        "@ref": "scidir",
+                        "@href": "https://www.sciencedirect.com/science/article/pii/S1571066105051522?dgcid=api_sd_search-api-endpoint"
+                    }
+                ],
+                "dc:identifier": "DOI:10.1016/j.entcs.2005.02.028",
+                "prism:url": "https://api.elsevier.com/content/article/pii/S1571066105051522",
+                "dc:title": "Kleene Algebra and Bytecode Verification",
+                "dc:creator": "Łucja Kot",
+                "prism:publicationName": "Electronic Notes in Theoretical Computer Science",
+                "prism:volume": "141",
+                "prism:coverDate": "2005-12-05",
+                "prism:startingPage": "221",
+                "prism:endingPage": "236",
+                "prism:doi": "10.1016/j.entcs.2005.02.028",
+                "openaccess": true,
+                "pii": "S1571066105051522",
+                "authors": {
+                    "author": [
+                        {
+                            "$": "Łucja Kot"
+                        },
+                        {
+                            "$": "Dexter Kozen"
+                        }
+                    ]
+                }
+            },
+            {
+                "@_fa": "true",
+                "load-date": "2020-01-17T00:00:00.000Z",
+                "link": [
+                    {
+                        "@_fa": "true",
+                        "@ref": "self",
+                        "@href": "https://api.elsevier.com/content/article/pii/B9780128190616000082"
+                    },
+                    {
+                        "@_fa": "true",
+                        "@ref": "scidir",
+                        "@href": "https://www.sciencedirect.com/science/article/pii/B9780128190616000082?dgcid=api_sd_search-api-endpoint"
+                    }
+                ],
+                "dc:identifier": "DOI:10.1016/B978-0-12-819061-6.00008-2",
+                "prism:url": "https://api.elsevier.com/content/article/pii/B9780128190616000082",
+                "dc:title": "8: Deep learning techniques for optimizing medical big data",
+                "dc:creator": "Muhammad Imran Tariq",
+                "prism:publicationName": "Deep Learning Techniques for Biomedical and Health Informatics",
+                "prism:coverDate": "2020-12-31",
+                "prism:startingPage": "187",
+                "prism:endingPage": "211",
+                "prism:doi": "10.1016/B978-0-12-819061-6.00008-2",
+                "openaccess": false,
+                "pii": "B9780128190616000082",
+                "authors": {
+                    "author": [
+                        {
+                            "$": "Muhammad Imran Tariq"
+                        },
+                        {
+                            "$": "Shahzadi Tayyaba"
+                        },
+                        {
+                            "$": "Valentina Emilia Balas"
+                        }
+                    ]
+                }
+            },
+            {
+                "@_fa": "true",
+                "load-date": "2013-12-05T00:00:00.000Z",
+                "link": [
+                    {
+                        "@_fa": "true",
+                        "@ref": "self",
+                        "@href": "https://api.elsevier.com/content/article/pii/S2212682113000309"
+                    },
+                    {
+                        "@_fa": "true",
+                        "@ref": "scidir",
+                        "@href": "https://www.sciencedirect.com/science/article/pii/S2212682113000309?dgcid=api_sd_search-api-endpoint"
+                    }
+                ],
+                "dc:identifier": "DOI:10.1016/j.imic.2013.10.002",
+                "prism:url": "https://api.elsevier.com/content/article/pii/S2212682113000309",
+                "dc:title": "Contest for hegemony: The dynamics of inland and maritime cultures relations in the history of Java island, Indonesia",
+                "dc:creator": "Singgih Tri Sulistiyono",
+                "prism:publicationName": "Journal of Marine and Island Cultures",
+                "prism:volume": "2",
+                "prism:coverDate": "2013-12-31",
+                "prism:startingPage": "115",
+                "prism:endingPage": "127",
+                "prism:doi": "10.1016/j.imic.2013.10.002",
+                "openaccess": true,
+                "pii": "S2212682113000309",
+                "authors": {
+                    "author": [
+                        {
+                            "$": "Singgih Tri Sulistiyono"
+                        },
+                        {
+                            "$": "Yety Rochwulaningsih"
+                        }
+                    ]
+                }
+            },
+            {
+                "@_fa": "true",
+                "load-date": "2020-01-13T00:00:00.000Z",
+                "link": [
+                    {
+                        "@_fa": "true",
+                        "@ref": "self",
+                        "@href": "https://api.elsevier.com/content/article/pii/S0140366419312319"
+                    },
+                    {
+                        "@_fa": "true",
+                        "@ref": "scidir",
+                        "@href": "https://www.sciencedirect.com/science/article/pii/S0140366419312319?dgcid=api_sd_search-api-endpoint"
+                    }
+                ],
+                "dc:identifier": "DOI:10.1016/j.comcom.2019.12.063",
+                "prism:url": "https://api.elsevier.com/content/article/pii/S0140366419312319",
+                "dc:title": "Techniques Tanimoto correlated feature selection system and hybridization of clustering and boosting ensemble classification of remote sensed big data for weather forecasting",
+                "dc:creator": "Pooja S.B.",
+                "prism:publicationName": "Computer Communications",
+                "prism:volume": "151",
+                "prism:coverDate": "2020-02-01",
+                "prism:startingPage": "266",
+                "prism:endingPage": "274",
+                "prism:doi": "10.1016/j.comcom.2019.12.063",
+                "openaccess": false,
+                "pii": "S0140366419312319",
+                "authors": {
+                    "author": [
+                        {
+                            "$": "Pooja S.B."
+                        },
+                        {
+                            "$": "R. V. Siva Balan"
+                        },
+                        {
+                            "$": "Jothikumar R."
+                        }
+                    ]
+                }
+            },
+            {
+                "@_fa": "true",
+                "load-date": "2011-02-22T00:00:00.000Z",
+                "link": [
+                    {
+                        "@_fa": "true",
+                        "@ref": "self",
+                        "@href": "https://api.elsevier.com/content/article/pii/S1877050910004552"
+                    },
+                    {
+                        "@_fa": "true",
+                        "@ref": "scidir",
+                        "@href": "https://www.sciencedirect.com/science/article/pii/S1877050910004552?dgcid=api_sd_search-api-endpoint"
+                    }
+                ],
+                "dc:identifier": "DOI:10.1016/j.procs.2010.12.080",
+                "prism:url": "https://api.elsevier.com/content/article/pii/S1877050910004552",
+                "dc:title": "Evaluating Java performance for linear algebra numerical computations",
+                "dc:creator": "Bogdan Oancea",
+                "prism:publicationName": "Procedia Computer Science",
+                "prism:volume": "3",
+                "prism:coverDate": "2011-12-31",
+                "prism:startingPage": "474",
+                "prism:endingPage": "478",
+                "prism:doi": "10.1016/j.procs.2010.12.080",
+                "openaccess": true,
+                "pii": "S1877050910004552",
+                "authors": {
+                    "author": [
+                        {
+                            "$": "Bogdan Oancea"
+                        },
+                        {
+                            "$": "Ion Gh. Rosca"
+                        },
+                        {
+                            "$": "Andreea Iluzia Iacob"
+                        }
+                    ]
+                }
+            },
+            {
+                "@_fa": "true",
+                "load-date": "2017-10-03T00:00:00.000Z",
+                "link": [
+                    {
+                        "@_fa": "true",
+                        "@ref": "self",
+                        "@href": "https://api.elsevier.com/content/article/pii/S0040195117304043"
+                    },
+                    {
+                        "@_fa": "true",
+                        "@ref": "scidir",
+                        "@href": "https://www.sciencedirect.com/science/article/pii/S0040195117304043?dgcid=api_sd_search-api-endpoint"
+                    }
+                ],
+                "dc:identifier": "DOI:10.1016/j.tecto.2017.10.003",
+                "prism:url": "https://api.elsevier.com/content/article/pii/S0040195117304043",
+                "dc:title": "Rupture evolution of the 2006 Java tsunami earthquake and the possible role of splay faults",
+                "dc:creator": "Wenyuan Fan",
+                "prism:publicationName": "Tectonophysics",
+                "prism:volume": "721",
+                "prism:coverDate": "2017-11-28",
+                "prism:startingPage": "143",
+                "prism:endingPage": "150",
+                "prism:doi": "10.1016/j.tecto.2017.10.003",
+                "openaccess": false,
+                "pii": "S0040195117304043",
+                "authors": {
+                    "author": [
+                        {
+                            "$": "Wenyuan Fan"
+                        },
+                        {
+                            "$": "Dan Bassett"
+                        },
+                        {
+                            "$": "Chen Ji"
+                        }
+                    ]
+                }
+            },
+            {
+                "@_fa": "true",
+                "load-date": "2019-04-30T00:00:00.000Z",
+                "link": [
+                    {
+                        "@_fa": "true",
+                        "@ref": "self",
+                        "@href": "https://api.elsevier.com/content/article/pii/S0010465519301249"
+                    },
+                    {
+                        "@_fa": "true",
+                        "@ref": "scidir",
+                        "@href": "https://www.sciencedirect.com/science/article/pii/S0010465519301249?dgcid=api_sd_search-api-endpoint"
+                    }
+                ],
+                "dc:identifier": "DOI:10.1016/j.cpc.2019.03.022",
+                "prism:url": "https://api.elsevier.com/content/article/pii/S0010465519301249",
+                "dc:title": "A java application to characterize biomolecules and nanomaterials in electrolyte aqueous solutions",
+                "dc:creator": "Marcelo Marucho",
+                "prism:publicationName": "Computer Physics Communications",
+                "prism:volume": "242",
+                "prism:coverDate": "2019-09-30",
+                "prism:startingPage": "104",
+                "prism:endingPage": "119",
+                "prism:doi": "10.1016/j.cpc.2019.03.022",
+                "openaccess": false,
+                "pii": "S0010465519301249",
+                "authors": {
+                    "author": "Marcelo Marucho"
+                }
+            },
+            {
+                "@_fa": "true",
+                "load-date": "2014-09-17T00:00:00.000Z",
+                "link": [
+                    {
+                        "@_fa": "true",
+                        "@ref": "self",
+                        "@href": "https://api.elsevier.com/content/article/pii/S1877705814010303"
+                    },
+                    {
+                        "@_fa": "true",
+                        "@ref": "scidir",
+                        "@href": "https://www.sciencedirect.com/science/article/pii/S1877705814010303?dgcid=api_sd_search-api-endpoint"
+                    }
+                ],
+                "dc:identifier": "DOI:10.1016/j.proeng.2014.07.043",
+                "prism:url": "https://api.elsevier.com/content/article/pii/S1877705814010303",
+                "dc:title": "Advancing Big Data for Humanitarian Needs",
+                "dc:creator": "Samson Oluwaseun Fadiya",
+                "prism:publicationName": "Procedia Engineering",
+                "prism:volume": "78",
+                "prism:coverDate": "2014-12-31",
+                "prism:startingPage": "88",
+                "prism:endingPage": "95",
+                "prism:doi": "10.1016/j.proeng.2014.07.043",
+                "openaccess": true,
+                "pii": "S1877705814010303",
+                "authors": {
+                    "author": [
+                        {
+                            "$": "Samson Oluwaseun Fadiya"
+                        },
+                        {
+                            "$": "Serdar Saydam"
+                        },
+                        {
+                            "$": "Vanduhe Vany Zira"
+                        }
+                    ]
+                }
+            },
+            {
+                "@_fa": "true",
+                "load-date": "2017-08-08T00:00:00.000Z",
+                "link": [
+                    {
+                        "@_fa": "true",
+                        "@ref": "self",
+                        "@href": "https://api.elsevier.com/content/article/pii/S0743731517301983"
+                    },
+                    {
+                        "@_fa": "true",
+                        "@ref": "scidir",
+                        "@href": "https://www.sciencedirect.com/science/article/pii/S0743731517301983?dgcid=api_sd_search-api-endpoint"
+                    }
+                ],
+                "dc:identifier": "DOI:10.1016/j.jpdc.2017.06.009",
+                "prism:url": "https://api.elsevier.com/content/article/pii/S0743731517301983",
+                "dc:title": "Scalable system scheduling for HPC and big data",
+                "dc:creator": "Albert Reuther",
+                "prism:publicationName": "Journal of Parallel and Distributed Computing",
+                "prism:volume": "111",
+                "prism:coverDate": "2018-01-31",
+                "prism:startingPage": "76",
+                "prism:endingPage": "92",
+                "prism:doi": "10.1016/j.jpdc.2017.06.009",
+                "openaccess": false,
+                "pii": "S0743731517301983",
+                "authors": {
+                    "author": [
+                        {
+                            "$": "Albert Reuther"
+                        },
+                        {
+                            "$": "Chansup Byun"
+                        },
+                        {
+                            "$": "Jeremy Kepner"
+                        }
+                    ]
+                }
+            },
+            {
+                "@_fa": "true",
+                "load-date": "2011-09-01T00:00:00.000Z",
+                "link": [
+                    {
+                        "@_fa": "true",
+                        "@ref": "self",
+                        "@href": "https://api.elsevier.com/content/article/pii/S1477842411000182"
+                    },
+                    {
+                        "@_fa": "true",
+                        "@ref": "scidir",
+                        "@href": "https://www.sciencedirect.com/science/article/pii/S1477842411000182?dgcid=api_sd_search-api-endpoint"
+                    }
+                ],
+                "dc:identifier": "DOI:10.1016/j.cl.2011.08.002",
+                "prism:url": "https://api.elsevier.com/content/article/pii/S1477842411000182",
+                "dc:title": "Java supervenience",
+                "dc:creator": "Juan Rolando Reza",
+                "prism:publicationName": "Computer Languages, Systems & Structures",
+                "prism:volume": "38",
+                "prism:coverDate": "2012-04-30",
+                "prism:startingPage": "73",
+                "prism:endingPage": "97",
+                "prism:doi": "10.1016/j.cl.2011.08.002",
+                "openaccess": false,
+                "pii": "S1477842411000182",
+                "authors": {
+                    "author": "Juan Rolando Reza"
+                }
+            },
+            {
+                "@_fa": "true",
+                "load-date": "2018-06-08T00:00:00.000Z",
+                "link": [
+                    {
+                        "@_fa": "true",
+                        "@ref": "self",
+                        "@href": "https://api.elsevier.com/content/article/pii/S1877050918308391"
+                    },
+                    {
+                        "@_fa": "true",
+                        "@ref": "scidir",
+                        "@href": "https://www.sciencedirect.com/science/article/pii/S1877050918308391?dgcid=api_sd_search-api-endpoint"
+                    }
+                ],
+                "dc:identifier": "DOI:10.1016/j.procs.2018.05.107",
+                "prism:url": "https://api.elsevier.com/content/article/pii/S1877050918308391",
+                "dc:title": "P-FHM+: Parallel high utility itemset mining algorithm for big data processing",
+                "dc:creator": "Krishan Kumar Sethi",
+                "prism:publicationName": "Procedia Computer Science",
+                "prism:volume": "132",
+                "prism:coverDate": "2018-12-31",
+                "prism:startingPage": "918",
+                "prism:endingPage": "927",
+                "prism:doi": "10.1016/j.procs.2018.05.107",
+                "openaccess": true,
+                "pii": "S1877050918308391",
+                "authors": {
+                    "author": [
+                        {
+                            "$": "Krishan Kumar Sethi"
+                        },
+                        {
+                            "$": "Dharavath Ramesh"
+                        },
+                        {
+                            "$": "Damodar Reddy Edla"
+                        }
+                    ]
+                }
+            },
+            {
+                "@_fa": "true",
+                "load-date": "2014-05-27T00:00:00.000Z",
+                "link": [
+                    {
+                        "@_fa": "true",
+                        "@ref": "self",
+                        "@href": "https://api.elsevier.com/content/article/pii/S0167642314002317"
+                    },
+                    {
+                        "@_fa": "true",
+                        "@ref": "scidir",
+                        "@href": "https://www.sciencedirect.com/science/article/pii/S0167642314002317?dgcid=api_sd_search-api-endpoint"
+                    }
+                ],
+                "dc:identifier": "DOI:10.1016/j.scico.2014.05.003",
+                "prism:url": "https://api.elsevier.com/content/article/pii/S0167642314002317",
+                "dc:title": "A meta-circular language for active libraries",
+                "dc:creator": "Marco Servetto",
+                "prism:publicationName": "Science of Computer Programming",
+                "prism:volume": "95",
+                "prism:coverDate": "2014-12-01",
+                "prism:startingPage": "219",
+                "prism:endingPage": "253",
+                "prism:doi": "10.1016/j.scico.2014.05.003",
+                "openaccess": true,
+                "pii": "S0167642314002317",
+                "authors": {
+                    "author": [
+                        {
+                            "$": "Marco Servetto"
+                        },
+                        {
+                            "$": "Elena Zucca"
+                        }
+                    ]
+                }
+            },
+            {
+                "@_fa": "true",
+                "load-date": "2016-05-12T00:00:00.000Z",
+                "link": [
+                    {
+                        "@_fa": "true",
+                        "@ref": "self",
+                        "@href": "https://api.elsevier.com/content/article/pii/S0164121216300437"
+                    },
+                    {
+                        "@_fa": "true",
+                        "@ref": "scidir",
+                        "@href": "https://www.sciencedirect.com/science/article/pii/S0164121216300437?dgcid=api_sd_search-api-endpoint"
+                    }
+                ],
+                "dc:identifier": "DOI:10.1016/j.jss.2016.05.010",
+                "prism:url": "https://api.elsevier.com/content/article/pii/S0164121216300437",
+                "dc:title": "A framework for capturing, statistically modeling and analyzing the evolution of software models",
+                "dc:creator": "Hamed Shariat Yazdi",
+                "prism:publicationName": "Journal of Systems and Software",
+                "prism:volume": "118",
+                "prism:coverDate": "2016-08-31",
+                "prism:startingPage": "176",
+                "prism:endingPage": "207",
+                "prism:doi": "10.1016/j.jss.2016.05.010",
+                "openaccess": false,
+                "pii": "S0164121216300437",
+                "authors": {
+                    "author": [
+                        {
+                            "$": "Hamed Shariat Yazdi"
+                        },
+                        {
+                            "$": "Lefteris Angelis"
+                        },
+                        {
+                            "$": "Udo Kelter"
+                        }
+                    ]
+                }
+            },
+            {
+                "@_fa": "true",
+                "load-date": "2019-03-12T00:00:00.000Z",
+                "link": [
+                    {
+                        "@_fa": "true",
+                        "@ref": "self",
+                        "@href": "https://api.elsevier.com/content/article/pii/S016412121930055X"
+                    },
+                    {
+                        "@_fa": "true",
+                        "@ref": "scidir",
+                        "@href": "https://www.sciencedirect.com/science/article/pii/S016412121930055X?dgcid=api_sd_search-api-endpoint"
+                    }
+                ],
+                "dc:identifier": "DOI:10.1016/j.jss.2019.03.010",
+                "prism:url": "https://api.elsevier.com/content/article/pii/S016412121930055X",
+                "dc:title": "Automatically detecting the scopes of source code comments",
+                "dc:creator": "Huanchao Chen",
+                "prism:publicationName": "Journal of Systems and Software",
+                "prism:volume": "153",
+                "prism:coverDate": "2019-07-31",
+                "prism:startingPage": "45",
+                "prism:endingPage": "63",
+                "prism:doi": "10.1016/j.jss.2019.03.010",
+                "openaccess": true,
+                "pii": "S016412121930055X",
+                "authors": {
+                    "author": [
+                        {
+                            "$": "Huanchao Chen"
+                        },
+                        {
+                            "$": "Yuan Huang"
+                        },
+                        {
+                            "$": "Xiaonan Luo"
+                        }
+                    ]
+                }
+            },
+            {
+                "@_fa": "true",
+                "load-date": "2020-03-18T00:00:00.000Z",
+                "link": [
+                    {
+                        "@_fa": "true",
+                        "@ref": "self",
+                        "@href": "https://api.elsevier.com/content/article/pii/S1877050920301502"
+                    },
+                    {
+                        "@_fa": "true",
+                        "@ref": "scidir",
+                        "@href": "https://www.sciencedirect.com/science/article/pii/S1877050920301502?dgcid=api_sd_search-api-endpoint"
+                    }
+                ],
+                "dc:identifier": "DOI:10.1016/j.procs.2020.02.028",
+                "prism:url": "https://api.elsevier.com/content/article/pii/S1877050920301502",
+                "dc:title": "Design and Implementation of App System for Legal Consulting Based on JAVA Technology",
+                "dc:creator": "Tian Ming Huang",
+                "prism:publicationName": "Procedia Computer Science",
+                "prism:volume": "166",
+                "prism:coverDate": "2020-12-31",
+                "prism:startingPage": "99",
+                "prism:endingPage": "103",
+                "prism:doi": "10.1016/j.procs.2020.02.028",
+                "openaccess": true,
+                "pii": "S1877050920301502",
+                "authors": {
+                    "author": "Tian Ming Huang"
+                }
+            },
+            {
+                "@_fa": "true",
+                "load-date": "1998-09-10T00:00:00.000Z",
+                "link": [
+                    {
+                        "@_fa": "true",
+                        "@ref": "self",
+                        "@href": "https://api.elsevier.com/content/article/pii/S0010465597001707"
+                    },
+                    {
+                        "@_fa": "true",
+                        "@ref": "scidir",
+                        "@href": "https://www.sciencedirect.com/science/article/pii/S0010465597001707?dgcid=api_sd_search-api-endpoint"
+                    }
+                ],
+                "dc:identifier": "DOI:10.1016/S0010-4655(97)00170-7",
+                "prism:url": "https://api.elsevier.com/content/article/pii/S0010465597001707",
+                "dc:title": "WIRED — World-Wide Web Interactive Remote Event Display",
+                "dc:creator": "M. C. Coperchio",
+                "prism:publicationName": "Computer Physics Communications",
+                "prism:volume": "110",
+                "prism:coverDate": "1998-05-31",
+                "prism:startingPage": "155",
+                "prism:endingPage": "159",
+                "prism:doi": "10.1016/S0010-4655(97)00170-7",
+                "openaccess": false,
+                "pii": "S0010465597001707",
+                "authors": {
+                    "author": [
+                        {
+                            "$": "M. C. Coperchio"
+                        },
+                        {
+                            "$": "M. Dönszelmann"
+                        },
+                        {
+                            "$": "N. Smirnov"
+                        }
+                    ]
+                }
+            },
+            {
+                "@_fa": "true",
+                "load-date": "2013-08-24T00:00:00.000Z",
+                "link": [
+                    {
+                        "@_fa": "true",
+                        "@ref": "self",
+                        "@href": "https://api.elsevier.com/content/article/pii/S092054891300086X"
+                    },
+                    {
+                        "@_fa": "true",
+                        "@ref": "scidir",
+                        "@href": "https://www.sciencedirect.com/science/article/pii/S092054891300086X?dgcid=api_sd_search-api-endpoint"
+                    }
+                ],
+                "dc:identifier": "DOI:10.1016/j.csi.2013.08.007",
+                "prism:url": "https://api.elsevier.com/content/article/pii/S092054891300086X",
+                "dc:title": "Using standards to build the DIMAG connected mobile applications framework",
+                "dc:creator": "Patricia Miravet",
+                "prism:publicationName": "Computer Standards & Interfaces",
+                "prism:volume": "36",
+                "prism:coverDate": "2014-02-28",
+                "prism:startingPage": "354",
+                "prism:endingPage": "367",
+                "prism:doi": "10.1016/j.csi.2013.08.007",
+                "openaccess": false,
+                "pii": "S092054891300086X",
+                "authors": {
+                    "author": [
+                        {
+                            "$": "Patricia Miravet"
+                        },
+                        {
+                            "$": "Francisco Ortin"
+                        },
+                        {
+                            "$": "Abel Rionda"
+                        }
+                    ]
+                }
+            },
+            {
+                "@_fa": "true",
+                "load-date": "2018-06-21T00:00:00.000Z",
+                "link": [
+                    {
+                        "@_fa": "true",
+                        "@ref": "self",
+                        "@href": "https://api.elsevier.com/content/article/pii/S0167739X18311270"
+                    },
+                    {
+                        "@_fa": "true",
+                        "@ref": "scidir",
+                        "@href": "https://www.sciencedirect.com/science/article/pii/S0167739X18311270?dgcid=api_sd_search-api-endpoint"
+                    }
+                ],
+                "dc:identifier": "DOI:10.1016/j.future.2018.05.021",
+                "prism:url": "https://api.elsevier.com/content/article/pii/S0167739X18311270",
+                "dc:title": "Emerging trends, issues and challenges in Internet of Things, Big Data and cloud computing",
+                "dc:creator": "Anna Kobusińska",
+                "prism:publicationName": "Future Generation Computer Systems",
+                "prism:volume": "87",
+                "prism:coverDate": "2018-10-31",
+                "prism:startingPage": "416",
+                "prism:endingPage": "419",
+                "prism:doi": "10.1016/j.future.2018.05.021",
+                "openaccess": false,
+                "pii": "S0167739X18311270",
+                "authors": {
+                    "author": [
+                        {
+                            "$": "Anna Kobusińska"
+                        },
+                        {
+                            "$": "Carson Leung"
+                        },
+                        {
+                            "$": "Victor Chang"
+                        }
+                    ]
+                }
+            },
+            {
+                "@_fa": "true",
+                "load-date": "2017-12-13T00:00:00.000Z",
+                "link": [
+                    {
+                        "@_fa": "true",
+                        "@ref": "self",
+                        "@href": "https://api.elsevier.com/content/article/pii/S0045790617315835"
+                    },
+                    {
+                        "@_fa": "true",
+                        "@ref": "scidir",
+                        "@href": "https://www.sciencedirect.com/science/article/pii/S0045790617315835?dgcid=api_sd_search-api-endpoint"
+                    }
+                ],
+                "dc:identifier": "DOI:10.1016/j.compeleceng.2017.12.009",
+                "prism:url": "https://api.elsevier.com/content/article/pii/S0045790617315835",
+                "dc:title": "Deep learning in big data Analytics: A comparative study",
+                "dc:creator": "Bilal Jan",
+                "prism:publicationName": "Computers & Electrical Engineering",
+                "prism:volume": "75",
+                "prism:coverDate": "2019-05-31",
+                "prism:startingPage": "275",
+                "prism:endingPage": "287",
+                "prism:doi": "10.1016/j.compeleceng.2017.12.009",
+                "openaccess": false,
+                "pii": "S0045790617315835",
+                "authors": {
+                    "author": [
+                        {
+                            "$": "Bilal Jan"
+                        },
+                        {
+                            "$": "Haleem Farman"
+                        },
+                        {
+                            "$": "Gwanggil Jeon"
+                        }
+                    ]
+                }
+            },
+            {
+                "@_fa": "true",
+                "load-date": "2022-08-30T00:00:00.000Z",
+                "link": [
+                    {
+                        "@_fa": "true",
+                        "@ref": "self",
+                        "@href": "https://api.elsevier.com/content/article/pii/S1570826822000373"
+                    },
+                    {
+                        "@_fa": "true",
+                        "@ref": "scidir",
+                        "@href": "https://www.sciencedirect.com/science/article/pii/S1570826822000373?dgcid=api_sd_search-api-endpoint"
+                    }
+                ],
+                "dc:identifier": "DOI:10.1016/j.websem.2022.100753",
+                "prism:url": "https://api.elsevier.com/content/article/pii/S1570826822000373",
+                "dc:title": "Declarative RDF graph generation from heterogeneous (semi-)structured data: A systematic literature review",
+                "dc:creator": "Dylan Van Assche",
+                "prism:publicationName": "Journal of Web Semantics",
+                "prism:volume": "75",
+                "prism:coverDate": "2023-01-31",
+                "prism:startingPage": "100753",
+                "prism:doi": "10.1016/j.websem.2022.100753",
+                "openaccess": false,
+                "pii": "S1570826822000373",
+                "authors": {
+                    "author": [
+                        {
+                            "$": "Dylan Van Assche"
+                        },
+                        {
+                            "$": "Thomas Delva"
+                        },
+                        {
+                            "$": "Anastasia Dimou"
+                        }
+                    ]
+                }
+            },
+            {
+                "@_fa": "true",
+                "load-date": "2012-04-06T00:00:00.000Z",
+                "link": [
+                    {
+                        "@_fa": "true",
+                        "@ref": "self",
+                        "@href": "https://api.elsevier.com/content/article/pii/S0012821X12001409"
+                    },
+                    {
+                        "@_fa": "true",
+                        "@ref": "scidir",
+                        "@href": "https://www.sciencedirect.com/science/article/pii/S0012821X12001409?dgcid=api_sd_search-api-endpoint"
+                    }
+                ],
+                "dc:identifier": "DOI:10.1016/j.epsl.2012.03.017",
+                "prism:url": "https://api.elsevier.com/content/article/pii/S0012821X12001409",
+                "dc:title": "Reconstructing Ontong Java Nui: Implications for Pacific absolute plate motion, hotspot drift and true polar wander",
+                "dc:creator": "Michael T. Chandler",
+                "prism:publicationName": "Earth and Planetary Science Letters",
+                "prism:volume": "331–332",
+                "prism:coverDate": "2012-05-15",
+                "prism:startingPage": "140",
+                "prism:endingPage": "151",
+                "prism:doi": "10.1016/j.epsl.2012.03.017",
+                "openaccess": false,
+                "pii": "S0012821X12001409",
+                "authors": {
+                    "author": [
+                        {
+                            "$": "Michael T. Chandler"
+                        },
+                        {
+                            "$": "Paul Wessel"
+                        },
+                        {
+                            "$": "Kiseong Hyeong"
+                        }
+                    ]
+                }
+            },
+            {
+                "@_fa": "true",
+                "load-date": "2018-07-30T00:00:00.000Z",
+                "link": [
+                    {
+                        "@_fa": "true",
+                        "@ref": "self",
+                        "@href": "https://api.elsevier.com/content/article/pii/S1877050918311657"
+                    },
+                    {
+                        "@_fa": "true",
+                        "@ref": "scidir",
+                        "@href": "https://www.sciencedirect.com/science/article/pii/S1877050918311657?dgcid=api_sd_search-api-endpoint"
+                    }
+                ],
+                "dc:identifier": "DOI:10.1016/j.procs.2018.07.200",
+                "prism:url": "https://api.elsevier.com/content/article/pii/S1877050918311657",
+                "dc:title": "Proposal of a Big data System Based on the Recommendation and Profiling Techniques for an Intelligent Management of Moroccan Tourism",
+                "dc:creator": "Oumayma Boulaalam",
+                "prism:publicationName": "Procedia Computer Science",
+                "prism:volume": "134",
+                "prism:coverDate": "2018-12-31",
+                "prism:startingPage": "346",
+                "prism:endingPage": "351",
+                "prism:doi": "10.1016/j.procs.2018.07.200",
+                "openaccess": true,
+                "pii": "S1877050918311657",
+                "authors": {
+                    "author": [
+                        {
+                            "$": "Oumayma Boulaalam"
+                        },
+                        {
+                            "$": "Badraddine Aghoutane"
+                        },
+                        {
+                            "$": "Mahamed Laghdaf Cheikh Malinine"
+                        }
+                    ]
+                }
+            },
+            {
+                "@_fa": "true",
+                "load-date": "2021-06-18T00:00:00.000Z",
+                "link": [
+                    {
+                        "@_fa": "true",
+                        "@ref": "self",
+                        "@href": "https://api.elsevier.com/content/article/pii/S0098300421001394"
+                    },
+                    {
+                        "@_fa": "true",
+                        "@ref": "scidir",
+                        "@href": "https://www.sciencedirect.com/science/article/pii/S0098300421001394?dgcid=api_sd_search-api-endpoint"
+                    }
+                ],
+                "dc:identifier": "DOI:10.1016/j.cageo.2021.104841",
+                "prism:url": "https://api.elsevier.com/content/article/pii/S0098300421001394",
+                "dc:title": "An adaptively multi-attribute index framework for big IoT data",
+                "dc:creator": "Chih-Yuan Huang",
+                "prism:publicationName": "Computers & Geosciences",
+                "prism:volume": "155",
+                "prism:coverDate": "2021-10-31",
+                "prism:startingPage": "104841",
+                "prism:doi": "10.1016/j.cageo.2021.104841",
+                "openaccess": true,
+                "pii": "S0098300421001394",
+                "authors": {
+                    "author": [
+                        {
+                            "$": "Chih-Yuan Huang"
+                        },
+                        {
+                            "$": "Yu-Jui Chang"
+                        }
+                    ]
+                }
+            },
+            {
+                "@_fa": "true",
+                "load-date": "2012-02-26T00:00:00.000Z",
+                "link": [
+                    {
+                        "@_fa": "true",
+                        "@ref": "self",
+                        "@href": "https://api.elsevier.com/content/article/pii/S0167642312000299"
+                    },
+                    {
+                        "@_fa": "true",
+                        "@ref": "scidir",
+                        "@href": "https://www.sciencedirect.com/science/article/pii/S0167642312000299?dgcid=api_sd_search-api-endpoint"
+                    }
+                ],
+                "dc:identifier": "DOI:10.1016/j.scico.2012.02.004",
+                "prism:url": "https://api.elsevier.com/content/article/pii/S0167642312000299",
+                "dc:title": "JBInsTrace: A tracer of Java and JRE classes at basic-block granularity by dynamically instrumenting bytecode",
+                "dc:creator": "Pierre Caserta",
+                "prism:publicationName": "Science of Computer Programming",
+                "prism:volume": "79",
+                "prism:coverDate": "2014-01-01",
+                "prism:startingPage": "116",
+                "prism:endingPage": "125",
+                "prism:doi": "10.1016/j.scico.2012.02.004",
+                "openaccess": true,
+                "pii": "S0167642312000299",
+                "authors": {
+                    "author": [
+                        {
+                            "$": "Pierre Caserta"
+                        },
+                        {
+                            "$": "Olivier Zendra"
+                        }
+                    ]
+                }
+            },
+            {
+                "@_fa": "true",
+                "load-date": "2020-07-27T00:00:00.000Z",
+                "link": [
+                    {
+                        "@_fa": "true",
+                        "@ref": "self",
+                        "@href": "https://api.elsevier.com/content/article/pii/S2405844020313165"
+                    },
+                    {
+                        "@_fa": "true",
+                        "@ref": "scidir",
+                        "@href": "https://www.sciencedirect.com/science/article/pii/S2405844020313165?dgcid=api_sd_search-api-endpoint"
+                    }
+                ],
+                "dc:identifier": "DOI:10.1016/j.heliyon.2020.e04472",
+                "prism:url": "https://api.elsevier.com/content/article/pii/S2405844020313165",
+                "dc:title": "Breadth and depth outreach of Islamic cooperatives: do size, non-performing finance, and grant matter?",
+                "dc:creator": " Wasiaturrahma",
+                "prism:publicationName": "Heliyon",
+                "prism:volume": "6",
+                "prism:coverDate": "2020-07-31",
+                "prism:startingPage": "e04472",
+                "prism:doi": "10.1016/j.heliyon.2020.e04472",
+                "openaccess": true,
+                "pii": "S2405844020313165",
+                "authors": {
+                    "author": [
+                        {
+                            "$": " Wasiaturrahma"
+                        },
+                        {
+                            "$": "Shochrul Rohmatul Ajija"
+                        },
+                        {
+                            "$": "Ahmad Hudaifah"
+                        }
+                    ]
+                }
+            },
+            {
+                "@_fa": "true",
+                "load-date": "2015-03-31T00:00:00.000Z",
+                "link": [
+                    {
+                        "@_fa": "true",
+                        "@ref": "self",
+                        "@href": "https://api.elsevier.com/content/article/pii/S138376211500017X"
+                    },
+                    {
+                        "@_fa": "true",
+                        "@ref": "scidir",
+                        "@href": "https://www.sciencedirect.com/science/article/pii/S138376211500017X?dgcid=api_sd_search-api-endpoint"
+                    }
+                ],
+                "dc:identifier": "DOI:10.1016/j.sysarc.2015.03.003",
+                "prism:url": "https://api.elsevier.com/content/article/pii/S138376211500017X",
+                "dc:title": "A library for developing real-time and embedded applications in C",
+                "dc:creator": "Pablo Basanta-Val",
+                "prism:publicationName": "Journal of Systems Architecture",
+                "prism:volume": "61",
+                "prism:coverDate": "2015-06-30",
+                "prism:startingPage": "239",
+                "prism:endingPage": "255",
+                "prism:doi": "10.1016/j.sysarc.2015.03.003",
+                "openaccess": false,
+                "pii": "S138376211500017X",
+                "authors": {
+                    "author": [
+                        {
+                            "$": "Pablo Basanta-Val"
+                        },
+                        {
+                            "$": "Marisol García-Valls"
+                        }
+                    ]
+                }
+            },
+            {
+                "@_fa": "true",
+                "load-date": "2020-03-27T00:00:00.000Z",
+                "link": [
+                    {
+                        "@_fa": "true",
+                        "@ref": "self",
+                        "@href": "https://api.elsevier.com/content/article/pii/S0303243419304672"
+                    },
+                    {
+                        "@_fa": "true",
+                        "@ref": "scidir",
+                        "@href": "https://www.sciencedirect.com/science/article/pii/S0303243419304672?dgcid=api_sd_search-api-endpoint"
+                    }
+                ],
+                "dc:identifier": "DOI:10.1016/j.jag.2020.102093",
+                "prism:url": "https://api.elsevier.com/content/article/pii/S0303243419304672",
+                "dc:title": "Satellite-derived rainfall thresholds for landslide early warning in Bogowonto Catchment, Central Java, Indonesia",
+                "dc:creator": "Elias E. Chikalamo",
+                "prism:publicationName": "International Journal of Applied Earth Observation and Geoinformation",
+                "prism:volume": "89",
+                "prism:coverDate": "2020-07-31",
+                "prism:startingPage": "102093",
+                "prism:doi": "10.1016/j.jag.2020.102093",
+                "openaccess": true,
+                "pii": "S0303243419304672",
+                "authors": {
+                    "author": [
+                        {
+                            "$": "Elias E. Chikalamo"
+                        },
+                        {
+                            "$": "Olga C. Mavrouli"
+                        },
+                        {
+                            "$": "Akhyar Mustofa"
+                        }
+                    ]
+                }
+            },
+            {
+                "@_fa": "true",
+                "load-date": "2011-07-30T00:00:00.000Z",
+                "link": [
+                    {
+                        "@_fa": "true",
+                        "@ref": "self",
+                        "@href": "https://api.elsevier.com/content/article/pii/S0304397511006190"
+                    },
+                    {
+                        "@_fa": "true",
+                        "@ref": "scidir",
+                        "@href": "https://www.sciencedirect.com/science/article/pii/S0304397511006190?dgcid=api_sd_search-api-endpoint"
+                    }
+                ],
+                "dc:identifier": "DOI:10.1016/j.tcs.2011.07.009",
+                "prism:url": "https://api.elsevier.com/content/article/pii/S0304397511006190",
+                "dc:title": "Cost analysis of object-oriented bytecode programs",
+                "dc:creator": "Elvira Albert",
+                "prism:publicationName": "Theoretical Computer Science",
+                "prism:volume": "413",
+                "prism:coverDate": "2012-01-06",
+                "prism:startingPage": "142",
+                "prism:endingPage": "159",
+                "prism:doi": "10.1016/j.tcs.2011.07.009",
+                "openaccess": true,
+                "pii": "S0304397511006190",
+                "authors": {
+                    "author": [
+                        {
+                            "$": "Elvira Albert"
+                        },
+                        {
+                            "$": "Puri Arenas"
+                        },
+                        {
+                            "$": "Damiano Zanardini"
+                        }
+                    ]
+                }
+            },
+            {
+                "@_fa": "true",
+                "load-date": "2018-09-06T00:00:00.000Z",
+                "link": [
+                    {
+                        "@_fa": "true",
+                        "@ref": "self",
+                        "@href": "https://api.elsevier.com/content/article/pii/S0950584918301903"
+                    },
+                    {
+                        "@_fa": "true",
+                        "@ref": "scidir",
+                        "@href": "https://www.sciencedirect.com/science/article/pii/S0950584918301903?dgcid=api_sd_search-api-endpoint"
+                    }
+                ],
+                "dc:identifier": "DOI:10.1016/j.infsof.2018.09.002",
+                "prism:url": "https://api.elsevier.com/content/article/pii/S0950584918301903",
+                "dc:title": "Cognitive complexity as a quantifier of version to version Java-based source code change: An empirical probe",
+                "dc:creator": "Loveleen Kaur",
+                "prism:publicationName": "Information and Software Technology",
+                "prism:volume": "106",
+                "prism:coverDate": "2019-02-28",
+                "prism:startingPage": "31",
+                "prism:endingPage": "48",
+                "prism:doi": "10.1016/j.infsof.2018.09.002",
+                "openaccess": false,
+                "pii": "S0950584918301903",
+                "authors": {
+                    "author": [
+                        {
+                            "$": "Loveleen Kaur"
+                        },
+                        {
+                            "$": "Ashutosh Mishra"
+                        }
+                    ]
+                }
+            },
+            {
+                "@_fa": "true",
+                "load-date": "2018-09-22T00:00:00.000Z",
+                "link": [
+                    {
+                        "@_fa": "true",
+                        "@ref": "self",
+                        "@href": "https://api.elsevier.com/content/article/pii/S0272771417303463"
+                    },
+                    {
+                        "@_fa": "true",
+                        "@ref": "scidir",
+                        "@href": "https://www.sciencedirect.com/science/article/pii/S0272771417303463?dgcid=api_sd_search-api-endpoint"
+                    }
+                ],
+                "dc:identifier": "DOI:10.1016/j.ecss.2018.09.022",
+                "prism:url": "https://api.elsevier.com/content/article/pii/S0272771417303463",
+                "dc:title": "Mapping soil carbon stocks in an oceanic mangrove ecosystem in Karimunjawa Islands, Indonesia",
+                "dc:creator": "Udo Nehren",
+                "prism:publicationName": "Estuarine, Coastal and Shelf Science",
+                "prism:volume": "214",
+                "prism:coverDate": "2018-12-15",
+                "prism:startingPage": "185",
+                "prism:endingPage": "193",
+                "prism:doi": "10.1016/j.ecss.2018.09.022",
+                "openaccess": false,
+                "pii": "S0272771417303463",
+                "authors": {
+                    "author": [
+                        {
+                            "$": "Udo Nehren"
+                        },
+                        {
+                            "$": "Pramaditya Wicaksono"
+                        }
+                    ]
+                }
+            },
+            {
+                "@_fa": "true",
+                "load-date": "2016-09-04T00:00:00.000Z",
+                "link": [
+                    {
+                        "@_fa": "true",
+                        "@ref": "self",
+                        "@href": "https://api.elsevier.com/content/article/pii/S1877050916318907"
+                    },
+                    {
+                        "@_fa": "true",
+                        "@ref": "scidir",
+                        "@href": "https://www.sciencedirect.com/science/article/pii/S1877050916318907?dgcid=api_sd_search-api-endpoint"
+                    }
+                ],
+                "dc:identifier": "DOI:10.1016/j.procs.2016.08.099",
+                "prism:url": "https://api.elsevier.com/content/article/pii/S1877050916318907",
+                "dc:title": "Big Data Integration: A MongoDB Database and Modular Ontologies based Approach",
+                "dc:creator": "Hanen Abbes",
+                "prism:publicationName": "Procedia Computer Science",
+                "prism:volume": "96",
+                "prism:coverDate": "2016-12-31",
+                "prism:startingPage": "446",
+                "prism:endingPage": "455",
+                "prism:doi": "10.1016/j.procs.2016.08.099",
+                "openaccess": true,
+                "pii": "S1877050916318907",
+                "authors": {
+                    "author": [
+                        {
+                            "$": "Hanen Abbes"
+                        },
+                        {
+                            "$": "Faiez Gargouri"
+                        }
+                    ]
+                }
+            },
+            {
+                "@_fa": "true",
+                "load-date": "2016-03-10T00:00:00.000Z",
+                "link": [
+                    {
+                        "@_fa": "true",
+                        "@ref": "self",
+                        "@href": "https://api.elsevier.com/content/article/pii/S0022000016000209"
+                    },
+                    {
+                        "@_fa": "true",
+                        "@ref": "scidir",
+                        "@href": "https://www.sciencedirect.com/science/article/pii/S0022000016000209?dgcid=api_sd_search-api-endpoint"
+                    }
+                ],
+                "dc:identifier": "DOI:10.1016/j.jcss.2016.02.005",
+                "prism:url": "https://api.elsevier.com/content/article/pii/S0022000016000209",
+                "dc:title": "A dynamic prime number based efficient security mechanism for big sensing data streams",
+                "dc:creator": "Deepak Puthal",
+                "prism:publicationName": "Journal of Computer and System Sciences",
+                "prism:volume": "83",
+                "prism:coverDate": "2017-02-28",
+                "prism:startingPage": "22",
+                "prism:endingPage": "42",
+                "prism:doi": "10.1016/j.jcss.2016.02.005",
+                "openaccess": true,
+                "pii": "S0022000016000209",
+                "authors": {
+                    "author": [
+                        {
+                            "$": "Deepak Puthal"
+                        },
+                        {
+                            "$": "Surya Nepal"
+                        },
+                        {
+                            "$": "Jinjun Chen"
+                        }
+                    ]
+                }
+            },
+            {
+                "@_fa": "true",
+                "load-date": "2021-04-17T00:00:00.000Z",
+                "link": [
+                    {
+                        "@_fa": "true",
+                        "@ref": "self",
+                        "@href": "https://api.elsevier.com/content/article/pii/S2665963821000208"
+                    },
+                    {
+                        "@_fa": "true",
+                        "@ref": "scidir",
+                        "@href": "https://www.sciencedirect.com/science/article/pii/S2665963821000208?dgcid=api_sd_search-api-endpoint"
+                    }
+                ],
+                "dc:identifier": "DOI:10.1016/j.simpa.2021.100072",
+                "prism:url": "https://api.elsevier.com/content/article/pii/S2665963821000208",
+                "dc:title": "Java application for cytoskeleton filament characterization (JACFC)",
+                "dc:creator": "Marcelo Marucho",
+                "prism:publicationName": "Software Impacts",
+                "prism:volume": "8",
+                "prism:coverDate": "2021-05-31",
+                "prism:startingPage": "100072",
+                "prism:doi": "10.1016/j.simpa.2021.100072",
+                "openaccess": true,
+                "pii": "S2665963821000208",
+                "authors": {
+                    "author": "Marcelo Marucho"
+                }
+            },
+            {
+                "@_fa": "true",
+                "load-date": "2013-12-16T00:00:00.000Z",
+                "link": [
+                    {
+                        "@_fa": "true",
+                        "@ref": "self",
+                        "@href": "https://api.elsevier.com/content/article/pii/S1571066113000765"
+                    },
+                    {
+                        "@_fa": "true",
+                        "@ref": "scidir",
+                        "@href": "https://www.sciencedirect.com/science/article/pii/S1571066113000765?dgcid=api_sd_search-api-endpoint"
+                    }
+                ],
+                "dc:identifier": "DOI:10.1016/j.entcs.2013.11.005",
+                "prism:url": "https://api.elsevier.com/content/article/pii/S1571066113000765",
+                "dc:title": "PMG: Multi-core Metabolite Identification",
+                "dc:creator": "Mohammad Mahdi Jaghoori",
+                "prism:publicationName": "Electronic Notes in Theoretical Computer Science",
+                "prism:volume": "299",
+                "prism:coverDate": "2013-12-25",
+                "prism:startingPage": "53",
+                "prism:endingPage": "60",
+                "prism:doi": "10.1016/j.entcs.2013.11.005",
+                "openaccess": true,
+                "pii": "S1571066113000765",
+                "authors": {
+                    "author": [
+                        {
+                            "$": "Mohammad Mahdi Jaghoori"
+                        },
+                        {
+                            "$": "Sung-Shik T. Q. Jongmans"
+                        },
+                        {
+                            "$": "Thomas Hankemeier"
+                        }
+                    ]
+                }
+            },
+            {
+                "@_fa": "true",
+                "load-date": "2017-07-20T00:00:00.000Z",
+                "link": [
+                    {
+                        "@_fa": "true",
+                        "@ref": "self",
+                        "@href": "https://api.elsevier.com/content/article/pii/S003206331630383X"
+                    },
+                    {
+                        "@_fa": "true",
+                        "@ref": "scidir",
+                        "@href": "https://www.sciencedirect.com/science/article/pii/S003206331630383X?dgcid=api_sd_search-api-endpoint"
+                    }
+                ],
+                "dc:identifier": "DOI:10.1016/j.pss.2017.07.007",
+                "prism:url": "https://api.elsevier.com/content/article/pii/S003206331630383X",
+                "dc:title": "Science data visualization in planetary and heliospheric contexts with 3DView",
+                "dc:creator": "V. Génot",
+                "prism:publicationName": "Planetary and Space Science",
+                "prism:volume": "150",
+                "prism:coverDate": "2018-01-31",
+                "prism:startingPage": "111",
+                "prism:endingPage": "130",
+                "prism:doi": "10.1016/j.pss.2017.07.007",
+                "openaccess": true,
+                "pii": "S003206331630383X",
+                "authors": {
+                    "author": [
+                        {
+                            "$": "V. Génot"
+                        },
+                        {
+                            "$": "L. Beigbeder"
+                        },
+                        {
+                            "$": "E. Budnik"
+                        }
+                    ]
+                }
+            },
+            {
+                "@_fa": "true",
+                "load-date": "2012-09-12T00:00:00.000Z",
+                "link": [
+                    {
+                        "@_fa": "true",
+                        "@ref": "self",
+                        "@href": "https://api.elsevier.com/content/article/pii/S1571066112000291"
+                    },
+                    {
+                        "@_fa": "true",
+                        "@ref": "scidir",
+                        "@href": "https://www.sciencedirect.com/science/article/pii/S1571066112000291?dgcid=api_sd_search-api-endpoint"
+                    }
+                ],
+                "dc:identifier": "DOI:10.1016/j.entcs.2012.06.009",
+                "prism:url": "https://api.elsevier.com/content/article/pii/S1571066112000291",
+                "dc:title": "Asynchronous Proof Processing with Isabelle/Scala and Isabelle/jEdit",
+                "dc:creator": "Makarius Wenzel",
+                "prism:publicationName": "Electronic Notes in Theoretical Computer Science",
+                "prism:volume": "285",
+                "prism:coverDate": "2012-09-19",
+                "prism:startingPage": "101",
+                "prism:endingPage": "114",
+                "prism:doi": "10.1016/j.entcs.2012.06.009",
+                "openaccess": true,
+                "pii": "S1571066112000291",
+                "authors": {
+                    "author": "Makarius Wenzel"
+                }
+            },
+            {
+                "@_fa": "true",
+                "load-date": "2021-03-13T00:00:00.000Z",
+                "link": [
+                    {
+                        "@_fa": "true",
+                        "@ref": "self",
+                        "@href": "https://api.elsevier.com/content/article/pii/S0957417421002815"
+                    },
+                    {
+                        "@_fa": "true",
+                        "@ref": "scidir",
+                        "@href": "https://www.sciencedirect.com/science/article/pii/S0957417421002815?dgcid=api_sd_search-api-endpoint"
+                    }
+                ],
+                "dc:identifier": "DOI:10.1016/j.eswa.2021.114840",
+                "prism:url": "https://api.elsevier.com/content/article/pii/S0957417421002815",
+                "dc:title": "Big data analytics for default prediction using graph theory",
+                "dc:creator": "Mustafa Yıldırım",
+                "prism:publicationName": "Expert Systems with Applications",
+                "prism:volume": "176",
+                "prism:coverDate": "2021-08-15",
+                "prism:startingPage": "114840",
+                "prism:doi": "10.1016/j.eswa.2021.114840",
+                "openaccess": false,
+                "pii": "S0957417421002815",
+                "authors": {
+                    "author": [
+                        {
+                            "$": "Mustafa Yıldırım"
+                        },
+                        {
+                            "$": "Feyza Yıldırım Okay"
+                        },
+                        {
+                            "$": "Suat Özdemir"
+                        }
+                    ]
+                }
+            },
+            {
+                "@_fa": "true",
+                "load-date": "2021-01-22T00:00:00.000Z",
+                "link": [
+                    {
+                        "@_fa": "true",
+                        "@ref": "self",
+                        "@href": "https://api.elsevier.com/content/article/pii/B9780128164372000173"
+                    },
+                    {
+                        "@_fa": "true",
+                        "@ref": "scidir",
+                        "@href": "https://www.sciencedirect.com/science/article/pii/B9780128164372000173?dgcid=api_sd_search-api-endpoint"
+                    }
+                ],
+                "dc:identifier": "DOI:10.1016/B978-0-12-816437-2.00017-3",
+                "prism:url": "https://api.elsevier.com/content/article/pii/B9780128164372000173",
+                "dc:title": "Chapter 16: Relevance of allochthonous input from an agriculture-dominated hinterland for “Blue Carbon” storage in mangrove sediments in Java, Indonesia",
+                "dc:creator": "Tim C. Jennerjahn",
+                "prism:publicationName": "Dynamic Sedimentary Environments of Mangrove Coasts",
+                "prism:coverDate": "2021-12-31",
+                "prism:startingPage": "393",
+                "prism:endingPage": "414",
+                "prism:doi": "10.1016/B978-0-12-816437-2.00017-3",
+                "openaccess": false,
+                "pii": "B9780128164372000173",
+                "authors": {
+                    "author": "Tim C. Jennerjahn"
+                }
+            },
+            {
+                "@_fa": "true",
+                "load-date": "2021-04-16T00:00:00.000Z",
+                "link": [
+                    {
+                        "@_fa": "true",
+                        "@ref": "self",
+                        "@href": "https://api.elsevier.com/content/article/pii/S002002552100325X"
+                    },
+                    {
+                        "@_fa": "true",
+                        "@ref": "scidir",
+                        "@href": "https://www.sciencedirect.com/science/article/pii/S002002552100325X?dgcid=api_sd_search-api-endpoint"
+                    }
+                ],
+                "dc:identifier": "DOI:10.1016/j.ins.2021.04.004",
+                "prism:url": "https://api.elsevier.com/content/article/pii/S002002552100325X",
+                "dc:title": "MR-MVPP: A map-reduce-based approach for creating MVPP in data warehouses for big data applications",
+                "dc:creator": "Hossein Azgomi",
+                "prism:publicationName": "Information Sciences",
+                "prism:volume": "570",
+                "prism:coverDate": "2021-09-30",
+                "prism:startingPage": "200",
+                "prism:endingPage": "224",
+                "prism:doi": "10.1016/j.ins.2021.04.004",
+                "openaccess": false,
+                "pii": "S002002552100325X",
+                "authors": {
+                    "author": [
+                        {
+                            "$": "Hossein Azgomi"
+                        },
+                        {
+                            "$": "Mohammad Karim Sohrabi"
+                        }
+                    ]
+                }
+            },
+            {
+                "@_fa": "true",
+                "load-date": "2022-02-22T00:00:00.000Z",
+                "link": [
+                    {
+                        "@_fa": "true",
+                        "@ref": "self",
+                        "@href": "https://api.elsevier.com/content/article/pii/S0035159822000046"
+                    },
+                    {
+                        "@_fa": "true",
+                        "@ref": "scidir",
+                        "@href": "https://www.sciencedirect.com/science/article/pii/S0035159822000046?dgcid=api_sd_search-api-endpoint"
+                    }
+                ],
+                "dc:identifier": "DOI:10.1016/j.revmic.2022.100608",
+                "prism:url": "https://api.elsevier.com/content/article/pii/S0035159822000046",
+                "dc:title": "Morphological evolution of menardiform globorotalids at Western Pacific Warm Pool ODP Hole 806C (Ontong-Java Plateau) Evolution morphologique du groupe de <ce:italic>Globorotalia menardii</ce:italic> au Site ODP 806C (Ontong-Java Plateau, Pacifique tropical occidental)",
+                "dc:creator": "Michael Knappertsbusch",
+                "prism:publicationName": "Revue de Micropaléontologie",
+                "prism:volume": "74",
+                "prism:coverDate": "2022-04-30",
+                "prism:startingPage": "100608",
+                "prism:doi": "10.1016/j.revmic.2022.100608",
+                "openaccess": false,
+                "pii": "S0035159822000046",
+                "authors": {
+                    "author": "Michael Knappertsbusch"
+                }
+            },
+            {
+                "@_fa": "true",
+                "load-date": "2021-03-06T00:00:00.000Z",
+                "link": [
+                    {
+                        "@_fa": "true",
+                        "@ref": "self",
+                        "@href": "https://api.elsevier.com/content/article/pii/S0164121221000339"
+                    },
+                    {
+                        "@_fa": "true",
+                        "@ref": "scidir",
+                        "@href": "https://www.sciencedirect.com/science/article/pii/S0164121221000339?dgcid=api_sd_search-api-endpoint"
+                    }
+                ],
+                "dc:identifier": "DOI:10.1016/j.jss.2021.110936",
+                "prism:url": "https://api.elsevier.com/content/article/pii/S0164121221000339",
+                "dc:title": "Code smell detection by deep direct-learning and transfer-learning",
+                "dc:creator": "Tushar Sharma",
+                "prism:publicationName": "Journal of Systems and Software",
+                "prism:volume": "176",
+                "prism:coverDate": "2021-06-30",
+                "prism:startingPage": "110936",
+                "prism:doi": "10.1016/j.jss.2021.110936",
+                "openaccess": false,
+                "pii": "S0164121221000339",
+                "authors": {
+                    "author": [
+                        {
+                            "$": "Tushar Sharma"
+                        },
+                        {
+                            "$": "Vasiliki Efstathiou"
+                        },
+                        {
+                            "$": "Diomidis Spinellis"
+                        }
+                    ]
+                }
+            },
+            {
+                "@_fa": "true",
+                "load-date": "2003-11-26T00:00:00.000Z",
+                "link": [
+                    {
+                        "@_fa": "true",
+                        "@ref": "self",
+                        "@href": "https://api.elsevier.com/content/article/pii/S1383762103001607"
+                    },
+                    {
+                        "@_fa": "true",
+                        "@ref": "scidir",
+                        "@href": "https://www.sciencedirect.com/science/article/pii/S1383762103001607?dgcid=api_sd_search-api-endpoint"
+                    }
+                ],
+                "dc:identifier": "DOI:10.1016/j.sysarc.2003.09.005",
+                "prism:url": "https://api.elsevier.com/content/article/pii/S1383762103001607",
+                "dc:title": "Measures for mobile users: an architecture",
+                "dc:creator": "Alberto Sillitti",
+                "prism:publicationName": "Journal of Systems Architecture",
+                "prism:volume": "50",
+                "prism:coverDate": "2004-07-31",
+                "prism:startingPage": "393",
+                "prism:endingPage": "405",
+                "prism:doi": "10.1016/j.sysarc.2003.09.005",
+                "openaccess": false,
+                "pii": "S1383762103001607",
+                "authors": {
+                    "author": [
+                        {
+                            "$": "Alberto Sillitti"
+                        },
+                        {
+                            "$": "Andrea Janes"
+                        },
+                        {
+                            "$": "Tullio Vernazza"
+                        }
+                    ]
+                }
+            },
+            {
+                "@_fa": "true",
+                "load-date": "2022-06-08T00:00:00.000Z",
+                "link": [
+                    {
+                        "@_fa": "true",
+                        "@ref": "self",
+                        "@href": "https://api.elsevier.com/content/article/pii/S0962629822000890"
+                    },
+                    {
+                        "@_fa": "true",
+                        "@ref": "scidir",
+                        "@href": "https://www.sciencedirect.com/science/article/pii/S0962629822000890?dgcid=api_sd_search-api-endpoint"
+                    }
+                ],
+                "dc:identifier": "DOI:10.1016/j.polgeo.2022.102675",
+                "prism:url": "https://api.elsevier.com/content/article/pii/S0962629822000890",
+                "dc:title": "Contested subterranean territory: Gold mining and competing claims to Indonesia’s underground",
+                "dc:creator": "Matthew Libassi",
+                "prism:publicationName": "Political Geography",
+                "prism:volume": "98",
+                "prism:coverDate": "2022-10-31",
+                "prism:startingPage": "102675",
+                "prism:doi": "10.1016/j.polgeo.2022.102675",
+                "openaccess": false,
+                "pii": "S0962629822000890",
+                "authors": {
+                    "author": "Matthew Libassi"
+                }
+            },
+            {
+                "@_fa": "true",
+                "load-date": "2019-11-15T00:00:00.000Z",
+                "link": [
+                    {
+                        "@_fa": "true",
+                        "@ref": "self",
+                        "@href": "https://api.elsevier.com/content/article/pii/S2590198219300703"
+                    },
+                    {
+                        "@_fa": "true",
+                        "@ref": "scidir",
+                        "@href": "https://www.sciencedirect.com/science/article/pii/S2590198219300703?dgcid=api_sd_search-api-endpoint"
+                    }
+                ],
+                "dc:identifier": "DOI:10.1016/j.trip.2019.100071",
+                "prism:url": "https://api.elsevier.com/content/article/pii/S2590198219300703",
+                "dc:title": "An adaptive big data weather system for surface transportation",
+                "dc:creator": "Amanda R. Siems-Anderson",
+                "prism:publicationName": "Transportation Research Interdisciplinary Perspectives",
+                "prism:volume": "3",
+                "prism:coverDate": "2019-12-31",
+                "prism:startingPage": "100071",
+                "prism:doi": "10.1016/j.trip.2019.100071",
+                "openaccess": true,
+                "pii": "S2590198219300703",
+                "authors": {
+                    "author": [
+                        {
+                            "$": "Amanda R. Siems-Anderson"
+                        },
+                        {
+                            "$": "Curtis L. Walker"
+                        },
+                        {
+                            "$": "Sue Ellen Haupt"
+                        }
+                    ]
+                }
+            },
+            {
+                "@_fa": "true",
+                "load-date": "2019-05-14T00:00:00.000Z",
+                "link": [
+                    {
+                        "@_fa": "true",
+                        "@ref": "self",
+                        "@href": "https://api.elsevier.com/content/article/pii/S0166361518306808"
+                    },
+                    {
+                        "@_fa": "true",
+                        "@ref": "scidir",
+                        "@href": "https://www.sciencedirect.com/science/article/pii/S0166361518306808?dgcid=api_sd_search-api-endpoint"
+                    }
+                ],
+                "dc:identifier": "DOI:10.1016/j.compind.2019.03.005",
+                "prism:url": "https://api.elsevier.com/content/article/pii/S0166361518306808",
+                "dc:title": "A cloud-based framework for shop floor big data management and elastic computing analytics",
+                "dc:creator": "German Terrazas",
+                "prism:publicationName": "Computers in Industry",
+                "prism:volume": "109",
+                "prism:coverDate": "2019-08-31",
+                "prism:startingPage": "204",
+                "prism:endingPage": "214",
+                "prism:doi": "10.1016/j.compind.2019.03.005",
+                "openaccess": false,
+                "pii": "S0166361518306808",
+                "authors": {
+                    "author": [
+                        {
+                            "$": "German Terrazas"
+                        },
+                        {
+                            "$": "Nicolas Ferry"
+                        },
+                        {
+                            "$": "Svetan Ratchev"
+                        }
+                    ]
+                }
+            },
+            {
+                "@_fa": "true",
+                "load-date": "2015-05-08T00:00:00.000Z",
+                "link": [
+                    {
+                        "@_fa": "true",
+                        "@ref": "self",
+                        "@href": "https://api.elsevier.com/content/article/pii/S1877050915005931"
+                    },
+                    {
+                        "@_fa": "true",
+                        "@ref": "scidir",
+                        "@href": "https://www.sciencedirect.com/science/article/pii/S1877050915005931?dgcid=api_sd_search-api-endpoint"
+                    }
+                ],
+                "dc:identifier": "DOI:10.1016/j.procs.2015.04.092",
+                "prism:url": "https://api.elsevier.com/content/article/pii/S1877050915005931",
+                "dc:title": "Health Monitoring System by Prognotive Computing Using Big Data Analytics",
+                "dc:creator": "M. Srivathsan",
+                "prism:publicationName": "Procedia Computer Science",
+                "prism:volume": "50",
+                "prism:coverDate": "2015-12-31",
+                "prism:startingPage": "602",
+                "prism:endingPage": "609",
+                "prism:doi": "10.1016/j.procs.2015.04.092",
+                "openaccess": true,
+                "pii": "S1877050915005931",
+                "authors": {
+                    "author": [
+                        {
+                            "$": "M. Srivathsan"
+                        },
+                        {
+                            "$": "K. Yogesh Arjun"
+                        }
+                    ]
+                }
+            },
+            {
+                "@_fa": "true",
+                "load-date": "2019-05-21T00:00:00.000Z",
+                "link": [
+                    {
+                        "@_fa": "true",
+                        "@ref": "self",
+                        "@href": "https://api.elsevier.com/content/article/pii/S1877050919305253"
+                    },
+                    {
+                        "@_fa": "true",
+                        "@ref": "scidir",
+                        "@href": "https://www.sciencedirect.com/science/article/pii/S1877050919305253?dgcid=api_sd_search-api-endpoint"
+                    }
+                ],
+                "dc:identifier": "DOI:10.1016/j.procs.2019.04.063",
+                "prism:url": "https://api.elsevier.com/content/article/pii/S1877050919305253",
+                "dc:title": "A Reactive System for Big Trajectory Data Management",
+                "dc:creator": "Soufiane Maguerra",
+                "prism:publicationName": "Procedia Computer Science",
+                "prism:volume": "151",
+                "prism:coverDate": "2019-12-31",
+                "prism:startingPage": "463",
+                "prism:endingPage": "470",
+                "prism:doi": "10.1016/j.procs.2019.04.063",
+                "openaccess": true,
+                "pii": "S1877050919305253",
+                "authors": {
+                    "author": [
+                        {
+                            "$": "Soufiane Maguerra"
+                        },
+                        {
+                            "$": "Azedine Boulmakoul"
+                        },
+                        {
+                            "$": "Ahmed Lbath"
+                        }
+                    ]
+                }
+            },
+            {
+                "@_fa": "true",
+                "load-date": "2020-10-13T00:00:00.000Z",
+                "link": [
+                    {
+                        "@_fa": "true",
+                        "@ref": "self",
+                        "@href": "https://api.elsevier.com/content/article/pii/S0950584920301981"
+                    },
+                    {
+                        "@_fa": "true",
+                        "@ref": "scidir",
+                        "@href": "https://www.sciencedirect.com/science/article/pii/S0950584920301981?dgcid=api_sd_search-api-endpoint"
+                    }
+                ],
+                "dc:identifier": "DOI:10.1016/j.infsof.2020.106448",
+                "prism:url": "https://api.elsevier.com/content/article/pii/S0950584920301981",
+                "dc:title": "Big Data analytics in Agile software development: A systematic mapping study",
+                "dc:creator": "Katarzyna Biesialska",
+                "prism:publicationName": "Information and Software Technology",
+                "prism:volume": "132",
+                "prism:coverDate": "2021-04-30",
+                "prism:startingPage": "106448",
+                "prism:doi": "10.1016/j.infsof.2020.106448",
+                "openaccess": false,
+                "pii": "S0950584920301981",
+                "authors": {
+                    "author": [
+                        {
+                            "$": "Katarzyna Biesialska"
+                        },
+                        {
+                            "$": "Xavier Franch"
+                        },
+                        {
+                            "$": "Victor Muntés-Mulero"
+                        }
+                    ]
+                }
+            },
+            {
+                "@_fa": "true",
+                "load-date": "2015-04-23T00:00:00.000Z",
+                "link": [
+                    {
+                        "@_fa": "true",
+                        "@ref": "self",
+                        "@href": "https://api.elsevier.com/content/article/pii/S1877050915002070"
+                    },
+                    {
+                        "@_fa": "true",
+                        "@ref": "scidir",
+                        "@href": "https://www.sciencedirect.com/science/article/pii/S1877050915002070?dgcid=api_sd_search-api-endpoint"
+                    }
+                ],
+                "dc:identifier": "DOI:10.1016/j.procs.2015.02.143",
+                "prism:url": "https://api.elsevier.com/content/article/pii/S1877050915002070",
+                "dc:title": "Plagiarism Detection for Java Programs without Source Codes",
+                "dc:creator": "V. Anjali",
+                "prism:publicationName": "Procedia Computer Science",
+                "prism:volume": "46",
+                "prism:coverDate": "2015-12-31",
+                "prism:startingPage": "749",
+                "prism:endingPage": "758",
+                "prism:doi": "10.1016/j.procs.2015.02.143",
+                "openaccess": true,
+                "pii": "S1877050915002070",
+                "authors": {
+                    "author": [
+                        {
+                            "$": "V. Anjali"
+                        },
+                        {
+                            "$": "T. R. Swapna"
+                        },
+                        {
+                            "$": "Bharat Jayaraman"
+                        }
+                    ]
+                }
+            },
+            {
+                "@_fa": "true",
+                "load-date": "2006-03-20T00:00:00.000Z",
+                "link": [
+                    {
+                        "@_fa": "true",
+                        "@ref": "self",
+                        "@href": "https://api.elsevier.com/content/article/pii/S0378437106002378"
+                    },
+                    {
+                        "@_fa": "true",
+                        "@ref": "scidir",
+                        "@href": "https://www.sciencedirect.com/science/article/pii/S0378437106002378?dgcid=api_sd_search-api-endpoint"
+                    }
+                ],
+                "dc:identifier": "DOI:10.1016/j.physa.2006.02.024",
+                "prism:url": "https://api.elsevier.com/content/article/pii/S0378437106002378",
+                "dc:title": "On the suitability of Yule process to stochastically model some properties of object-oriented systems",
+                "dc:creator": "Giulio Concas",
+                "prism:publicationName": "Physica A: Statistical Mechanics and its Applications",
+                "prism:volume": "370",
+                "prism:coverDate": "2006-10-15",
+                "prism:startingPage": "817",
+                "prism:endingPage": "831",
+                "prism:doi": "10.1016/j.physa.2006.02.024",
+                "openaccess": false,
+                "pii": "S0378437106002378",
+                "authors": {
+                    "author": [
+                        {
+                            "$": "Giulio Concas"
+                        },
+                        {
+                            "$": "Michele Marchesi"
+                        },
+                        {
+                            "$": "Nicola Serra"
+                        }
+                    ]
+                }
+            },
+            {
+                "@_fa": "true",
+                "load-date": "2021-03-09T00:00:00.000Z",
+                "link": [
+                    {
+                        "@_fa": "true",
+                        "@ref": "self",
+                        "@href": "https://api.elsevier.com/content/article/pii/S1055790321000725"
+                    },
+                    {
+                        "@_fa": "true",
+                        "@ref": "scidir",
+                        "@href": "https://www.sciencedirect.com/science/article/pii/S1055790321000725?dgcid=api_sd_search-api-endpoint"
+                    }
+                ],
+                "dc:identifier": "DOI:10.1016/j.ympev.2021.107139",
+                "prism:url": "https://api.elsevier.com/content/article/pii/S1055790321000725",
+                "dc:title": "One northward, one southward: Contrasting biogeographical history in two benthic freshwater fish genera across Southeast Asia (Teleostei: Cobitoidea: <ce:italic>Nemacheilus, Pangio</ce:italic>)",
+                "dc:creator": "Vendula Šlechtová",
+                "prism:publicationName": "Molecular Phylogenetics and Evolution",
+                "prism:volume": "161",
+                "prism:coverDate": "2021-08-31",
+                "prism:startingPage": "107139",
+                "prism:doi": "10.1016/j.ympev.2021.107139",
+                "openaccess": false,
+                "pii": "S1055790321000725",
+                "authors": {
+                    "author": [
+                        {
+                            "$": "Vendula Šlechtová"
+                        },
+                        {
+                            "$": "Zuzana Musilova"
+                        },
+                        {
+                            "$": "Jörg Bohlen"
+                        }
+                    ]
+                }
+            },
+            {
+                "@_fa": "true",
+                "load-date": "2007-09-02T00:00:00.000Z",
+                "link": [
+                    {
+                        "@_fa": "true",
+                        "@ref": "self",
+                        "@href": "https://api.elsevier.com/content/article/pii/B9781555583293500261"
+                    },
+                    {
+                        "@_fa": "true",
+                        "@ref": "scidir",
+                        "@href": "https://www.sciencedirect.com/science/article/pii/B9781555583293500261?dgcid=api_sd_search-api-endpoint"
+                    }
+                ],
+                "dc:identifier": "DOI:10.1016/B978-155558329-3/50026-1",
+                "prism:url": "https://api.elsevier.com/content/article/pii/B9781555583293500261",
+                "dc:title": "17: 360-Degree Programming the Oracle Database",
+                "dc:creator": "Kuassi Mensah",
+                "prism:publicationName": "Oracle Database Programming using Java and Web Services",
+                "prism:coverDate": "2006-12-31",
+                "prism:startingPage": "967",
+                "prism:endingPage": "1058",
+                "prism:doi": "10.1016/B978-155558329-3/50026-1",
+                "openaccess": false,
+                "pii": "B9781555583293500261",
+                "authors": {
+                    "author": "Kuassi Mensah"
+                }
+            },
+            {
+                "@_fa": "true",
+                "load-date": "2020-09-22T00:00:00.000Z",
+                "link": [
+                    {
+                        "@_fa": "true",
+                        "@ref": "self",
+                        "@href": "https://api.elsevier.com/content/article/pii/S0950584920301853"
+                    },
+                    {
+                        "@_fa": "true",
+                        "@ref": "scidir",
+                        "@href": "https://www.sciencedirect.com/science/article/pii/S0950584920301853?dgcid=api_sd_search-api-endpoint"
+                    }
+                ],
+                "dc:identifier": "DOI:10.1016/j.infsof.2020.106427",
+                "prism:url": "https://api.elsevier.com/content/article/pii/S0950584920301853",
+                "dc:title": "A unified framework for declarative debugging and testing",
+                "dc:creator": "Rafael Caballero",
+                "prism:publicationName": "Information and Software Technology",
+                "prism:volume": "129",
+                "prism:coverDate": "2021-01-31",
+                "prism:startingPage": "106427",
+                "prism:doi": "10.1016/j.infsof.2020.106427",
+                "openaccess": false,
+                "pii": "S0950584920301853",
+                "authors": {
+                    "author": [
+                        {
+                            "$": "Rafael Caballero"
+                        },
+                        {
+                            "$": "Enrique Martin-Martin"
+                        },
+                        {
+                            "$": "Salvador Tamarit"
+                        }
+                    ]
+                }
+            },
+            {
+                "@_fa": "true",
+                "load-date": "2021-11-23T00:00:00.000Z",
+                "link": [
+                    {
+                        "@_fa": "true",
+                        "@ref": "self",
+                        "@href": "https://api.elsevier.com/content/article/pii/S095058492100207X"
+                    },
+                    {
+                        "@_fa": "true",
+                        "@ref": "scidir",
+                        "@href": "https://www.sciencedirect.com/science/article/pii/S095058492100207X?dgcid=api_sd_search-api-endpoint"
+                    }
+                ],
+                "dc:identifier": "DOI:10.1016/j.infsof.2021.106761",
+                "prism:url": "https://api.elsevier.com/content/article/pii/S095058492100207X",
+                "dc:title": "Summarizing source code with hierarchical code representation",
+                "dc:creator": "Ziyi Zhou",
+                "prism:publicationName": "Information and Software Technology",
+                "prism:volume": "143",
+                "prism:coverDate": "2022-03-31",
+                "prism:startingPage": "106761",
+                "prism:doi": "10.1016/j.infsof.2021.106761",
+                "openaccess": false,
+                "pii": "S095058492100207X",
+                "authors": {
+                    "author": [
+                        {
+                            "$": "Ziyi Zhou"
+                        },
+                        {
+                            "$": "Huiqun Yu"
+                        },
+                        {
+                            "$": "Xingguang Yang"
+                        }
+                    ]
+                }
+            },
+            {
+                "@_fa": "true",
+                "load-date": "2009-06-17T00:00:00.000Z",
+                "link": [
+                    {
+                        "@_fa": "true",
+                        "@ref": "self",
+                        "@href": "https://api.elsevier.com/content/article/pii/S1571066109001674"
+                    },
+                    {
+                        "@_fa": "true",
+                        "@ref": "scidir",
+                        "@href": "https://www.sciencedirect.com/science/article/pii/S1571066109001674?dgcid=api_sd_search-api-endpoint"
+                    }
+                ],
+                "dc:identifier": "DOI:10.1016/j.entcs.2009.05.045",
+                "prism:url": "https://api.elsevier.com/content/article/pii/S1571066109001674",
+                "dc:title": "Specification and Runtime Verification of Java Card Programs",
+                "dc:creator": "Umberto Souza da Costa",
+                "prism:publicationName": "Electronic Notes in Theoretical Computer Science",
+                "prism:volume": "240",
+                "prism:coverDate": "2009-07-02",
+                "prism:startingPage": "61",
+                "prism:endingPage": "78",
+                "prism:doi": "10.1016/j.entcs.2009.05.045",
+                "openaccess": true,
+                "pii": "S1571066109001674",
+                "authors": {
+                    "author": [
+                        {
+                            "$": "Umberto Souza da Costa"
+                        },
+                        {
+                            "$": "Anamaria Martins Moreira"
+                        },
+                        {
+                            "$": "Plácido A. Souza Neto"
+                        }
+                    ]
+                }
+            },
+            {
+                "@_fa": "true",
+                "load-date": "2014-02-06T00:00:00.000Z",
+                "link": [
+                    {
+                        "@_fa": "true",
+                        "@ref": "self",
+                        "@href": "https://api.elsevier.com/content/article/pii/S1995764514600201"
+                    },
+                    {
+                        "@_fa": "true",
+                        "@ref": "scidir",
+                        "@href": "https://www.sciencedirect.com/science/article/pii/S1995764514600201?dgcid=api_sd_search-api-endpoint"
+                    }
+                ],
+                "dc:identifier": "DOI:10.1016/S1995-7645(14)60020-1",
+                "prism:url": "https://api.elsevier.com/content/article/pii/S1995764514600201",
+                "dc:title": "Survey on gastrointestinal parasites and detection of <ce:italic>Cryptosporidium</ce:italic> spp. on cattle in West Java, Indonesia",
+                "dc:creator": "Sylvia Maharani Ananta",
+                "prism:publicationName": "Asian Pacific Journal of Tropical Medicine",
+                "prism:volume": "7",
+                "prism:coverDate": "2014-03-31",
+                "prism:startingPage": "197",
+                "prism:endingPage": "201",
+                "prism:doi": "10.1016/S1995-7645(14)60020-1",
+                "openaccess": true,
+                "pii": "S1995764514600201",
+                "authors": {
+                    "author": [
+                        {
+                            "$": "Sylvia Maharani Ananta"
+                        },
+                        {
+                            "$": " Suharno"
+                        },
+                        {
+                            "$": "Makoto Matsubayashi"
+                        }
+                    ]
+                }
+            },
+            {
+                "@_fa": "true",
+                "load-date": "2015-02-26T00:00:00.000Z",
+                "link": [
+                    {
+                        "@_fa": "true",
+                        "@ref": "self",
+                        "@href": "https://api.elsevier.com/content/article/pii/S0097849315000138"
+                    },
+                    {
+                        "@_fa": "true",
+                        "@ref": "scidir",
+                        "@href": "https://www.sciencedirect.com/science/article/pii/S0097849315000138?dgcid=api_sd_search-api-endpoint"
+                    }
+                ],
+                "dc:identifier": "DOI:10.1016/j.cag.2015.02.005",
+                "prism:url": "https://api.elsevier.com/content/article/pii/S0097849315000138",
+                "dc:title": "A modular software architecture for processing of big geospatial data in the cloud",
+                "dc:creator": "Michel Krämer",
+                "prism:publicationName": "Computers & Graphics",
+                "prism:volume": "49",
+                "prism:coverDate": "2015-06-30",
+                "prism:startingPage": "69",
+                "prism:endingPage": "81",
+                "prism:doi": "10.1016/j.cag.2015.02.005",
+                "openaccess": false,
+                "pii": "S0097849315000138",
+                "authors": {
+                    "author": [
+                        {
+                            "$": "Michel Krämer"
+                        },
+                        {
+                            "$": "Ivo Senner"
+                        }
+                    ]
+                }
+            },
+            {
+                "@_fa": "true",
+                "load-date": "2013-11-07T00:00:00.000Z",
+                "link": [
+                    {
+                        "@_fa": "true",
+                        "@ref": "self",
+                        "@href": "https://api.elsevier.com/content/article/pii/S0164121213002641"
+                    },
+                    {
+                        "@_fa": "true",
+                        "@ref": "scidir",
+                        "@href": "https://www.sciencedirect.com/science/article/pii/S0164121213002641?dgcid=api_sd_search-api-endpoint"
+                    }
+                ],
+                "dc:identifier": "DOI:10.1016/j.jss.2013.10.056",
+                "prism:url": "https://api.elsevier.com/content/article/pii/S0164121213002641",
+                "dc:title": "Using SPIN for automated debugging of infinite executions of Java programs",
+                "dc:creator": "Damián Adalid",
+                "prism:publicationName": "Journal of Systems and Software",
+                "prism:volume": "90",
+                "prism:coverDate": "2014-04-30",
+                "prism:startingPage": "61",
+                "prism:endingPage": "75",
+                "prism:doi": "10.1016/j.jss.2013.10.056",
+                "openaccess": true,
+                "pii": "S0164121213002641",
+                "authors": {
+                    "author": [
+                        {
+                            "$": "Damián Adalid"
+                        },
+                        {
+                            "$": "Alberto Salmerón"
+                        },
+                        {
+                            "$": "Pedro Merino"
+                        }
+                    ]
+                }
+            },
+            {
+                "@_fa": "true",
+                "load-date": "2015-07-26T00:00:00.000Z",
+                "link": [
+                    {
+                        "@_fa": "true",
+                        "@ref": "self",
+                        "@href": "https://api.elsevier.com/content/article/pii/S2222180815608994"
+                    },
+                    {
+                        "@_fa": "true",
+                        "@ref": "scidir",
+                        "@href": "https://www.sciencedirect.com/science/article/pii/S2222180815608994?dgcid=api_sd_search-api-endpoint"
+                    }
+                ],
+                "dc:identifier": "DOI:10.1016/S2222-1808(15)60899-4",
+                "prism:url": "https://api.elsevier.com/content/article/pii/S2222180815608994",
+                "dc:title": "Comparison of parasite infection degree in cattle (<ce:italic>Bos</ce:italic> sp.) using faecal egg counting method in two East Java regions, Lamongan and Gresik",
+                "dc:creator": "Supiana Dian Nurtjahyani",
+                "prism:publicationName": "Asian Pacific Journal of Tropical Disease",
+                "prism:volume": "5",
+                "prism:coverDate": "2015-08-31",
+                "prism:startingPage": "614",
+                "prism:endingPage": "616",
+                "prism:doi": "10.1016/S2222-1808(15)60899-4",
+                "openaccess": false,
+                "pii": "S2222180815608994",
+                "authors": {
+                    "author": [
+                        {
+                            "$": "Supiana Dian Nurtjahyani"
+                        },
+                        {
+                            "$": "Devi Shintya Agustin"
+                        }
+                    ]
+                }
+            },
+            {
+                "@_fa": "true",
+                "load-date": "2017-01-09T00:00:00.000Z",
+                "link": [
+                    {
+                        "@_fa": "true",
+                        "@ref": "self",
+                        "@href": "https://api.elsevier.com/content/article/pii/S0743731517300047"
+                    },
+                    {
+                        "@_fa": "true",
+                        "@ref": "scidir",
+                        "@href": "https://www.sciencedirect.com/science/article/pii/S0743731517300047?dgcid=api_sd_search-api-endpoint"
+                    }
+                ],
+                "dc:identifier": "DOI:10.1016/j.jpdc.2016.12.026",
+                "prism:url": "https://api.elsevier.com/content/article/pii/S0743731517300047",
+                "dc:title": "Pedagogy and tools for teaching parallel computing at the sophomore undergraduate level",
+                "dc:creator": "Max Grossman",
+                "prism:publicationName": "Journal of Parallel and Distributed Computing",
+                "prism:volume": "105",
+                "prism:coverDate": "2017-07-31",
+                "prism:startingPage": "18",
+                "prism:endingPage": "30",
+                "prism:doi": "10.1016/j.jpdc.2016.12.026",
+                "openaccess": false,
+                "pii": "S0743731517300047",
+                "authors": {
+                    "author": [
+                        {
+                            "$": "Max Grossman"
+                        },
+                        {
+                            "$": "Maha Aziz"
+                        },
+                        {
+                            "$": "Vivek Sarkar"
+                        }
+                    ]
+                }
+            },
+            {
+                "@_fa": "true",
+                "load-date": "2016-04-21T00:00:00.000Z",
+                "link": [
+                    {
+                        "@_fa": "true",
+                        "@ref": "self",
+                        "@href": "https://api.elsevier.com/content/article/pii/S1474667016308606"
+                    },
+                    {
+                        "@_fa": "true",
+                        "@ref": "scidir",
+                        "@href": "https://www.sciencedirect.com/science/article/pii/S1474667016308606?dgcid=api_sd_search-api-endpoint"
+                    }
+                ],
+                "dc:identifier": "DOI:10.3182/20120215-3-AT-3016.00227",
+                "prism:url": "https://api.elsevier.com/content/article/pii/S1474667016308606",
+                "dc:title": "Conceptual Design of a Two-Level Server Architecture for MATLAB-Java Coupling",
+                "dc:creator": "Yousef Farschtschi",
+                "prism:publicationName": "IFAC Proceedings Volumes",
+                "prism:volume": "45",
+                "prism:coverDate": "2012-12-31",
+                "prism:startingPage": "1281",
+                "prism:endingPage": "1284",
+                "prism:doi": "10.3182/20120215-3-AT-3016.00227",
+                "openaccess": false,
+                "pii": "S1474667016308606",
+                "authors": {
+                    "author": [
+                        {
+                            "$": "Yousef Farschtschi"
+                        },
+                        {
+                            "$": "Marc Widemann"
+                        },
+                        {
+                            "$": "Dietmar P. F. Möller"
+                        }
+                    ]
+                }
+            },
+            {
+                "@_fa": "true",
+                "load-date": "2016-02-23T00:00:00.000Z",
+                "link": [
+                    {
+                        "@_fa": "true",
+                        "@ref": "self",
+                        "@href": "https://api.elsevier.com/content/article/pii/S2210784316301656"
+                    },
+                    {
+                        "@_fa": "true",
+                        "@ref": "scidir",
+                        "@href": "https://www.sciencedirect.com/science/article/pii/S2210784316301656?dgcid=api_sd_search-api-endpoint"
+                    }
+                ],
+                "dc:identifier": "DOI:10.1016/j.aaspro.2016.02.165",
+                "prism:url": "https://api.elsevier.com/content/article/pii/S2210784316301656",
+                "dc:title": "Stakeholder Response to the Development Strategy of Sugarcane Dry Land Agriculture in East Java",
+                "dc:creator": "Evita Soliha Hani",
+                "prism:publicationName": "Agriculture and Agricultural Science Procedia",
+                "prism:volume": "9",
+                "prism:coverDate": "2016-12-31",
+                "prism:startingPage": "469",
+                "prism:endingPage": "474",
+                "prism:doi": "10.1016/j.aaspro.2016.02.165",
+                "openaccess": true,
+                "pii": "S2210784316301656",
+                "authors": {
+                    "author": [
+                        {
+                            "$": "Evita Soliha Hani"
+                        },
+                        {
+                            "$": " Mustapit"
+                        }
+                    ]
+                }
+            },
+            {
+                "@_fa": "true",
+                "load-date": "2020-01-02T00:00:00.000Z",
+                "link": [
+                    {
+                        "@_fa": "true",
+                        "@ref": "self",
+                        "@href": "https://api.elsevier.com/content/article/pii/S1877050919319155"
+                    },
+                    {
+                        "@_fa": "true",
+                        "@ref": "scidir",
+                        "@href": "https://www.sciencedirect.com/science/article/pii/S1877050919319155?dgcid=api_sd_search-api-endpoint"
+                    }
+                ],
+                "dc:identifier": "DOI:10.1016/j.procs.2019.11.204",
+                "prism:url": "https://api.elsevier.com/content/article/pii/S1877050919319155",
+                "dc:title": "The Analysis of Greenhouse Gas Emissions Mitigation: A System Thinking Approach (Case Study: East Java)",
+                "dc:creator": "Andriyan Rizki Jatmiko",
+                "prism:publicationName": "Procedia Computer Science",
+                "prism:volume": "161",
+                "prism:coverDate": "2019-12-31",
+                "prism:startingPage": "951",
+                "prism:endingPage": "958",
+                "prism:doi": "10.1016/j.procs.2019.11.204",
+                "openaccess": true,
+                "pii": "S1877050919319155",
+                "authors": {
+                    "author": [
+                        {
+                            "$": "Andriyan Rizki Jatmiko"
+                        },
+                        {
+                            "$": "Erma Suryani"
+                        },
+                        {
+                            "$": "Dhyna Octabriyantiningtyas"
+                        }
+                    ]
+                }
+            },
+            {
+                "@_fa": "true",
+                "load-date": "2018-12-03T00:00:00.000Z",
+                "link": [
+                    {
+                        "@_fa": "true",
+                        "@ref": "self",
+                        "@href": "https://api.elsevier.com/content/article/pii/S0375650517303917"
+                    },
+                    {
+                        "@_fa": "true",
+                        "@ref": "scidir",
+                        "@href": "https://www.sciencedirect.com/science/article/pii/S0375650517303917?dgcid=api_sd_search-api-endpoint"
+                    }
+                ],
+                "dc:identifier": "DOI:10.1016/j.geothermics.2018.11.003",
+                "prism:url": "https://api.elsevier.com/content/article/pii/S0375650517303917",
+                "dc:title": "Hydrogeochemical and isotope characterization of geothermal waters from the Cidanau geothermal field, West Java, Indonesia",
+                "dc:creator": "Boy Yoseph Cahya Sunan Sakti Syah Alam",
+                "prism:publicationName": "Geothermics",
+                "prism:volume": "78",
+                "prism:coverDate": "2019-03-31",
+                "prism:startingPage": "62",
+                "prism:endingPage": "69",
+                "prism:doi": "10.1016/j.geothermics.2018.11.003",
+                "openaccess": false,
+                "pii": "S0375650517303917",
+                "authors": {
+                    "author": [
+                        {
+                            "$": "Boy Yoseph Cahya Sunan Sakti Syah Alam"
+                        },
+                        {
+                            "$": "Ryuichi Itoi"
+                        },
+                        {
+                            "$": "Rie Yamashiro"
+                        }
+                    ]
+                }
+            },
+            {
+                "@_fa": "true",
+                "load-date": "2015-03-14T00:00:00.000Z",
+                "link": [
+                    {
+                        "@_fa": "true",
+                        "@ref": "self",
+                        "@href": "https://api.elsevier.com/content/article/pii/S1877042815005595"
+                    },
+                    {
+                        "@_fa": "true",
+                        "@ref": "scidir",
+                        "@href": "https://www.sciencedirect.com/science/article/pii/S1877042815005595?dgcid=api_sd_search-api-endpoint"
+                    }
+                ],
+                "dc:identifier": "DOI:10.1016/j.sbspro.2015.01.522",
+                "prism:url": "https://api.elsevier.com/content/article/pii/S1877042815005595",
+                "dc:title": "Discovering Big Data Modelling for Educational World",
+                "dc:creator": "Jyotsna Talreja Wassan",
+                "prism:publicationName": "Procedia - Social and Behavioral Sciences",
+                "prism:volume": "176",
+                "prism:coverDate": "2015-02-20",
+                "prism:startingPage": "642",
+                "prism:endingPage": "649",
+                "prism:doi": "10.1016/j.sbspro.2015.01.522",
+                "openaccess": true,
+                "pii": "S1877042815005595",
+                "authors": {
+                    "author": "Jyotsna Talreja Wassan"
+                }
+            },
+            {
+                "@_fa": "true",
+                "load-date": "2020-04-03T00:00:00.000Z",
+                "link": [
+                    {
+                        "@_fa": "true",
+                        "@ref": "self",
+                        "@href": "https://api.elsevier.com/content/article/pii/S0167642320300708"
+                    },
+                    {
+                        "@_fa": "true",
+                        "@ref": "scidir",
+                        "@href": "https://www.sciencedirect.com/science/article/pii/S0167642320300708?dgcid=api_sd_search-api-endpoint"
+                    }
+                ],
+                "dc:identifier": "DOI:10.1016/j.scico.2020.102460",
+                "prism:url": "https://api.elsevier.com/content/article/pii/S0167642320300708",
+                "dc:title": "A debugging approach for live Big Data applications",
+                "dc:creator": "Matteo Marra",
+                "prism:publicationName": "Science of Computer Programming",
+                "prism:volume": "194",
+                "prism:coverDate": "2020-08-01",
+                "prism:startingPage": "102460",
+                "prism:doi": "10.1016/j.scico.2020.102460",
+                "openaccess": false,
+                "pii": "S0167642320300708",
+                "authors": {
+                    "author": [
+                        {
+                            "$": "Matteo Marra"
+                        },
+                        {
+                            "$": "Guillermo Polito"
+                        },
+                        {
+                            "$": "Elisa Gonzalez Boix"
+                        }
+                    ]
+                }
+            },
+            {
+                "@_fa": "true",
+                "load-date": "2019-11-22T00:00:00.000Z",
+                "link": [
+                    {
+                        "@_fa": "true",
+                        "@ref": "self",
+                        "@href": "https://api.elsevier.com/content/article/pii/B9780128157466000107"
+                    },
+                    {
+                        "@_fa": "true",
+                        "@ref": "scidir",
+                        "@href": "https://www.sciencedirect.com/science/article/pii/B9780128157466000107?dgcid=api_sd_search-api-endpoint"
+                    }
+                ],
+                "dc:identifier": "DOI:10.1016/B978-0-12-815746-6.00010-7",
+                "prism:url": "https://api.elsevier.com/content/article/pii/B9780128157466000107",
+                "dc:title": "10: Building the big data application",
+                "dc:creator": "Krish Krishnan",
+                "prism:publicationName": "Building Big Data Applications",
+                "prism:coverDate": "2020-12-31",
+                "prism:startingPage": "175",
+                "prism:endingPage": "197",
+                "prism:doi": "10.1016/B978-0-12-815746-6.00010-7",
+                "openaccess": false,
+                "pii": "B9780128157466000107",
+                "authors": {
+                    "author": "Krish Krishnan"
+                }
+            },
+            {
+                "@_fa": "true",
+                "load-date": "2012-06-19T00:00:00.000Z",
+                "link": [
+                    {
+                        "@_fa": "true",
+                        "@ref": "self",
+                        "@href": "https://api.elsevier.com/content/article/pii/S1875389212015738"
+                    },
+                    {
+                        "@_fa": "true",
+                        "@ref": "scidir",
+                        "@href": "https://www.sciencedirect.com/science/article/pii/S1875389212015738?dgcid=api_sd_search-api-endpoint"
+                    }
+                ],
+                "dc:identifier": "DOI:10.1016/j.phpro.2012.05.260",
+                "prism:url": "https://api.elsevier.com/content/article/pii/S1875389212015738",
+                "dc:title": "Virtual Interior Design Based On VRML AND JAVA",
+                "dc:creator": "Shaoliang Qi",
+                "prism:publicationName": "Physics Procedia",
+                "prism:volume": "33",
+                "prism:coverDate": "2012-12-31",
+                "prism:startingPage": "1614",
+                "prism:endingPage": "1620",
+                "prism:doi": "10.1016/j.phpro.2012.05.260",
+                "openaccess": true,
+                "pii": "S1875389212015738",
+                "authors": {
+                    "author": "Shaoliang Qi"
+                }
+            },
+            {
+                "@_fa": "true",
+                "load-date": "2011-07-06T00:00:00.000Z",
+                "link": [
+                    {
+                        "@_fa": "true",
+                        "@ref": "self",
+                        "@href": "https://api.elsevier.com/content/article/pii/S0164121211001695"
+                    },
+                    {
+                        "@_fa": "true",
+                        "@ref": "scidir",
+                        "@href": "https://www.sciencedirect.com/science/article/pii/S0164121211001695?dgcid=api_sd_search-api-endpoint"
+                    }
+                ],
+                "dc:identifier": "DOI:10.1016/j.jss.2011.06.072",
+                "prism:url": "https://api.elsevier.com/content/article/pii/S0164121211001695",
+                "dc:title": "Design of a Java spatial extension for relational databases",
+                "dc:creator": "J. Martinez-Llario",
+                "prism:publicationName": "Journal of Systems and Software",
+                "prism:volume": "84",
+                "prism:coverDate": "2011-12-31",
+                "prism:startingPage": "2314",
+                "prism:endingPage": "2323",
+                "prism:doi": "10.1016/j.jss.2011.06.072",
+                "openaccess": false,
+                "pii": "S0164121211001695",
+                "authors": {
+                    "author": [
+                        {
+                            "$": "J. Martinez-Llario"
+                        },
+                        {
+                            "$": "M. Gonzalez-Alcaide"
+                        }
+                    ]
+                }
+            },
+            {
+                "@_fa": "true",
+                "load-date": "2016-06-27T00:00:00.000Z",
+                "link": [
+                    {
+                        "@_fa": "true",
+                        "@ref": "self",
+                        "@href": "https://api.elsevier.com/content/article/pii/B9780128053942000015"
+                    },
+                    {
+                        "@_fa": "true",
+                        "@ref": "scidir",
+                        "@href": "https://www.sciencedirect.com/science/article/pii/B9780128053942000015?dgcid=api_sd_search-api-endpoint"
+                    }
+                ],
+                "dc:identifier": "DOI:10.1016/B978-0-12-805394-2.00001-5",
+                "prism:url": "https://api.elsevier.com/content/article/pii/B9780128053942000015",
+                "dc:title": "Chapter 1: Big Data Analytics = Machine Learning + Cloud Computing",
+                "dc:creator": "C. Wu",
+                "prism:publicationName": "Big Data",
+                "prism:coverDate": "2016-12-31",
+                "prism:startingPage": "3",
+                "prism:endingPage": "38",
+                "prism:doi": "10.1016/B978-0-12-805394-2.00001-5",
+                "openaccess": false,
+                "pii": "B9780128053942000015",
+                "authors": {
+                    "author": [
+                        {
+                            "$": "C. Wu"
+                        },
+                        {
+                            "$": "R. Buyya"
+                        },
+                        {
+                            "$": "K. Ramamohanarao"
+                        }
+                    ]
+                }
+            },
+            {
+                "@_fa": "true",
+                "load-date": "2020-08-28T00:00:00.000Z",
+                "link": [
+                    {
+                        "@_fa": "true",
+                        "@ref": "self",
+                        "@href": "https://api.elsevier.com/content/article/pii/S0164121220302090"
+                    },
+                    {
+                        "@_fa": "true",
+                        "@ref": "scidir",
+                        "@href": "https://www.sciencedirect.com/science/article/pii/S0164121220302090?dgcid=api_sd_search-api-endpoint"
+                    }
+                ],
+                "dc:identifier": "DOI:10.1016/j.jss.2020.110806",
+                "prism:url": "https://api.elsevier.com/content/article/pii/S0164121220302090",
+                "dc:title": "Does code quality affect pull request acceptance? An empirical study",
+                "dc:creator": "Valentina Lenarduzzi",
+                "prism:publicationName": "Journal of Systems and Software",
+                "prism:volume": "171",
+                "prism:coverDate": "2021-01-31",
+                "prism:startingPage": "110806",
+                "prism:doi": "10.1016/j.jss.2020.110806",
+                "openaccess": true,
+                "pii": "S0164121220302090",
+                "authors": {
+                    "author": [
+                        {
+                            "$": "Valentina Lenarduzzi"
+                        },
+                        {
+                            "$": "Vili Nikkola"
+                        },
+                        {
+                            "$": "Davide Taibi"
+                        }
+                    ]
+                }
+            },
+            {
+                "@_fa": "true",
+                "load-date": "2011-02-18T00:00:00.000Z",
+                "link": [
+                    {
+                        "@_fa": "true",
+                        "@ref": "self",
+                        "@href": "https://api.elsevier.com/content/article/pii/S1571066111000417"
+                    },
+                    {
+                        "@_fa": "true",
+                        "@ref": "scidir",
+                        "@href": "https://www.sciencedirect.com/science/article/pii/S1571066111000417?dgcid=api_sd_search-api-endpoint"
+                    }
+                ],
+                "dc:identifier": "DOI:10.1016/j.entcs.2011.02.004",
+                "prism:url": "https://api.elsevier.com/content/article/pii/S1571066111000417",
+                "dc:title": "Encoding the Java Virtual Machine's Instruction Set",
+                "dc:creator": "Michael Eichberg",
+                "prism:publicationName": "Electronic Notes in Theoretical Computer Science",
+                "prism:volume": "264",
+                "prism:coverDate": "2011-02-25",
+                "prism:startingPage": "35",
+                "prism:endingPage": "50",
+                "prism:doi": "10.1016/j.entcs.2011.02.004",
+                "openaccess": true,
+                "pii": "S1571066111000417",
+                "authors": {
+                    "author": [
+                        {
+                            "$": "Michael Eichberg"
+                        },
+                        {
+                            "$": "Andreas Sewe"
+                        }
+                    ]
+                }
+            },
+            {
+                "@_fa": "true",
+                "load-date": "2021-06-08T00:00:00.000Z",
+                "link": [
+                    {
+                        "@_fa": "true",
+                        "@ref": "self",
+                        "@href": "https://api.elsevier.com/content/article/pii/S2352186421003278"
+                    },
+                    {
+                        "@_fa": "true",
+                        "@ref": "scidir",
+                        "@href": "https://www.sciencedirect.com/science/article/pii/S2352186421003278?dgcid=api_sd_search-api-endpoint"
+                    }
+                ],
+                "dc:identifier": "DOI:10.1016/j.eti.2021.101679",
+                "prism:url": "https://api.elsevier.com/content/article/pii/S2352186421003278",
+                "dc:title": "Green city air measurement and health exercise big data monitoring based on remote sensing images and sensors",
+                "dc:creator": "Jingyi Zhang",
+                "prism:publicationName": "Environmental Technology & Innovation",
+                "prism:volume": "23",
+                "prism:coverDate": "2021-08-31",
+                "prism:startingPage": "101679",
+                "prism:doi": "10.1016/j.eti.2021.101679",
+                "openaccess": false,
+                "pii": "S2352186421003278",
+                "authors": {
+                    "author": [
+                        {
+                            "$": "Jingyi Zhang"
+                        },
+                        {
+                            "$": "Tong Zhao"
+                        },
+                        {
+                            "$": "Xiangyang Zhai"
+                        }
+                    ]
+                }
+            },
+            {
+                "@_fa": "true",
+                "load-date": "2014-05-09T00:00:00.000Z",
+                "link": [
+                    {
+                        "@_fa": "true",
+                        "@ref": "self",
+                        "@href": "https://api.elsevier.com/content/article/pii/S001670371400283X"
+                    },
+                    {
+                        "@_fa": "true",
+                        "@ref": "scidir",
+                        "@href": "https://www.sciencedirect.com/science/article/pii/S001670371400283X?dgcid=api_sd_search-api-endpoint"
+                    }
+                ],
+                "dc:identifier": "DOI:10.1016/j.gca.2014.04.025",
+                "prism:url": "https://api.elsevier.com/content/article/pii/S001670371400283X",
+                "dc:title": "Insights from Pb and O isotopes into along-arc variations in subduction inputs and crustal assimilation for volcanic rocks in Java, Sunda arc, Indonesia",
+                "dc:creator": "Heather K. Handley",
+                "prism:publicationName": "Geochimica et Cosmochimica Acta",
+                "prism:volume": "139",
+                "prism:coverDate": "2014-08-15",
+                "prism:startingPage": "205",
+                "prism:endingPage": "226",
+                "prism:doi": "10.1016/j.gca.2014.04.025",
+                "openaccess": false,
+                "pii": "S001670371400283X",
+                "authors": {
+                    "author": [
+                        {
+                            "$": "Heather K. Handley"
+                        },
+                        {
+                            "$": "Janne Blichert-Toft"
+                        },
+                        {
+                            "$": "Mirzam Abdurrachman"
+                        }
+                    ]
+                }
+            },
+            {
+                "@_fa": "true",
+                "load-date": "2016-12-18T00:00:00.000Z",
+                "link": [
+                    {
+                        "@_fa": "true",
+                        "@ref": "self",
+                        "@href": "https://api.elsevier.com/content/article/pii/S1383576916302306"
+                    },
+                    {
+                        "@_fa": "true",
+                        "@ref": "scidir",
+                        "@href": "https://www.sciencedirect.com/science/article/pii/S1383576916302306?dgcid=api_sd_search-api-endpoint"
+                    }
+                ],
+                "dc:identifier": "DOI:10.1016/j.parint.2016.12.007",
+                "prism:url": "https://api.elsevier.com/content/article/pii/S1383576916302306",
+                "dc:title": "<ce:italic>Isospora lunaris</ce:italic> n. sp. (Apicomplexa: Eimeriidae) from the domestic Java sparrow in Japan",
+                "dc:creator": "Toshihiro Tokiwa",
+                "prism:publicationName": "Parasitology International",
+                "prism:volume": "66",
+                "prism:coverDate": "2017-04-30",
+                "prism:startingPage": "100",
+                "prism:endingPage": "105",
+                "prism:doi": "10.1016/j.parint.2016.12.007",
+                "openaccess": false,
+                "pii": "S1383576916302306",
+                "authors": {
+                    "author": [
+                        {
+                            "$": "Toshihiro Tokiwa"
+                        },
+                        {
+                            "$": "Atsushi Kojima"
+                        },
+                        {
+                            "$": "Kazunori Ike"
+                        }
+                    ]
+                }
+            },
+            {
+                "@_fa": "true",
+                "load-date": "2014-04-13T00:00:00.000Z",
+                "link": [
+                    {
+                        "@_fa": "true",
+                        "@ref": "self",
+                        "@href": "https://api.elsevier.com/content/article/pii/S0025326X14001520"
+                    },
+                    {
+                        "@_fa": "true",
+                        "@ref": "scidir",
+                        "@href": "https://www.sciencedirect.com/science/article/pii/S0025326X14001520?dgcid=api_sd_search-api-endpoint"
+                    }
+                ],
+                "dc:identifier": "DOI:10.1016/j.marpolbul.2014.03.022",
+                "prism:url": "https://api.elsevier.com/content/article/pii/S0025326X14001520",
+                "dc:title": "Effect of glyphosate-based herbicide on early life stages of Java medaka (<ce:italic>Oryzias javanicus</ce:italic>): A potential tropical test fish",
+                "dc:creator": "Shahrizad Yusof",
+                "prism:publicationName": "Marine Pollution Bulletin",
+                "prism:volume": "85",
+                "prism:coverDate": "2014-08-30",
+                "prism:startingPage": "494",
+                "prism:endingPage": "498",
+                "prism:doi": "10.1016/j.marpolbul.2014.03.022",
+                "openaccess": false,
+                "pii": "S0025326X14001520",
+                "authors": {
+                    "author": [
+                        {
+                            "$": "Shahrizad Yusof"
+                        },
+                        {
+                            "$": "Ahmad Ismail"
+                        },
+                        {
+                            "$": "Mohamad Shafiq Alias"
+                        }
+                    ]
+                }
+            },
+            {
+                "@_fa": "true",
+                "load-date": "2015-09-01T00:00:00.000Z",
+                "link": [
+                    {
+                        "@_fa": "true",
+                        "@ref": "self",
+                        "@href": "https://api.elsevier.com/content/article/pii/S1040618215006461"
+                    },
+                    {
+                        "@_fa": "true",
+                        "@ref": "scidir",
+                        "@href": "https://www.sciencedirect.com/science/article/pii/S1040618215006461?dgcid=api_sd_search-api-endpoint"
+                    }
+                ],
+                "dc:identifier": "DOI:10.1016/j.quaint.2015.06.046",
+                "prism:url": "https://api.elsevier.com/content/article/pii/S1040618215006461",
+                "dc:title": "Pollen and fern spores recorded in recent and late Holocene marine sediments from the Indian Ocean and Java Sea in Indonesia",
+                "dc:creator": "Anastasia Poliakova",
+                "prism:publicationName": "Quaternary International",
+                "prism:volume": "392",
+                "prism:coverDate": "2016-01-21",
+                "prism:startingPage": "251",
+                "prism:endingPage": "314",
+                "prism:doi": "10.1016/j.quaint.2015.06.046",
+                "openaccess": false,
+                "pii": "S1040618215006461",
+                "authors": {
+                    "author": [
+                        {
+                            "$": "Anastasia Poliakova"
+                        },
+                        {
+                            "$": "Hermann Behling"
+                        }
+                    ]
+                }
+            }
+        ]
+    }
+}

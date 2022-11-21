@@ -1,0 +1,3934 @@
+{
+    "search-results": {
+        "opensearch:totalResults": "79855",
+        "opensearch:startIndex": "72",
+        "opensearch:itemsPerPage": "100",
+        "opensearch:Query": {
+            "@role": "request",
+            "@searchTerms": "big data OR java",
+            "@startPage": "72"
+        },
+        "link": [
+            {
+                "@_fa": "true",
+                "@ref": "self",
+                "@href": "https://api.elsevier.com/content/search/sciencedirect?start=72&count=100&query=big+data+OR+java&apiKey=7f59af901d2d86f78a1fd60c1bf9426a&httpAccept=application%2Fjson",
+                "@type": "application/json"
+            },
+            {
+                "@_fa": "true",
+                "@ref": "first",
+                "@href": "https://api.elsevier.com/content/search/sciencedirect?start=0&count=100&query=big+data+OR+java&apiKey=7f59af901d2d86f78a1fd60c1bf9426a&httpAccept=application%2Fjson",
+                "@type": "application/json"
+            },
+            {
+                "@_fa": "true",
+                "@ref": "prev",
+                "@href": "https://api.elsevier.com/content/search/sciencedirect?start=0&count=100&query=big+data+OR+java&apiKey=7f59af901d2d86f78a1fd60c1bf9426a&httpAccept=application%2Fjson",
+                "@type": "application/json"
+            },
+            {
+                "@_fa": "true",
+                "@ref": "next",
+                "@href": "https://api.elsevier.com/content/search/sciencedirect?start=172&count=100&query=big+data+OR+java&apiKey=7f59af901d2d86f78a1fd60c1bf9426a&httpAccept=application%2Fjson",
+                "@type": "application/json"
+            },
+            {
+                "@_fa": "true",
+                "@ref": "last",
+                "@href": "https://api.elsevier.com/content/search/sciencedirect?start=5900&count=100&query=big+data+OR+java&apiKey=7f59af901d2d86f78a1fd60c1bf9426a&httpAccept=application%2Fjson",
+                "@type": "application/json"
+            }
+        ],
+        "entry": [
+            {
+                "@_fa": "true",
+                "load-date": "2011-12-03T00:00:00.000Z",
+                "link": [
+                    {
+                        "@_fa": "true",
+                        "@ref": "self",
+                        "@href": "https://api.elsevier.com/content/article/pii/S1383762111001251"
+                    },
+                    {
+                        "@_fa": "true",
+                        "@ref": "scidir",
+                        "@href": "https://www.sciencedirect.com/science/article/pii/S1383762111001251?dgcid=api_sd_search-api-endpoint"
+                    }
+                ],
+                "dc:identifier": "DOI:10.1016/j.sysarc.2011.11.002",
+                "prism:url": "https://api.elsevier.com/content/article/pii/S1383762111001251",
+                "dc:title": "Memory power optimization of Java-based embedded systems exploiting garbage collection information",
+                "dc:creator": "Jose Manuel Velasco",
+                "prism:publicationName": "Journal of Systems Architecture",
+                "prism:volume": "58",
+                "prism:coverDate": "2012-02-29",
+                "prism:startingPage": "61",
+                "prism:endingPage": "72",
+                "prism:doi": "10.1016/j.sysarc.2011.11.002",
+                "openaccess": false,
+                "pii": "S1383762111001251",
+                "authors": {
+                    "author": [
+                        {
+                            "$": "Jose Manuel Velasco"
+                        },
+                        {
+                            "$": "David Atienza"
+                        },
+                        {
+                            "$": "Katzalin Olcoz"
+                        }
+                    ]
+                }
+            },
+            {
+                "@_fa": "true",
+                "load-date": "2017-04-24T00:00:00.000Z",
+                "link": [
+                    {
+                        "@_fa": "true",
+                        "@ref": "self",
+                        "@href": "https://api.elsevier.com/content/article/pii/S1045926X17300770"
+                    },
+                    {
+                        "@_fa": "true",
+                        "@ref": "scidir",
+                        "@href": "https://www.sciencedirect.com/science/article/pii/S1045926X17300770?dgcid=api_sd_search-api-endpoint"
+                    }
+                ],
+                "dc:identifier": "DOI:10.1016/j.jvlc.2017.04.006",
+                "prism:url": "https://api.elsevier.com/content/article/pii/S1045926X17300770",
+                "dc:title": "Visualizing trace of Java collection APIs by dynamic bytecode instrumentation",
+                "dc:creator": "Tufail Muhammad",
+                "prism:publicationName": "Journal of Visual Languages & Computing",
+                "prism:volume": "43",
+                "prism:coverDate": "2017-12-31",
+                "prism:startingPage": "14",
+                "prism:endingPage": "29",
+                "prism:doi": "10.1016/j.jvlc.2017.04.006",
+                "openaccess": false,
+                "pii": "S1045926X17300770",
+                "authors": {
+                    "author": [
+                        {
+                            "$": "Tufail Muhammad"
+                        },
+                        {
+                            "$": "Zahid Halim"
+                        },
+                        {
+                            "$": "Majid Ali Khan"
+                        }
+                    ]
+                }
+            },
+            {
+                "@_fa": "true",
+                "load-date": "2020-02-15T00:00:00.000Z",
+                "link": [
+                    {
+                        "@_fa": "true",
+                        "@ref": "self",
+                        "@href": "https://api.elsevier.com/content/article/pii/S095058492030029X"
+                    },
+                    {
+                        "@_fa": "true",
+                        "@ref": "scidir",
+                        "@href": "https://www.sciencedirect.com/science/article/pii/S095058492030029X?dgcid=api_sd_search-api-endpoint"
+                    }
+                ],
+                "dc:identifier": "DOI:10.1016/j.infsof.2020.106279",
+                "prism:url": "https://api.elsevier.com/content/article/pii/S095058492030029X",
+                "dc:title": "Detecting Java software similarities by using different clustering techniques",
+                "dc:creator": "Andrea Capiluppi",
+                "prism:publicationName": "Information and Software Technology",
+                "prism:volume": "122",
+                "prism:coverDate": "2020-06-30",
+                "prism:startingPage": "106279",
+                "prism:doi": "10.1016/j.infsof.2020.106279",
+                "openaccess": false,
+                "pii": "S095058492030029X",
+                "authors": {
+                    "author": [
+                        {
+                            "$": "Andrea Capiluppi"
+                        },
+                        {
+                            "$": "Davide Di Ruscio"
+                        },
+                        {
+                            "$": "Nemitari Ajienka"
+                        }
+                    ]
+                }
+            },
+            {
+                "@_fa": "true",
+                "load-date": "2012-11-17T00:00:00.000Z",
+                "link": [
+                    {
+                        "@_fa": "true",
+                        "@ref": "self",
+                        "@href": "https://api.elsevier.com/content/article/pii/S1877042812041766"
+                    },
+                    {
+                        "@_fa": "true",
+                        "@ref": "scidir",
+                        "@href": "https://www.sciencedirect.com/science/article/pii/S1877042812041766?dgcid=api_sd_search-api-endpoint"
+                    }
+                ],
+                "dc:identifier": "DOI:10.1016/j.sbspro.2012.09.714",
+                "prism:url": "https://api.elsevier.com/content/article/pii/S1877042812041766",
+                "dc:title": "Java Programming Assessment Tool for Assignment Module in Moodle E-learning System",
+                "dc:creator": "Norazah Yusof",
+                "prism:publicationName": "Procedia - Social and Behavioral Sciences",
+                "prism:volume": "56",
+                "prism:coverDate": "2012-10-08",
+                "prism:startingPage": "767",
+                "prism:endingPage": "773",
+                "prism:doi": "10.1016/j.sbspro.2012.09.714",
+                "openaccess": true,
+                "pii": "S1877042812041766",
+                "authors": {
+                    "author": [
+                        {
+                            "$": "Norazah Yusof"
+                        },
+                        {
+                            "$": "Nur Ariffin Mohd Zin"
+                        },
+                        {
+                            "$": "Noor Shyahira Adnan"
+                        }
+                    ]
+                }
+            },
+            {
+                "@_fa": "true",
+                "load-date": "2014-10-01T00:00:00.000Z",
+                "link": [
+                    {
+                        "@_fa": "true",
+                        "@ref": "self",
+                        "@href": "https://api.elsevier.com/content/article/pii/S2212667814001488"
+                    },
+                    {
+                        "@_fa": "true",
+                        "@ref": "scidir",
+                        "@href": "https://www.sciencedirect.com/science/article/pii/S2212667814001488?dgcid=api_sd_search-api-endpoint"
+                    }
+                ],
+                "dc:identifier": "DOI:10.1016/j.ieri.2014.09.100",
+                "prism:url": "https://api.elsevier.com/content/article/pii/S2212667814001488",
+                "dc:title": "Scripting Language for Java Source Code Recognition",
+                "dc:creator": "Tomáš Bublík",
+                "prism:publicationName": "IERI Procedia",
+                "prism:volume": "10",
+                "prism:coverDate": "2014-12-31",
+                "prism:startingPage": "119",
+                "prism:endingPage": "130",
+                "prism:doi": "10.1016/j.ieri.2014.09.100",
+                "openaccess": true,
+                "pii": "S2212667814001488",
+                "authors": {
+                    "author": [
+                        {
+                            "$": "Tomáš Bublík"
+                        },
+                        {
+                            "$": "Miroslav Virius"
+                        }
+                    ]
+                }
+            },
+            {
+                "@_fa": "true",
+                "load-date": "2013-12-08T00:00:00.000Z",
+                "link": [
+                    {
+                        "@_fa": "true",
+                        "@ref": "self",
+                        "@href": "https://api.elsevier.com/content/article/pii/S0167819113001439"
+                    },
+                    {
+                        "@_fa": "true",
+                        "@ref": "scidir",
+                        "@href": "https://www.sciencedirect.com/science/article/pii/S0167819113001439?dgcid=api_sd_search-api-endpoint"
+                    }
+                ],
+                "dc:identifier": "DOI:10.1016/j.parco.2013.11.005",
+                "prism:url": "https://api.elsevier.com/content/article/pii/S0167819113001439",
+                "dc:title": "Multiprocessing with GUI-awareness using OpenMP-like directives in Java",
+                "dc:creator": " Vikas",
+                "prism:publicationName": "Parallel Computing",
+                "prism:volume": "40",
+                "prism:coverDate": "2014-02-28",
+                "prism:startingPage": "69",
+                "prism:endingPage": "89",
+                "prism:doi": "10.1016/j.parco.2013.11.005",
+                "openaccess": false,
+                "pii": "S0167819113001439",
+                "authors": {
+                    "author": [
+                        {
+                            "$": " Vikas"
+                        },
+                        {
+                            "$": "Nasser Giacaman"
+                        },
+                        {
+                            "$": "Oliver Sinnen"
+                        }
+                    ]
+                }
+            },
+            {
+                "@_fa": "true",
+                "load-date": "2015-01-31T00:00:00.000Z",
+                "link": [
+                    {
+                        "@_fa": "true",
+                        "@ref": "self",
+                        "@href": "https://api.elsevier.com/content/article/pii/S1878029615000535"
+                    },
+                    {
+                        "@_fa": "true",
+                        "@ref": "scidir",
+                        "@href": "https://www.sciencedirect.com/science/article/pii/S1878029615000535?dgcid=api_sd_search-api-endpoint"
+                    }
+                ],
+                "dc:identifier": "DOI:10.1016/j.proenv.2015.01.052",
+                "prism:url": "https://api.elsevier.com/content/article/pii/S1878029615000535",
+                "dc:title": "Empirical Cumulative Distribution Function (ECDF) Analysis of <ce:italic>Thunnus.sp</ce:italic> Using ARGO Float Sub-surface Multilayer Temperature Data in Indian Ocean South of Java",
+                "dc:creator": "Bambang Sukresno",
+                "prism:publicationName": "Procedia Environmental Sciences",
+                "prism:volume": "23",
+                "prism:coverDate": "2015-12-31",
+                "prism:startingPage": "358",
+                "prism:endingPage": "367",
+                "prism:doi": "10.1016/j.proenv.2015.01.052",
+                "openaccess": true,
+                "pii": "S1878029615000535",
+                "authors": {
+                    "author": [
+                        {
+                            "$": "Bambang Sukresno"
+                        },
+                        {
+                            "$": "Agus Hartoko"
+                        },
+                        {
+                            "$": " Subiyanto"
+                        }
+                    ]
+                }
+            },
+            {
+                "@_fa": "true",
+                "load-date": "2017-03-17T00:00:00.000Z",
+                "link": [
+                    {
+                        "@_fa": "true",
+                        "@ref": "self",
+                        "@href": "https://api.elsevier.com/content/article/pii/S1029313215201042"
+                    },
+                    {
+                        "@_fa": "true",
+                        "@ref": "scidir",
+                        "@href": "https://www.sciencedirect.com/science/article/pii/S1029313215201042?dgcid=api_sd_search-api-endpoint"
+                    }
+                ],
+                "dc:identifier": "DOI:10.1016/j.apmrv.2016.11.002",
+                "prism:url": "https://api.elsevier.com/content/article/pii/S1029313215201042",
+                "dc:title": "The influence of organizational learning capability and organizational creativity on organizational innovation of Universities in East Java, Indonesia",
+                "dc:creator": "Eddy Madiono Sutanto",
+                "prism:publicationName": "Asia Pacific Management Review",
+                "prism:volume": "22",
+                "prism:coverDate": "2017-09-30",
+                "prism:startingPage": "128",
+                "prism:endingPage": "135",
+                "prism:doi": "10.1016/j.apmrv.2016.11.002",
+                "openaccess": true,
+                "pii": "S1029313215201042",
+                "authors": {
+                    "author": "Eddy Madiono Sutanto"
+                }
+            },
+            {
+                "@_fa": "true",
+                "load-date": "2017-06-20T00:00:00.000Z",
+                "link": [
+                    {
+                        "@_fa": "true",
+                        "@ref": "self",
+                        "@href": "https://api.elsevier.com/content/article/pii/S0167642317301260"
+                    },
+                    {
+                        "@_fa": "true",
+                        "@ref": "scidir",
+                        "@href": "https://www.sciencedirect.com/science/article/pii/S0167642317301260?dgcid=api_sd_search-api-endpoint"
+                    }
+                ],
+                "dc:identifier": "DOI:10.1016/j.scico.2017.06.005",
+                "prism:url": "https://api.elsevier.com/content/article/pii/S0167642317301260",
+                "dc:title": "<ce:italic>SMArtOp</ce:italic>: A Java library for distributing high-dimensional sparse-matrix arithmetic operations",
+                "dc:creator": "Antonela Tommasel",
+                "prism:publicationName": "Science of Computer Programming",
+                "prism:volume": "150",
+                "prism:coverDate": "2017-12-15",
+                "prism:startingPage": "26",
+                "prism:endingPage": "30",
+                "prism:doi": "10.1016/j.scico.2017.06.005",
+                "openaccess": true,
+                "pii": "S0167642317301260",
+                "authors": {
+                    "author": [
+                        {
+                            "$": "Antonela Tommasel"
+                        },
+                        {
+                            "$": "Daniela Godoy"
+                        },
+                        {
+                            "$": "Alejandro Zunino"
+                        }
+                    ]
+                }
+            },
+            {
+                "@_fa": "true",
+                "load-date": "2010-04-07T00:00:00.000Z",
+                "link": [
+                    {
+                        "@_fa": "true",
+                        "@ref": "self",
+                        "@href": "https://api.elsevier.com/content/article/pii/S0167642310000596"
+                    },
+                    {
+                        "@_fa": "true",
+                        "@ref": "scidir",
+                        "@href": "https://www.sciencedirect.com/science/article/pii/S0167642310000596?dgcid=api_sd_search-api-endpoint"
+                    }
+                ],
+                "dc:identifier": "DOI:10.1016/j.scico.2010.03.003",
+                "prism:url": "https://api.elsevier.com/content/article/pii/S0167642310000596",
+                "dc:title": "JCML: A specification language for the runtime verification of Java Card programs",
+                "dc:creator": "Umberto Souza da Costa",
+                "prism:publicationName": "Science of Computer Programming",
+                "prism:volume": "77",
+                "prism:coverDate": "2012-04-01",
+                "prism:startingPage": "533",
+                "prism:endingPage": "550",
+                "prism:doi": "10.1016/j.scico.2010.03.003",
+                "openaccess": true,
+                "pii": "S0167642310000596",
+                "authors": {
+                    "author": [
+                        {
+                            "$": "Umberto Souza da Costa"
+                        },
+                        {
+                            "$": "Anamaria Martins Moreira"
+                        },
+                        {
+                            "$": "Plácido A. Souza Neto"
+                        }
+                    ]
+                }
+            },
+            {
+                "@_fa": "true",
+                "load-date": "2016-08-04T00:00:00.000Z",
+                "link": [
+                    {
+                        "@_fa": "true",
+                        "@ref": "self",
+                        "@href": "https://api.elsevier.com/content/article/pii/S1877042816307807"
+                    },
+                    {
+                        "@_fa": "true",
+                        "@ref": "scidir",
+                        "@href": "https://www.sciencedirect.com/science/article/pii/S1877042816307807?dgcid=api_sd_search-api-endpoint"
+                    }
+                ],
+                "dc:identifier": "DOI:10.1016/j.sbspro.2016.06.095",
+                "prism:url": "https://api.elsevier.com/content/article/pii/S1877042816307807",
+                "dc:title": "Willingness to Pay for Climate Change Mitigation: Application on Big Cities in Central Java, Indonesia",
+                "dc:creator": "Evi Gravitiani",
+                "prism:publicationName": "Procedia - Social and Behavioral Sciences",
+                "prism:volume": "227",
+                "prism:coverDate": "2016-07-14",
+                "prism:startingPage": "417",
+                "prism:endingPage": "423",
+                "prism:doi": "10.1016/j.sbspro.2016.06.095",
+                "openaccess": true,
+                "pii": "S1877042816307807",
+                "authors": {
+                    "author": [
+                        {
+                            "$": "Evi Gravitiani"
+                        },
+                        {
+                            "$": " Suryanto"
+                        },
+                        {
+                            "$": "Ernoiz Antriyandari"
+                        }
+                    ]
+                }
+            },
+            {
+                "@_fa": "true",
+                "load-date": "2016-12-06T00:00:00.000Z",
+                "link": [
+                    {
+                        "@_fa": "true",
+                        "@ref": "self",
+                        "@href": "https://api.elsevier.com/content/article/pii/S0034666716300367"
+                    },
+                    {
+                        "@_fa": "true",
+                        "@ref": "scidir",
+                        "@href": "https://www.sciencedirect.com/science/article/pii/S0034666716300367?dgcid=api_sd_search-api-endpoint"
+                    }
+                ],
+                "dc:identifier": "DOI:10.1016/j.revpalbo.2016.11.012",
+                "prism:url": "https://api.elsevier.com/content/article/pii/S0034666716300367",
+                "dc:title": "Marine environment, vegetation and land use changes during the late Holocene in South Kalimantan and East Java reconstructed based on pollen and organic-walled dinoflagellate cysts analysis",
+                "dc:creator": "Anastasia Poliakova",
+                "prism:publicationName": "Review of Palaeobotany and Palynology",
+                "prism:volume": "238",
+                "prism:coverDate": "2017-03-31",
+                "prism:startingPage": "105",
+                "prism:endingPage": "121",
+                "prism:doi": "10.1016/j.revpalbo.2016.11.012",
+                "openaccess": false,
+                "pii": "S0034666716300367",
+                "authors": {
+                    "author": [
+                        {
+                            "$": "Anastasia Poliakova"
+                        },
+                        {
+                            "$": "Karin A. F. Zonneveld"
+                        },
+                        {
+                            "$": "Hermann Behling"
+                        }
+                    ]
+                }
+            },
+            {
+                "@_fa": "true",
+                "load-date": "2015-01-10T00:00:00.000Z",
+                "link": [
+                    {
+                        "@_fa": "true",
+                        "@ref": "self",
+                        "@href": "https://api.elsevier.com/content/article/pii/S1477842415000020"
+                    },
+                    {
+                        "@_fa": "true",
+                        "@ref": "scidir",
+                        "@href": "https://www.sciencedirect.com/science/article/pii/S1477842415000020?dgcid=api_sd_search-api-endpoint"
+                    }
+                ],
+                "dc:identifier": "DOI:10.1016/j.cl.2015.01.001",
+                "prism:url": "https://api.elsevier.com/content/article/pii/S1477842415000020",
+                "dc:title": "A type-safe embedding of SQL into Java using the extensible compiler framework J%",
+                "dc:creator": "Vassilios Karakoidas",
+                "prism:publicationName": "Computer Languages, Systems & Structures",
+                "prism:volume": "41",
+                "prism:coverDate": "2015-04-30",
+                "prism:startingPage": "1",
+                "prism:endingPage": "20",
+                "prism:doi": "10.1016/j.cl.2015.01.001",
+                "openaccess": false,
+                "pii": "S1477842415000020",
+                "authors": {
+                    "author": [
+                        {
+                            "$": "Vassilios Karakoidas"
+                        },
+                        {
+                            "$": "Dimitris Mitropoulos"
+                        },
+                        {
+                            "$": "Diomidis Spinellis"
+                        }
+                    ]
+                }
+            },
+            {
+                "@_fa": "true",
+                "load-date": "2013-12-03T00:00:00.000Z",
+                "link": [
+                    {
+                        "@_fa": "true",
+                        "@ref": "self",
+                        "@href": "https://api.elsevier.com/content/article/pii/S2214212613000318"
+                    },
+                    {
+                        "@_fa": "true",
+                        "@ref": "scidir",
+                        "@href": "https://www.sciencedirect.com/science/article/pii/S2214212613000318?dgcid=api_sd_search-api-endpoint"
+                    }
+                ],
+                "dc:identifier": "DOI:10.1016/j.jisa.2013.07.004",
+                "prism:url": "https://api.elsevier.com/content/article/pii/S2214212613000318",
+                "dc:title": "Load time code validation for mobile phone Java Cards",
+                "dc:creator": "Olga Gadyatskaya",
+                "prism:publicationName": "Journal of Information Security and Applications",
+                "prism:volume": "18",
+                "prism:coverDate": "2013-09-30",
+                "prism:startingPage": "108",
+                "prism:endingPage": "129",
+                "prism:doi": "10.1016/j.jisa.2013.07.004",
+                "openaccess": false,
+                "pii": "S2214212613000318",
+                "authors": {
+                    "author": [
+                        {
+                            "$": "Olga Gadyatskaya"
+                        },
+                        {
+                            "$": "Fabio Massacci"
+                        },
+                        {
+                            "$": "Boutheina Chetali"
+                        }
+                    ]
+                }
+            },
+            {
+                "@_fa": "true",
+                "load-date": "2018-09-14T00:00:00.000Z",
+                "link": [
+                    {
+                        "@_fa": "true",
+                        "@ref": "self",
+                        "@href": "https://api.elsevier.com/content/article/pii/B9780081008539000294"
+                    },
+                    {
+                        "@_fa": "true",
+                        "@ref": "scidir",
+                        "@href": "https://www.sciencedirect.com/science/article/pii/B9780081008539000294?dgcid=api_sd_search-api-endpoint"
+                    }
+                ],
+                "dc:identifier": "DOI:10.1016/B978-0-08-100853-9.00029-4",
+                "prism:url": "https://api.elsevier.com/content/article/pii/B9780081008539000294",
+                "dc:title": "Chapter 21: Java Island, Indonesia",
+                "dc:creator": "Larissa Dsikowitzky",
+                "prism:publicationName": "World Seas: an Environmental Evaluation",
+                "prism:coverDate": "2019-12-31",
+                "prism:startingPage": "459",
+                "prism:endingPage": "490",
+                "prism:doi": "10.1016/B978-0-08-100853-9.00029-4",
+                "openaccess": false,
+                "pii": "B9780081008539000294",
+                "authors": {
+                    "author": [
+                        {
+                            "$": "Larissa Dsikowitzky"
+                        },
+                        {
+                            "$": "Ario Damar"
+                        },
+                        {
+                            "$": "Bambang Sumiono"
+                        }
+                    ]
+                }
+            },
+            {
+                "@_fa": "true",
+                "load-date": "2009-09-26T00:00:00.000Z",
+                "link": [
+                    {
+                        "@_fa": "true",
+                        "@ref": "self",
+                        "@href": "https://api.elsevier.com/content/article/pii/S1571066109003879"
+                    },
+                    {
+                        "@_fa": "true",
+                        "@ref": "scidir",
+                        "@href": "https://www.sciencedirect.com/science/article/pii/S1571066109003879?dgcid=api_sd_search-api-endpoint"
+                    }
+                ],
+                "dc:identifier": "DOI:10.1016/j.entcs.2009.09.033",
+                "prism:url": "https://api.elsevier.com/content/article/pii/S1571066109003879",
+                "dc:title": "Automated Construction of Reasonable Environment for Java Components",
+                "dc:creator": "Pavel Parizek",
+                "prism:publicationName": "Electronic Notes in Theoretical Computer Science",
+                "prism:volume": "253",
+                "prism:coverDate": "2009-10-06",
+                "prism:startingPage": "145",
+                "prism:endingPage": "160",
+                "prism:doi": "10.1016/j.entcs.2009.09.033",
+                "openaccess": true,
+                "pii": "S1571066109003879",
+                "authors": {
+                    "author": [
+                        {
+                            "$": "Pavel Parizek"
+                        },
+                        {
+                            "$": "Jiri Adamek"
+                        },
+                        {
+                            "$": "Tomas Kalibera"
+                        }
+                    ]
+                }
+            },
+            {
+                "@_fa": "true",
+                "load-date": "2009-01-08T00:00:00.000Z",
+                "link": [
+                    {
+                        "@_fa": "true",
+                        "@ref": "self",
+                        "@href": "https://api.elsevier.com/content/article/pii/S0045790608001341"
+                    },
+                    {
+                        "@_fa": "true",
+                        "@ref": "scidir",
+                        "@href": "https://www.sciencedirect.com/science/article/pii/S0045790608001341?dgcid=api_sd_search-api-endpoint"
+                    }
+                ],
+                "dc:identifier": "DOI:10.1016/j.compeleceng.2008.11.021",
+                "prism:url": "https://api.elsevier.com/content/article/pii/S0045790608001341",
+                "dc:title": "An accelerator design for speedup of Java execution in consumer mobile devices",
+                "dc:creator": "Lu Yan",
+                "prism:publicationName": "Computers & Electrical Engineering",
+                "prism:volume": "35",
+                "prism:coverDate": "2009-11-30",
+                "prism:startingPage": "904",
+                "prism:endingPage": "919",
+                "prism:doi": "10.1016/j.compeleceng.2008.11.021",
+                "openaccess": false,
+                "pii": "S0045790608001341",
+                "authors": {
+                    "author": [
+                        {
+                            "$": "Lu Yan"
+                        },
+                        {
+                            "$": "Zheng Liang"
+                        }
+                    ]
+                }
+            },
+            {
+                "@_fa": "true",
+                "load-date": "2015-02-28T00:00:00.000Z",
+                "link": [
+                    {
+                        "@_fa": "true",
+                        "@ref": "self",
+                        "@href": "https://api.elsevier.com/content/article/pii/S2210784315000285"
+                    },
+                    {
+                        "@_fa": "true",
+                        "@ref": "scidir",
+                        "@href": "https://www.sciencedirect.com/science/article/pii/S2210784315000285?dgcid=api_sd_search-api-endpoint"
+                    }
+                ],
+                "dc:identifier": "DOI:10.1016/j.aaspro.2015.01.027",
+                "prism:url": "https://api.elsevier.com/content/article/pii/S2210784315000285",
+                "dc:title": "Current Condition of Agroindustrial Supply Chain of Cassava Products: A Case Survey of East Java, Indonesia",
+                "dc:creator": "I. B. Suryaningrat",
+                "prism:publicationName": "Agriculture and Agricultural Science Procedia",
+                "prism:volume": "3",
+                "prism:coverDate": "2015-12-31",
+                "prism:startingPage": "137",
+                "prism:endingPage": "142",
+                "prism:doi": "10.1016/j.aaspro.2015.01.027",
+                "openaccess": true,
+                "pii": "S2210784315000285",
+                "authors": {
+                    "author": [
+                        {
+                            "$": "I. B. Suryaningrat"
+                        },
+                        {
+                            "$": "Winda Amilia"
+                        },
+                        {
+                            "$": "Miftahul Choiron"
+                        }
+                    ]
+                }
+            },
+            {
+                "@_fa": "true",
+                "load-date": "2014-03-28T00:00:00.000Z",
+                "link": [
+                    {
+                        "@_fa": "true",
+                        "@ref": "self",
+                        "@href": "https://api.elsevier.com/content/article/pii/S1877042814019661"
+                    },
+                    {
+                        "@_fa": "true",
+                        "@ref": "scidir",
+                        "@href": "https://www.sciencedirect.com/science/article/pii/S1877042814019661?dgcid=api_sd_search-api-endpoint"
+                    }
+                ],
+                "dc:identifier": "DOI:10.1016/j.sbspro.2014.02.418",
+                "prism:url": "https://api.elsevier.com/content/article/pii/S1877042814019661",
+                "dc:title": "Analysis of Potential Demand for Microfinance Services in West-Java by District Areas",
+                "dc:creator": "Muhammad Nashihin",
+                "prism:publicationName": "Procedia - Social and Behavioral Sciences",
+                "prism:volume": "115",
+                "prism:coverDate": "2014-02-21",
+                "prism:startingPage": "91",
+                "prism:endingPage": "101",
+                "prism:doi": "10.1016/j.sbspro.2014.02.418",
+                "openaccess": true,
+                "pii": "S1877042814019661",
+                "authors": {
+                    "author": "Muhammad Nashihin"
+                }
+            },
+            {
+                "@_fa": "true",
+                "load-date": "2007-11-01T00:00:00.000Z",
+                "link": [
+                    {
+                        "@_fa": "true",
+                        "@ref": "self",
+                        "@href": "https://api.elsevier.com/content/article/pii/S0167642307001736"
+                    },
+                    {
+                        "@_fa": "true",
+                        "@ref": "scidir",
+                        "@href": "https://www.sciencedirect.com/science/article/pii/S0167642307001736?dgcid=api_sd_search-api-endpoint"
+                    }
+                ],
+                "dc:identifier": "DOI:10.1016/j.scico.2007.07.010",
+                "prism:url": "https://api.elsevier.com/content/article/pii/S0167642307001736",
+                "dc:title": "On a Java computer algebra system, its performance and applications",
+                "dc:creator": "Heinz Kredel",
+                "prism:publicationName": "Science of Computer Programming",
+                "prism:volume": "70",
+                "prism:coverDate": "2008-02-01",
+                "prism:startingPage": "185",
+                "prism:endingPage": "207",
+                "prism:doi": "10.1016/j.scico.2007.07.010",
+                "openaccess": true,
+                "pii": "S0167642307001736",
+                "authors": {
+                    "author": "Heinz Kredel"
+                }
+            },
+            {
+                "@_fa": "true",
+                "load-date": "2009-03-09T00:00:00.000Z",
+                "link": [
+                    {
+                        "@_fa": "true",
+                        "@ref": "self",
+                        "@href": "https://api.elsevier.com/content/article/pii/S0743731509000252"
+                    },
+                    {
+                        "@_fa": "true",
+                        "@ref": "scidir",
+                        "@href": "https://www.sciencedirect.com/science/article/pii/S0743731509000252?dgcid=api_sd_search-api-endpoint"
+                    }
+                ],
+                "dc:identifier": "DOI:10.1016/j.jpdc.2009.02.006",
+                "prism:url": "https://api.elsevier.com/content/article/pii/S0743731509000252",
+                "dc:title": "Nested parallelism for multi-core HPC systems using Java",
+                "dc:creator": "Aamir Shafi",
+                "prism:publicationName": "Journal of Parallel and Distributed Computing",
+                "prism:volume": "69",
+                "prism:coverDate": "2009-06-30",
+                "prism:startingPage": "532",
+                "prism:endingPage": "545",
+                "prism:doi": "10.1016/j.jpdc.2009.02.006",
+                "openaccess": false,
+                "pii": "S0743731509000252",
+                "authors": {
+                    "author": [
+                        {
+                            "$": "Aamir Shafi"
+                        },
+                        {
+                            "$": "Bryan Carpenter"
+                        },
+                        {
+                            "$": "Mark Baker"
+                        }
+                    ]
+                }
+            },
+            {
+                "@_fa": "true",
+                "load-date": "2016-02-23T00:00:00.000Z",
+                "link": [
+                    {
+                        "@_fa": "true",
+                        "@ref": "self",
+                        "@href": "https://api.elsevier.com/content/article/pii/S2210784316301425"
+                    },
+                    {
+                        "@_fa": "true",
+                        "@ref": "scidir",
+                        "@href": "https://www.sciencedirect.com/science/article/pii/S2210784316301425?dgcid=api_sd_search-api-endpoint"
+                    }
+                ],
+                "dc:identifier": "DOI:10.1016/j.aaspro.2016.02.142",
+                "prism:url": "https://api.elsevier.com/content/article/pii/S2210784316301425",
+                "dc:title": "Farmers’Injuries, Discomfort and Its Use in Design of Agricultural Hand Tools: A Case Study from East Java, Indonesia",
+                "dc:creator": "Robertoes Koekoeh K. Wibowo",
+                "prism:publicationName": "Agriculture and Agricultural Science Procedia",
+                "prism:volume": "9",
+                "prism:coverDate": "2016-12-31",
+                "prism:startingPage": "323",
+                "prism:endingPage": "327",
+                "prism:doi": "10.1016/j.aaspro.2016.02.142",
+                "openaccess": true,
+                "pii": "S2210784316301425",
+                "authors": {
+                    "author": [
+                        {
+                            "$": "Robertoes Koekoeh K. Wibowo"
+                        },
+                        {
+                            "$": "Peeyush Soni"
+                        }
+                    ]
+                }
+            },
+            {
+                "@_fa": "true",
+                "load-date": "2017-01-11T00:00:00.000Z",
+                "link": [
+                    {
+                        "@_fa": "true",
+                        "@ref": "self",
+                        "@href": "https://api.elsevier.com/content/article/pii/S0010465516303952"
+                    },
+                    {
+                        "@_fa": "true",
+                        "@ref": "scidir",
+                        "@href": "https://www.sciencedirect.com/science/article/pii/S0010465516303952?dgcid=api_sd_search-api-endpoint"
+                    }
+                ],
+                "dc:identifier": "DOI:10.1016/j.cpc.2016.12.016",
+                "prism:url": "https://api.elsevier.com/content/article/pii/S0010465516303952",
+                "dc:title": "<ce:italic>JDiffraction</ce:italic>: A GPGPU-accelerated JAVA library for numerical propagation of scalar wave fields",
+                "dc:creator": "Pablo Piedrahita-Quintero",
+                "prism:publicationName": "Computer Physics Communications",
+                "prism:volume": "214",
+                "prism:coverDate": "2017-05-31",
+                "prism:startingPage": "128",
+                "prism:endingPage": "139",
+                "prism:doi": "10.1016/j.cpc.2016.12.016",
+                "openaccess": false,
+                "pii": "S0010465516303952",
+                "authors": {
+                    "author": [
+                        {
+                            "$": "Pablo Piedrahita-Quintero"
+                        },
+                        {
+                            "$": "Carlos Trujillo"
+                        },
+                        {
+                            "$": "Jorge Garcia-Sucerquia"
+                        }
+                    ]
+                }
+            },
+            {
+                "@_fa": "true",
+                "load-date": "2016-04-14T00:00:00.000Z",
+                "link": [
+                    {
+                        "@_fa": "true",
+                        "@ref": "self",
+                        "@href": "https://api.elsevier.com/content/article/pii/S1878029616002565"
+                    },
+                    {
+                        "@_fa": "true",
+                        "@ref": "scidir",
+                        "@href": "https://www.sciencedirect.com/science/article/pii/S1878029616002565?dgcid=api_sd_search-api-endpoint"
+                    }
+                ],
+                "dc:identifier": "DOI:10.1016/j.proenv.2016.03.091",
+                "prism:url": "https://api.elsevier.com/content/article/pii/S1878029616002565",
+                "dc:title": "Assessing Intensity of Mistletoe Infestation in Teak Clonal Seed Orchard (CSO) Padangan, East Java",
+                "dc:creator": "Zainal Muttaqin",
+                "prism:publicationName": "Procedia Environmental Sciences",
+                "prism:volume": "33",
+                "prism:coverDate": "2016-12-31",
+                "prism:startingPage": "404",
+                "prism:endingPage": "415",
+                "prism:doi": "10.1016/j.proenv.2016.03.091",
+                "openaccess": true,
+                "pii": "S1878029616002565",
+                "authors": {
+                    "author": [
+                        {
+                            "$": "Zainal Muttaqin"
+                        },
+                        {
+                            "$": " Sri Wilarso Budi R."
+                        },
+                        {
+                            "$": " Corryanti"
+                        }
+                    ]
+                }
+            },
+            {
+                "@_fa": "true",
+                "load-date": "2014-05-02T00:00:00.000Z",
+                "link": [
+                    {
+                        "@_fa": "true",
+                        "@ref": "self",
+                        "@href": "https://api.elsevier.com/content/article/pii/S1878029614000826"
+                    },
+                    {
+                        "@_fa": "true",
+                        "@ref": "scidir",
+                        "@href": "https://www.sciencedirect.com/science/article/pii/S1878029614000826?dgcid=api_sd_search-api-endpoint"
+                    }
+                ],
+                "dc:identifier": "DOI:10.1016/j.proenv.2014.03.081",
+                "prism:url": "https://api.elsevier.com/content/article/pii/S1878029614000826",
+                "dc:title": "Multi-epoch GNSS Data Analysis on Geodynamics Study of Central Java",
+                "dc:creator": "Leni S. Heliani",
+                "prism:publicationName": "Procedia Environmental Sciences",
+                "prism:volume": "20",
+                "prism:coverDate": "2014-12-31",
+                "prism:startingPage": "678",
+                "prism:endingPage": "683",
+                "prism:doi": "10.1016/j.proenv.2014.03.081",
+                "openaccess": true,
+                "pii": "S1878029614000826",
+                "authors": {
+                    "author": [
+                        {
+                            "$": "Leni S. Heliani"
+                        },
+                        {
+                            "$": " Danardono"
+                        },
+                        {
+                            "$": "H. Panuntun"
+                        }
+                    ]
+                }
+            },
+            {
+                "@_fa": "true",
+                "load-date": "2015-11-24T00:00:00.000Z",
+                "link": [
+                    {
+                        "@_fa": "true",
+                        "@ref": "self",
+                        "@href": "https://api.elsevier.com/content/article/pii/S1040618215010320"
+                    },
+                    {
+                        "@_fa": "true",
+                        "@ref": "scidir",
+                        "@href": "https://www.sciencedirect.com/science/article/pii/S1040618215010320?dgcid=api_sd_search-api-endpoint"
+                    }
+                ],
+                "dc:identifier": "DOI:10.1016/j.quaint.2015.09.072",
+                "prism:url": "https://api.elsevier.com/content/article/pii/S1040618215010320",
+                "dc:title": "Subsistence strategies and environment in Late Pleistocene–Early Holocene Eastern Java: Evidence from Braholo Cave",
+                "dc:creator": "Noel Amano",
+                "prism:publicationName": "Quaternary International",
+                "prism:volume": "416",
+                "prism:coverDate": "2016-09-19",
+                "prism:startingPage": "46",
+                "prism:endingPage": "63",
+                "prism:doi": "10.1016/j.quaint.2015.09.072",
+                "openaccess": false,
+                "pii": "S1040618215010320",
+                "authors": {
+                    "author": [
+                        {
+                            "$": "Noel Amano"
+                        },
+                        {
+                            "$": "Anne-Marie Moigne"
+                        },
+                        {
+                            "$": "Truman Simanjuntak"
+                        }
+                    ]
+                }
+            },
+            {
+                "@_fa": "true",
+                "load-date": "2010-04-29T00:00:00.000Z",
+                "link": [
+                    {
+                        "@_fa": "true",
+                        "@ref": "self",
+                        "@href": "https://api.elsevier.com/content/article/pii/S0167642310000742"
+                    },
+                    {
+                        "@_fa": "true",
+                        "@ref": "scidir",
+                        "@href": "https://www.sciencedirect.com/science/article/pii/S0167642310000742?dgcid=api_sd_search-api-endpoint"
+                    }
+                ],
+                "dc:identifier": "DOI:10.1016/j.scico.2010.04.005",
+                "prism:url": "https://api.elsevier.com/content/article/pii/S0167642310000742",
+                "dc:title": "On designing safe and flexible embedded DSLs with Java 5",
+                "dc:creator": "Jevgeni Kabanov",
+                "prism:publicationName": "Science of Computer Programming",
+                "prism:volume": "76",
+                "prism:coverDate": "2011-11-01",
+                "prism:startingPage": "970",
+                "prism:endingPage": "991",
+                "prism:doi": "10.1016/j.scico.2010.04.005",
+                "openaccess": true,
+                "pii": "S0167642310000742",
+                "authors": {
+                    "author": [
+                        {
+                            "$": "Jevgeni Kabanov"
+                        },
+                        {
+                            "$": "Michael Hunger"
+                        },
+                        {
+                            "$": "Rein Raudjärv"
+                        }
+                    ]
+                }
+            },
+            {
+                "@_fa": "true",
+                "load-date": "2015-04-23T00:00:00.000Z",
+                "link": [
+                    {
+                        "@_fa": "true",
+                        "@ref": "self",
+                        "@href": "https://api.elsevier.com/content/article/pii/S0164121215000849"
+                    },
+                    {
+                        "@_fa": "true",
+                        "@ref": "scidir",
+                        "@href": "https://www.sciencedirect.com/science/article/pii/S0164121215000849?dgcid=api_sd_search-api-endpoint"
+                    }
+                ],
+                "dc:identifier": "DOI:10.1016/j.jss.2015.04.064",
+                "prism:url": "https://api.elsevier.com/content/article/pii/S0164121215000849",
+                "dc:title": "A large-scale study on the usage of Java’s concurrent programming constructs",
+                "dc:creator": "Gustavo Pinto",
+                "prism:publicationName": "Journal of Systems and Software",
+                "prism:volume": "106",
+                "prism:coverDate": "2015-08-31",
+                "prism:startingPage": "59",
+                "prism:endingPage": "81",
+                "prism:doi": "10.1016/j.jss.2015.04.064",
+                "openaccess": false,
+                "pii": "S0164121215000849",
+                "authors": {
+                    "author": [
+                        {
+                            "$": "Gustavo Pinto"
+                        },
+                        {
+                            "$": "Weslley Torres"
+                        },
+                        {
+                            "$": "Roberto S. M. Barros"
+                        }
+                    ]
+                }
+            },
+            {
+                "@_fa": "true",
+                "load-date": "2015-08-28T00:00:00.000Z",
+                "link": [
+                    {
+                        "@_fa": "true",
+                        "@ref": "self",
+                        "@href": "https://api.elsevier.com/content/article/pii/S1878522015002490"
+                    },
+                    {
+                        "@_fa": "true",
+                        "@ref": "scidir",
+                        "@href": "https://www.sciencedirect.com/science/article/pii/S1878522015002490?dgcid=api_sd_search-api-endpoint"
+                    }
+                ],
+                "dc:identifier": "DOI:10.1016/j.proeps.2015.07.098",
+                "prism:url": "https://api.elsevier.com/content/article/pii/S1878522015002490",
+                "dc:title": "Modeling of Sediment Transport Affecting the Coastline Changes due to Infrastructures in Batang - Central Java",
+                "dc:creator": "Wahyu Hendriyono",
+                "prism:publicationName": "Procedia Earth and Planetary Science",
+                "prism:volume": "14",
+                "prism:coverDate": "2015-12-31",
+                "prism:startingPage": "166",
+                "prism:endingPage": "178",
+                "prism:doi": "10.1016/j.proeps.2015.07.098",
+                "openaccess": true,
+                "pii": "S1878522015002490",
+                "authors": {
+                    "author": [
+                        {
+                            "$": "Wahyu Hendriyono"
+                        },
+                        {
+                            "$": "Mardi Wibowo"
+                        },
+                        {
+                            "$": "Dinar Catur Istiyanto"
+                        }
+                    ]
+                }
+            },
+            {
+                "@_fa": "true",
+                "load-date": "2019-05-17T00:00:00.000Z",
+                "link": [
+                    {
+                        "@_fa": "true",
+                        "@ref": "self",
+                        "@href": "https://api.elsevier.com/content/article/pii/S0167739X18304898"
+                    },
+                    {
+                        "@_fa": "true",
+                        "@ref": "scidir",
+                        "@href": "https://www.sciencedirect.com/science/article/pii/S0167739X18304898?dgcid=api_sd_search-api-endpoint"
+                    }
+                ],
+                "dc:identifier": "DOI:10.1016/j.future.2019.05.027",
+                "prism:url": "https://api.elsevier.com/content/article/pii/S0167739X18304898",
+                "dc:title": "<ce:italic>GC-Wise</ce:italic>: A Self-adaptive approach for memory-performance efficiency in Java VMs",
+                "dc:creator": "J. Simão",
+                "prism:publicationName": "Future Generation Computer Systems",
+                "prism:volume": "100",
+                "prism:coverDate": "2019-11-30",
+                "prism:startingPage": "674",
+                "prism:endingPage": "688",
+                "prism:doi": "10.1016/j.future.2019.05.027",
+                "openaccess": false,
+                "pii": "S0167739X18304898",
+                "authors": {
+                    "author": [
+                        {
+                            "$": "J. Simão"
+                        },
+                        {
+                            "$": "S. Esteves"
+                        },
+                        {
+                            "$": "L. Veiga"
+                        }
+                    ]
+                }
+            },
+            {
+                "@_fa": "true",
+                "load-date": "2007-01-16T00:00:00.000Z",
+                "link": [
+                    {
+                        "@_fa": "true",
+                        "@ref": "self",
+                        "@href": "https://api.elsevier.com/content/article/pii/S0895717707000076"
+                    },
+                    {
+                        "@_fa": "true",
+                        "@ref": "scidir",
+                        "@href": "https://www.sciencedirect.com/science/article/pii/S0895717707000076?dgcid=api_sd_search-api-endpoint"
+                    }
+                ],
+                "dc:identifier": "DOI:10.1016/j.mcm.2006.12.004",
+                "prism:url": "https://api.elsevier.com/content/article/pii/S0895717707000076",
+                "dc:title": "Fuzzy control of inverted pendulum and concept of stability using Java application",
+                "dc:creator": "Yasar Becerikli",
+                "prism:publicationName": "Mathematical and Computer Modelling",
+                "prism:volume": "46",
+                "prism:coverDate": "2007-07-31",
+                "prism:startingPage": "24",
+                "prism:endingPage": "37",
+                "prism:doi": "10.1016/j.mcm.2006.12.004",
+                "openaccess": true,
+                "pii": "S0895717707000076",
+                "authors": {
+                    "author": [
+                        {
+                            "$": "Yasar Becerikli"
+                        },
+                        {
+                            "$": "B. Koray Celik"
+                        }
+                    ]
+                }
+            },
+            {
+                "@_fa": "true",
+                "load-date": "2016-04-13T00:00:00.000Z",
+                "link": [
+                    {
+                        "@_fa": "true",
+                        "@ref": "self",
+                        "@href": "https://api.elsevier.com/content/article/pii/S2210539516300153"
+                    },
+                    {
+                        "@_fa": "true",
+                        "@ref": "scidir",
+                        "@href": "https://www.sciencedirect.com/science/article/pii/S2210539516300153?dgcid=api_sd_search-api-endpoint"
+                    }
+                ],
+                "dc:identifier": "DOI:10.1016/j.rtbm.2016.03.010",
+                "prism:url": "https://api.elsevier.com/content/article/pii/S2210539516300153",
+                "dc:title": "Port and inland mode choice from the exporters' and forwarders' perspectives: Case study — Java, Indonesia",
+                "dc:creator": "Munajat Tri Nugroho",
+                "prism:publicationName": "Research in Transportation Business & Management",
+                "prism:volume": "19",
+                "prism:coverDate": "2016-06-30",
+                "prism:startingPage": "73",
+                "prism:endingPage": "82",
+                "prism:doi": "10.1016/j.rtbm.2016.03.010",
+                "openaccess": false,
+                "pii": "S2210539516300153",
+                "authors": {
+                    "author": [
+                        {
+                            "$": "Munajat Tri Nugroho"
+                        },
+                        {
+                            "$": "Anthony Whiteing"
+                        },
+                        {
+                            "$": "Gerard de Jong"
+                        }
+                    ]
+                }
+            },
+            {
+                "@_fa": "true",
+                "load-date": "2018-02-19T00:00:00.000Z",
+                "link": [
+                    {
+                        "@_fa": "true",
+                        "@ref": "self",
+                        "@href": "https://api.elsevier.com/content/article/pii/S1071581918300636"
+                    },
+                    {
+                        "@_fa": "true",
+                        "@ref": "scidir",
+                        "@href": "https://www.sciencedirect.com/science/article/pii/S1071581918300636?dgcid=api_sd_search-api-endpoint"
+                    }
+                ],
+                "dc:identifier": "DOI:10.1016/j.ijhcs.2018.02.004",
+                "prism:url": "https://api.elsevier.com/content/article/pii/S1071581918300636",
+                "dc:title": "A cognitive assistant for learning java featuring social dialogue",
+                "dc:creator": "Miguel Coronado",
+                "prism:publicationName": "International Journal of Human-Computer Studies",
+                "prism:volume": "117",
+                "prism:coverDate": "2018-09-30",
+                "prism:startingPage": "55",
+                "prism:endingPage": "67",
+                "prism:doi": "10.1016/j.ijhcs.2018.02.004",
+                "openaccess": true,
+                "pii": "S1071581918300636",
+                "authors": {
+                    "author": [
+                        {
+                            "$": "Miguel Coronado"
+                        },
+                        {
+                            "$": "Carlos A. Iglesias"
+                        },
+                        {
+                            "$": "Alberto Mardomingo"
+                        }
+                    ]
+                }
+            },
+            {
+                "@_fa": "true",
+                "load-date": "2020-11-19T00:00:00.000Z",
+                "link": [
+                    {
+                        "@_fa": "true",
+                        "@ref": "self",
+                        "@href": "https://api.elsevier.com/content/article/pii/S2212420920314655"
+                    },
+                    {
+                        "@_fa": "true",
+                        "@ref": "scidir",
+                        "@href": "https://www.sciencedirect.com/science/article/pii/S2212420920314655?dgcid=api_sd_search-api-endpoint"
+                    }
+                ],
+                "dc:identifier": "DOI:10.1016/j.ijdrr.2020.101963",
+                "prism:url": "https://api.elsevier.com/content/article/pii/S2212420920314655",
+                "dc:title": "Social capital for flood disaster management: Case study of flooding in a village of Bengawan Solo Riverbank, Tuban, East Java Province",
+                "dc:creator": "Rustinsyah Rustinsyah",
+                "prism:publicationName": "International Journal of Disaster Risk Reduction",
+                "prism:volume": "52",
+                "prism:coverDate": "2021-01-31",
+                "prism:startingPage": "101963",
+                "prism:doi": "10.1016/j.ijdrr.2020.101963",
+                "openaccess": true,
+                "pii": "S2212420920314655",
+                "authors": {
+                    "author": [
+                        {
+                            "$": "Rustinsyah Rustinsyah"
+                        },
+                        {
+                            "$": "Ratna Azis Prasetyo"
+                        },
+                        {
+                            "$": "Muhammad Adib"
+                        }
+                    ]
+                }
+            },
+            {
+                "@_fa": "true",
+                "load-date": "2006-11-20T00:00:00.000Z",
+                "link": [
+                    {
+                        "@_fa": "true",
+                        "@ref": "self",
+                        "@href": "https://api.elsevier.com/content/article/pii/S1383762106001299"
+                    },
+                    {
+                        "@_fa": "true",
+                        "@ref": "scidir",
+                        "@href": "https://www.sciencedirect.com/science/article/pii/S1383762106001299?dgcid=api_sd_search-api-endpoint"
+                    }
+                ],
+                "dc:identifier": "DOI:10.1016/j.sysarc.2006.10.003",
+                "prism:url": "https://api.elsevier.com/content/article/pii/S1383762106001299",
+                "dc:title": "Energy consumption analysis for two embedded Java virtual machines",
+                "dc:creator": "Sébastien Lafond",
+                "prism:publicationName": "Journal of Systems Architecture",
+                "prism:volume": "53",
+                "prism:coverDate": "2007-06-30",
+                "prism:startingPage": "328",
+                "prism:endingPage": "337",
+                "prism:doi": "10.1016/j.sysarc.2006.10.003",
+                "openaccess": false,
+                "pii": "S1383762106001299",
+                "authors": {
+                    "author": [
+                        {
+                            "$": "Sébastien Lafond"
+                        },
+                        {
+                            "$": "Johan Lilius"
+                        }
+                    ]
+                }
+            },
+            {
+                "@_fa": "true",
+                "load-date": "2011-07-18T00:00:00.000Z",
+                "link": [
+                    {
+                        "@_fa": "true",
+                        "@ref": "self",
+                        "@href": "https://api.elsevier.com/content/article/pii/S0167642311001468"
+                    },
+                    {
+                        "@_fa": "true",
+                        "@ref": "scidir",
+                        "@href": "https://www.sciencedirect.com/science/article/pii/S0167642311001468?dgcid=api_sd_search-api-endpoint"
+                    }
+                ],
+                "dc:identifier": "DOI:10.1016/j.scico.2011.06.006",
+                "prism:url": "https://api.elsevier.com/content/article/pii/S0167642311001468",
+                "dc:title": "Teaching Java programming with the Informa clicker system",
+                "dc:creator": "Matthias Hauswirth",
+                "prism:publicationName": "Science of Computer Programming",
+                "prism:volume": "78",
+                "prism:coverDate": "2013-05-01",
+                "prism:startingPage": "499",
+                "prism:endingPage": "520",
+                "prism:doi": "10.1016/j.scico.2011.06.006",
+                "openaccess": true,
+                "pii": "S0167642311001468",
+                "authors": {
+                    "author": [
+                        {
+                            "$": "Matthias Hauswirth"
+                        },
+                        {
+                            "$": "Andrea Adamoli"
+                        }
+                    ]
+                }
+            },
+            {
+                "@_fa": "true",
+                "load-date": "2015-12-08T00:00:00.000Z",
+                "link": [
+                    {
+                        "@_fa": "true",
+                        "@ref": "self",
+                        "@href": "https://api.elsevier.com/content/article/pii/S1367912015301577"
+                    },
+                    {
+                        "@_fa": "true",
+                        "@ref": "scidir",
+                        "@href": "https://www.sciencedirect.com/science/article/pii/S1367912015301577?dgcid=api_sd_search-api-endpoint"
+                    }
+                ],
+                "dc:identifier": "DOI:10.1016/j.jseaes.2015.12.003",
+                "prism:url": "https://api.elsevier.com/content/article/pii/S1367912015301577",
+                "dc:title": "Investigation of the best coseismic fault model of the 2006 Java tsunami earthquake based on mechanisms of postseismic deformation",
+                "dc:creator": "Endra Gunawan",
+                "prism:publicationName": "Journal of Asian Earth Sciences",
+                "prism:volume": "117",
+                "prism:coverDate": "2016-03-01",
+                "prism:startingPage": "64",
+                "prism:endingPage": "72",
+                "prism:doi": "10.1016/j.jseaes.2015.12.003",
+                "openaccess": false,
+                "pii": "S1367912015301577",
+                "authors": {
+                    "author": [
+                        {
+                            "$": "Endra Gunawan"
+                        },
+                        {
+                            "$": "Irwan Meilano"
+                        },
+                        {
+                            "$": " Susilo"
+                        }
+                    ]
+                }
+            },
+            {
+                "@_fa": "true",
+                "load-date": "2009-09-29T00:00:00.000Z",
+                "link": [
+                    {
+                        "@_fa": "true",
+                        "@ref": "self",
+                        "@href": "https://api.elsevier.com/content/article/pii/S1571066109003910"
+                    },
+                    {
+                        "@_fa": "true",
+                        "@ref": "scidir",
+                        "@href": "https://www.sciencedirect.com/science/article/pii/S1571066109003910?dgcid=api_sd_search-api-endpoint"
+                    }
+                ],
+                "dc:identifier": "DOI:10.1016/j.entcs.2009.09.037",
+                "prism:url": "https://api.elsevier.com/content/article/pii/S1571066109003910",
+                "dc:title": "Tickling Java with a Feather",
+                "dc:creator": "Tristan O. R. Allwood",
+                "prism:publicationName": "Electronic Notes in Theoretical Computer Science",
+                "prism:volume": "238",
+                "prism:coverDate": "2009-10-10",
+                "prism:startingPage": "3",
+                "prism:endingPage": "16",
+                "prism:doi": "10.1016/j.entcs.2009.09.037",
+                "openaccess": true,
+                "pii": "S1571066109003910",
+                "authors": {
+                    "author": [
+                        {
+                            "$": "Tristan O. R. Allwood"
+                        },
+                        {
+                            "$": "Susan Eisenbach"
+                        }
+                    ]
+                }
+            },
+            {
+                "@_fa": "true",
+                "load-date": "2009-07-29T00:00:00.000Z",
+                "link": [
+                    {
+                        "@_fa": "true",
+                        "@ref": "self",
+                        "@href": "https://api.elsevier.com/content/article/pii/S0167404809000790"
+                    },
+                    {
+                        "@_fa": "true",
+                        "@ref": "scidir",
+                        "@href": "https://www.sciencedirect.com/science/article/pii/S0167404809000790?dgcid=api_sd_search-api-endpoint"
+                    }
+                ],
+                "dc:identifier": "DOI:10.1016/j.cose.2009.07.005",
+                "prism:url": "https://api.elsevier.com/content/article/pii/S0167404809000790",
+                "dc:title": "Runtime monitoring for next generation Java ME platform",
+                "dc:creator": "Gabriele Costa",
+                "prism:publicationName": "Computers & Security",
+                "prism:volume": "29",
+                "prism:coverDate": "2010-02-28",
+                "prism:startingPage": "74",
+                "prism:endingPage": "87",
+                "prism:doi": "10.1016/j.cose.2009.07.005",
+                "openaccess": false,
+                "pii": "S0167404809000790",
+                "authors": {
+                    "author": [
+                        {
+                            "$": "Gabriele Costa"
+                        },
+                        {
+                            "$": "Fabio Martinelli"
+                        },
+                        {
+                            "$": "Thomas Walter"
+                        }
+                    ]
+                }
+            },
+            {
+                "@_fa": "true",
+                "load-date": "2016-04-14T00:00:00.000Z",
+                "link": [
+                    {
+                        "@_fa": "true",
+                        "@ref": "self",
+                        "@href": "https://api.elsevier.com/content/article/pii/S1878029616002176"
+                    },
+                    {
+                        "@_fa": "true",
+                        "@ref": "scidir",
+                        "@href": "https://www.sciencedirect.com/science/article/pii/S1878029616002176?dgcid=api_sd_search-api-endpoint"
+                    }
+                ],
+                "dc:identifier": "DOI:10.1016/j.proenv.2016.03.052",
+                "prism:url": "https://api.elsevier.com/content/article/pii/S1878029616002176",
+                "dc:title": "The Disparity of Watershed Development between Northern and Southern Region of Java Island",
+                "dc:creator": " Kaswanto",
+                "prism:publicationName": "Procedia Environmental Sciences",
+                "prism:volume": "33",
+                "prism:coverDate": "2016-12-31",
+                "prism:startingPage": "21",
+                "prism:endingPage": "26",
+                "prism:doi": "10.1016/j.proenv.2016.03.052",
+                "openaccess": true,
+                "pii": "S1878029616002176",
+                "authors": {
+                    "author": [
+                        {
+                            "$": " Kaswanto"
+                        },
+                        {
+                            "$": "Fitriyah Nurul Hidayati Utami"
+                        }
+                    ]
+                }
+            },
+            {
+                "@_fa": "true",
+                "load-date": "2014-05-02T00:00:00.000Z",
+                "link": [
+                    {
+                        "@_fa": "true",
+                        "@ref": "self",
+                        "@href": "https://api.elsevier.com/content/article/pii/S187802961400084X"
+                    },
+                    {
+                        "@_fa": "true",
+                        "@ref": "scidir",
+                        "@href": "https://www.sciencedirect.com/science/article/pii/S187802961400084X?dgcid=api_sd_search-api-endpoint"
+                    }
+                ],
+                "dc:identifier": "DOI:10.1016/j.proenv.2014.03.083",
+                "prism:url": "https://api.elsevier.com/content/article/pii/S187802961400084X",
+                "dc:title": "Climate Change and Water Scarcity Adaptation Strategies in the Area of Pacitan, Java Indonesia",
+                "dc:creator": "Wiwin Widiyanti",
+                "prism:publicationName": "Procedia Environmental Sciences",
+                "prism:volume": "20",
+                "prism:coverDate": "2014-12-31",
+                "prism:startingPage": "693",
+                "prism:endingPage": "702",
+                "prism:doi": "10.1016/j.proenv.2014.03.083",
+                "openaccess": true,
+                "pii": "S187802961400084X",
+                "authors": {
+                    "author": [
+                        {
+                            "$": "Wiwin Widiyanti"
+                        },
+                        {
+                            "$": "Andreas Dittmann"
+                        }
+                    ]
+                }
+            },
+            {
+                "@_fa": "true",
+                "load-date": "2008-02-20T00:00:00.000Z",
+                "link": [
+                    {
+                        "@_fa": "true",
+                        "@ref": "self",
+                        "@href": "https://api.elsevier.com/content/article/pii/S1383762108000271"
+                    },
+                    {
+                        "@_fa": "true",
+                        "@ref": "scidir",
+                        "@href": "https://www.sciencedirect.com/science/article/pii/S1383762108000271?dgcid=api_sd_search-api-endpoint"
+                    }
+                ],
+                "dc:identifier": "DOI:10.1016/j.sysarc.2008.01.008",
+                "prism:url": "https://api.elsevier.com/content/article/pii/S1383762108000271",
+                "dc:title": "A predecoding technique for ILP exploitation in Java processors",
+                "dc:creator": "Isidoros Sideris",
+                "prism:publicationName": "Journal of Systems Architecture",
+                "prism:volume": "54",
+                "prism:coverDate": "2008-07-31",
+                "prism:startingPage": "707",
+                "prism:endingPage": "728",
+                "prism:doi": "10.1016/j.sysarc.2008.01.008",
+                "openaccess": false,
+                "pii": "S1383762108000271",
+                "authors": {
+                    "author": [
+                        {
+                            "$": "Isidoros Sideris"
+                        },
+                        {
+                            "$": "Kiamal Pekmestzi"
+                        },
+                        {
+                            "$": "George Economakos"
+                        }
+                    ]
+                }
+            },
+            {
+                "@_fa": "true",
+                "load-date": "2016-04-21T00:00:00.000Z",
+                "link": [
+                    {
+                        "@_fa": "true",
+                        "@ref": "self",
+                        "@href": "https://api.elsevier.com/content/article/pii/S1474667015316256"
+                    },
+                    {
+                        "@_fa": "true",
+                        "@ref": "scidir",
+                        "@href": "https://www.sciencedirect.com/science/article/pii/S1474667015316256?dgcid=api_sd_search-api-endpoint"
+                    }
+                ],
+                "dc:identifier": "DOI:10.3182/20091021-3-JP-2009.00046",
+                "prism:url": "https://api.elsevier.com/content/article/pii/S1474667015316256",
+                "dc:title": "New features of Easy Java Simulations for 3D Modeling",
+                "dc:creator": "Carlos A. Jara",
+                "prism:publicationName": "IFAC Proceedings Volumes",
+                "prism:volume": "42",
+                "prism:coverDate": "2010-12-31",
+                "prism:startingPage": "250",
+                "prism:endingPage": "255",
+                "prism:doi": "10.3182/20091021-3-JP-2009.00046",
+                "openaccess": false,
+                "pii": "S1474667015316256",
+                "authors": {
+                    "author": [
+                        {
+                            "$": "Carlos A. Jara"
+                        },
+                        {
+                            "$": "Francisco Esquembre"
+                        },
+                        {
+                            "$": "Sebastián Dormido"
+                        }
+                    ]
+                }
+            },
+            {
+                "@_fa": "true",
+                "load-date": "2014-06-11T00:00:00.000Z",
+                "link": [
+                    {
+                        "@_fa": "true",
+                        "@ref": "self",
+                        "@href": "https://api.elsevier.com/content/article/pii/S0164121214001423"
+                    },
+                    {
+                        "@_fa": "true",
+                        "@ref": "scidir",
+                        "@href": "https://www.sciencedirect.com/science/article/pii/S0164121214001423?dgcid=api_sd_search-api-endpoint"
+                    }
+                ],
+                "dc:identifier": "DOI:10.1016/j.jss.2014.06.005",
+                "prism:url": "https://api.elsevier.com/content/article/pii/S0164121214001423",
+                "dc:title": "Memory leak detection in Java: Taxonomy and classification of approaches",
+                "dc:creator": "Vladimir Šor",
+                "prism:publicationName": "Journal of Systems and Software",
+                "prism:volume": "96",
+                "prism:coverDate": "2014-10-31",
+                "prism:startingPage": "139",
+                "prism:endingPage": "151",
+                "prism:doi": "10.1016/j.jss.2014.06.005",
+                "openaccess": false,
+                "pii": "S0164121214001423",
+                "authors": {
+                    "author": [
+                        {
+                            "$": "Vladimir Šor"
+                        },
+                        {
+                            "$": "Satish Narayana Srirama"
+                        }
+                    ]
+                }
+            },
+            {
+                "@_fa": "true",
+                "load-date": "2016-10-20T00:00:00.000Z",
+                "link": [
+                    {
+                        "@_fa": "true",
+                        "@ref": "self",
+                        "@href": "https://api.elsevier.com/content/article/pii/S0164121216302126"
+                    },
+                    {
+                        "@_fa": "true",
+                        "@ref": "scidir",
+                        "@href": "https://www.sciencedirect.com/science/article/pii/S0164121216302126?dgcid=api_sd_search-api-endpoint"
+                    }
+                ],
+                "dc:identifier": "DOI:10.1016/j.jss.2016.10.017",
+                "prism:url": "https://api.elsevier.com/content/article/pii/S0164121216302126",
+                "dc:title": "Understanding the syntactic rule usage in java",
+                "dc:creator": "Dong Qiu",
+                "prism:publicationName": "Journal of Systems and Software",
+                "prism:volume": "123",
+                "prism:coverDate": "2017-01-31",
+                "prism:startingPage": "160",
+                "prism:endingPage": "172",
+                "prism:doi": "10.1016/j.jss.2016.10.017",
+                "openaccess": false,
+                "pii": "S0164121216302126",
+                "authors": {
+                    "author": [
+                        {
+                            "$": "Dong Qiu"
+                        },
+                        {
+                            "$": "Bixin Li"
+                        },
+                        {
+                            "$": "Zhendong Su"
+                        }
+                    ]
+                }
+            },
+            {
+                "@_fa": "true",
+                "load-date": "2013-03-15T00:00:00.000Z",
+                "link": [
+                    {
+                        "@_fa": "true",
+                        "@ref": "self",
+                        "@href": "https://api.elsevier.com/content/article/pii/S1878029613001096"
+                    },
+                    {
+                        "@_fa": "true",
+                        "@ref": "scidir",
+                        "@href": "https://www.sciencedirect.com/science/article/pii/S1878029613001096?dgcid=api_sd_search-api-endpoint"
+                    }
+                ],
+                "dc:identifier": "DOI:10.1016/j.proenv.2013.02.107",
+                "prism:url": "https://api.elsevier.com/content/article/pii/S1878029613001096",
+                "dc:title": "Examining Inter-organizational Network during Emergency Response of West Java Earthquake 2009, Indonesia",
+                "dc:creator": "Mizan B. F. Bisri",
+                "prism:publicationName": "Procedia Environmental Sciences",
+                "prism:volume": "17",
+                "prism:coverDate": "2013-12-31",
+                "prism:startingPage": "889",
+                "prism:endingPage": "898",
+                "prism:doi": "10.1016/j.proenv.2013.02.107",
+                "openaccess": true,
+                "pii": "S1878029613001096",
+                "authors": {
+                    "author": "Mizan B. F. Bisri"
+                }
+            },
+            {
+                "@_fa": "true",
+                "load-date": "2020-02-12T00:00:00.000Z",
+                "link": [
+                    {
+                        "@_fa": "true",
+                        "@ref": "self",
+                        "@href": "https://api.elsevier.com/content/article/pii/S2212420919307848"
+                    },
+                    {
+                        "@_fa": "true",
+                        "@ref": "scidir",
+                        "@href": "https://www.sciencedirect.com/science/article/pii/S2212420919307848?dgcid=api_sd_search-api-endpoint"
+                    }
+                ],
+                "dc:identifier": "DOI:10.1016/j.ijdrr.2020.101523",
+                "prism:url": "https://api.elsevier.com/content/article/pii/S2212420919307848",
+                "dc:title": "The future tsunami risk potential as a consequence of building development in Pangandaran Region, West Java, Indonesia",
+                "dc:creator": "Djati Mardiatno",
+                "prism:publicationName": "International Journal of Disaster Risk Reduction",
+                "prism:volume": "46",
+                "prism:coverDate": "2020-06-30",
+                "prism:startingPage": "101523",
+                "prism:doi": "10.1016/j.ijdrr.2020.101523",
+                "openaccess": false,
+                "pii": "S2212420919307848",
+                "authors": {
+                    "author": [
+                        {
+                            "$": "Djati Mardiatno"
+                        },
+                        {
+                            "$": "M. N. Malawani"
+                        },
+                        {
+                            "$": "Ratri Ma'rifatun Nisaa'"
+                        }
+                    ]
+                }
+            },
+            {
+                "@_fa": "true",
+                "load-date": "2018-04-13T00:00:00.000Z",
+                "link": [
+                    {
+                        "@_fa": "true",
+                        "@ref": "self",
+                        "@href": "https://api.elsevier.com/content/article/pii/S0950705118301734"
+                    },
+                    {
+                        "@_fa": "true",
+                        "@ref": "scidir",
+                        "@href": "https://www.sciencedirect.com/science/article/pii/S0950705118301734?dgcid=api_sd_search-api-endpoint"
+                    }
+                ],
+                "dc:identifier": "DOI:10.1016/j.knosys.2018.04.008",
+                "prism:url": "https://api.elsevier.com/content/article/pii/S0950705118301734",
+                "dc:title": "CF4J: Collaborative filtering for Java",
+                "dc:creator": "F. Ortega",
+                "prism:publicationName": "Knowledge-Based Systems",
+                "prism:volume": "152",
+                "prism:coverDate": "2018-07-15",
+                "prism:startingPage": "94",
+                "prism:endingPage": "99",
+                "prism:doi": "10.1016/j.knosys.2018.04.008",
+                "openaccess": false,
+                "pii": "S0950705118301734",
+                "authors": {
+                    "author": [
+                        {
+                            "$": "F. Ortega"
+                        },
+                        {
+                            "$": "B. Zhu"
+                        },
+                        {
+                            "$": "A. Hernando"
+                        }
+                    ]
+                }
+            },
+            {
+                "@_fa": "true",
+                "load-date": "2013-07-19T00:00:00.000Z",
+                "link": [
+                    {
+                        "@_fa": "true",
+                        "@ref": "self",
+                        "@href": "https://api.elsevier.com/content/article/pii/S0376635713001459"
+                    },
+                    {
+                        "@_fa": "true",
+                        "@ref": "scidir",
+                        "@href": "https://www.sciencedirect.com/science/article/pii/S0376635713001459?dgcid=api_sd_search-api-endpoint"
+                    }
+                ],
+                "dc:identifier": "DOI:10.1016/j.beproc.2013.07.012",
+                "prism:url": "https://api.elsevier.com/content/article/pii/S0376635713001459",
+                "dc:title": "Song performance and elaboration as potential indicators of male quality in Java sparrows",
+                "dc:creator": "Hiroko Kagawa",
+                "prism:publicationName": "Behavioural Processes",
+                "prism:volume": "99",
+                "prism:coverDate": "2013-10-31",
+                "prism:startingPage": "138",
+                "prism:endingPage": "144",
+                "prism:doi": "10.1016/j.beproc.2013.07.012",
+                "openaccess": false,
+                "pii": "S0376635713001459",
+                "authors": {
+                    "author": [
+                        {
+                            "$": "Hiroko Kagawa"
+                        },
+                        {
+                            "$": "Masayo Soma"
+                        }
+                    ]
+                }
+            },
+            {
+                "@_fa": "true",
+                "load-date": "2015-09-03T00:00:00.000Z",
+                "link": [
+                    {
+                        "@_fa": "true",
+                        "@ref": "self",
+                        "@href": "https://api.elsevier.com/content/article/pii/S187770581501975X"
+                    },
+                    {
+                        "@_fa": "true",
+                        "@ref": "scidir",
+                        "@href": "https://www.sciencedirect.com/science/article/pii/S187770581501975X?dgcid=api_sd_search-api-endpoint"
+                    }
+                ],
+                "dc:identifier": "DOI:10.1016/j.proeng.2015.08.320",
+                "prism:url": "https://api.elsevier.com/content/article/pii/S187770581501975X",
+                "dc:title": "Beach Profile Changes Due to Low Crested Breakwaters at Sigandu Beach, Central Java",
+                "dc:creator": "Dede M. Sulaiman",
+                "prism:publicationName": "Procedia Engineering",
+                "prism:volume": "116",
+                "prism:coverDate": "2015-12-31",
+                "prism:startingPage": "510",
+                "prism:endingPage": "519",
+                "prism:doi": "10.1016/j.proeng.2015.08.320",
+                "openaccess": true,
+                "pii": "S187770581501975X",
+                "authors": {
+                    "author": [
+                        {
+                            "$": "Dede M. Sulaiman"
+                        },
+                        {
+                            "$": "Huda Bachtiar"
+                        },
+                        {
+                            "$": " Hermanto"
+                        }
+                    ]
+                }
+            },
+            {
+                "@_fa": "true",
+                "load-date": "2012-02-11T00:00:00.000Z",
+                "link": [
+                    {
+                        "@_fa": "true",
+                        "@ref": "self",
+                        "@href": "https://api.elsevier.com/content/article/pii/S0167642312000147"
+                    },
+                    {
+                        "@_fa": "true",
+                        "@ref": "scidir",
+                        "@href": "https://www.sciencedirect.com/science/article/pii/S0167642312000147?dgcid=api_sd_search-api-endpoint"
+                    }
+                ],
+                "dc:identifier": "DOI:10.1016/j.scico.2012.01.005",
+                "prism:url": "https://api.elsevier.com/content/article/pii/S0167642312000147",
+                "dc:title": "A hybrid approach for resource-based comparison of adaptable Java applications",
+                "dc:creator": "Marco Autili",
+                "prism:publicationName": "Science of Computer Programming",
+                "prism:volume": "78",
+                "prism:coverDate": "2013-08-01",
+                "prism:startingPage": "987",
+                "prism:endingPage": "1009",
+                "prism:doi": "10.1016/j.scico.2012.01.005",
+                "openaccess": true,
+                "pii": "S0167642312000147",
+                "authors": {
+                    "author": [
+                        {
+                            "$": "Marco Autili"
+                        },
+                        {
+                            "$": "Paolo Di Benedetto"
+                        },
+                        {
+                            "$": "Paola Inverardi"
+                        }
+                    ]
+                }
+            },
+            {
+                "@_fa": "true",
+                "load-date": "2015-07-20T00:00:00.000Z",
+                "link": [
+                    {
+                        "@_fa": "true",
+                        "@ref": "self",
+                        "@href": "https://api.elsevier.com/content/article/pii/S0955395915002121"
+                    },
+                    {
+                        "@_fa": "true",
+                        "@ref": "scidir",
+                        "@href": "https://www.sciencedirect.com/science/article/pii/S0955395915002121?dgcid=api_sd_search-api-endpoint"
+                    }
+                ],
+                "dc:identifier": "DOI:10.1016/j.drugpo.2015.07.011",
+                "prism:url": "https://api.elsevier.com/content/article/pii/S0955395915002121",
+                "dc:title": "Impacts of stigma on HIV risk for women who inject drugs in Java: A qualitative study",
+                "dc:creator": "Catherine Spooner",
+                "prism:publicationName": "International Journal of Drug Policy",
+                "prism:volume": "26",
+                "prism:coverDate": "2015-12-31",
+                "prism:startingPage": "1244",
+                "prism:endingPage": "1250",
+                "prism:doi": "10.1016/j.drugpo.2015.07.011",
+                "openaccess": false,
+                "pii": "S0955395915002121",
+                "authors": {
+                    "author": [
+                        {
+                            "$": "Catherine Spooner"
+                        },
+                        {
+                            "$": "Antonia Morita Iswari Saktiawati"
+                        },
+                        {
+                            "$": "Retna Siwi Padmawati"
+                        }
+                    ]
+                }
+            },
+            {
+                "@_fa": "true",
+                "load-date": "2007-11-01T00:00:00.000Z",
+                "link": [
+                    {
+                        "@_fa": "true",
+                        "@ref": "self",
+                        "@href": "https://api.elsevier.com/content/article/pii/S016764230700175X"
+                    },
+                    {
+                        "@_fa": "true",
+                        "@ref": "scidir",
+                        "@href": "https://www.sciencedirect.com/science/article/pii/S016764230700175X?dgcid=api_sd_search-api-endpoint"
+                    }
+                ],
+                "dc:identifier": "DOI:10.1016/j.scico.2007.07.009",
+                "prism:url": "https://api.elsevier.com/content/article/pii/S016764230700175X",
+                "dc:title": "Mobile JikesRVM: A framework to support transparent Java thread migration",
+                "dc:creator": "Raffaele Quitadamo",
+                "prism:publicationName": "Science of Computer Programming",
+                "prism:volume": "70",
+                "prism:coverDate": "2008-02-01",
+                "prism:startingPage": "221",
+                "prism:endingPage": "240",
+                "prism:doi": "10.1016/j.scico.2007.07.009",
+                "openaccess": true,
+                "pii": "S016764230700175X",
+                "authors": {
+                    "author": [
+                        {
+                            "$": "Raffaele Quitadamo"
+                        },
+                        {
+                            "$": "Giacomo Cabri"
+                        },
+                        {
+                            "$": "Letizia Leonardi"
+                        }
+                    ]
+                }
+            },
+            {
+                "@_fa": "true",
+                "load-date": "2010-04-27T00:00:00.000Z",
+                "link": [
+                    {
+                        "@_fa": "true",
+                        "@ref": "self",
+                        "@href": "https://api.elsevier.com/content/article/pii/S0305748810000332"
+                    },
+                    {
+                        "@_fa": "true",
+                        "@ref": "scidir",
+                        "@href": "https://www.sciencedirect.com/science/article/pii/S0305748810000332?dgcid=api_sd_search-api-endpoint"
+                    }
+                ],
+                "dc:identifier": "DOI:10.1016/j.jhg.2010.03.004",
+                "prism:url": "https://api.elsevier.com/content/article/pii/S0305748810000332",
+                "dc:title": "Java's forgotten pearls: the history and disappearance of pearl fishing in the Segara Anakan lagoon, South Java, Indonesia",
+                "dc:creator": "Kathleen Schwerdtner Máñez",
+                "prism:publicationName": "Journal of Historical Geography",
+                "prism:volume": "36",
+                "prism:coverDate": "2010-10-31",
+                "prism:startingPage": "367",
+                "prism:endingPage": "376",
+                "prism:doi": "10.1016/j.jhg.2010.03.004",
+                "openaccess": false,
+                "pii": "S0305748810000332",
+                "authors": {
+                    "author": "Kathleen Schwerdtner Máñez"
+                }
+            },
+            {
+                "@_fa": "true",
+                "load-date": "2016-04-25T00:00:00.000Z",
+                "link": [
+                    {
+                        "@_fa": "true",
+                        "@ref": "self",
+                        "@href": "https://api.elsevier.com/content/article/pii/S1474667016404520"
+                    },
+                    {
+                        "@_fa": "true",
+                        "@ref": "scidir",
+                        "@href": "https://www.sciencedirect.com/science/article/pii/S1474667016404520?dgcid=api_sd_search-api-endpoint"
+                    }
+                ],
+                "dc:identifier": "DOI:10.3182/20080706-5-KR-1001.01575",
+                "prism:url": "https://api.elsevier.com/content/article/pii/S1474667016404520",
+                "dc:title": "Application Experiences with a Real-Time Java Processor",
+                "dc:creator": "Martin Schoeberl",
+                "prism:publicationName": "IFAC Proceedings Volumes",
+                "prism:volume": "41",
+                "prism:coverDate": "2008-12-31",
+                "prism:startingPage": "9320",
+                "prism:endingPage": "9325",
+                "prism:doi": "10.3182/20080706-5-KR-1001.01575",
+                "openaccess": false,
+                "pii": "S1474667016404520",
+                "authors": {
+                    "author": "Martin Schoeberl"
+                }
+            },
+            {
+                "@_fa": "true",
+                "load-date": "2016-11-24T00:00:00.000Z",
+                "link": [
+                    {
+                        "@_fa": "true",
+                        "@ref": "self",
+                        "@href": "https://api.elsevier.com/content/article/pii/S0363811116304283"
+                    },
+                    {
+                        "@_fa": "true",
+                        "@ref": "scidir",
+                        "@href": "https://www.sciencedirect.com/science/article/pii/S0363811116304283?dgcid=api_sd_search-api-endpoint"
+                    }
+                ],
+                "dc:identifier": "DOI:10.1016/j.pubrev.2016.10.020",
+                "prism:url": "https://api.elsevier.com/content/article/pii/S0363811116304283",
+                "dc:title": "The ‘Bakul Gendong’ as a communication strategy to reject the construction of a cement factory in Central Java",
+                "dc:creator": "Eni Maryani",
+                "prism:publicationName": "Public Relations Review",
+                "prism:volume": "43",
+                "prism:coverDate": "2017-03-31",
+                "prism:startingPage": "46",
+                "prism:endingPage": "55",
+                "prism:doi": "10.1016/j.pubrev.2016.10.020",
+                "openaccess": false,
+                "pii": "S0363811116304283",
+                "authors": {
+                    "author": [
+                        {
+                            "$": "Eni Maryani"
+                        },
+                        {
+                            "$": "Rini Darmastuti"
+                        }
+                    ]
+                }
+            },
+            {
+                "@_fa": "true",
+                "load-date": "2018-07-03T00:00:00.000Z",
+                "link": [
+                    {
+                        "@_fa": "true",
+                        "@ref": "self",
+                        "@href": "https://api.elsevier.com/content/article/pii/S0190740918301798"
+                    },
+                    {
+                        "@_fa": "true",
+                        "@ref": "scidir",
+                        "@href": "https://www.sciencedirect.com/science/article/pii/S0190740918301798?dgcid=api_sd_search-api-endpoint"
+                    }
+                ],
+                "dc:identifier": "DOI:10.1016/j.childyouth.2018.07.002",
+                "prism:url": "https://api.elsevier.com/content/article/pii/S0190740918301798",
+                "dc:title": "Child abuse and neglect in orphanages in EAST JAVA Province (Study on forms of child abuse, anticipatory efforts developed children and the role of the orphanage)",
+                "dc:creator": " Sutinah",
+                "prism:publicationName": "Children and Youth Services Review",
+                "prism:volume": "93",
+                "prism:coverDate": "2018-10-31",
+                "prism:startingPage": "24",
+                "prism:endingPage": "29",
+                "prism:doi": "10.1016/j.childyouth.2018.07.002",
+                "openaccess": false,
+                "pii": "S0190740918301798",
+                "authors": {
+                    "author": [
+                        {
+                            "$": " Sutinah"
+                        },
+                        {
+                            "$": "Siti Aminah"
+                        }
+                    ]
+                }
+            },
+            {
+                "@_fa": "true",
+                "load-date": "2018-09-29T00:00:00.000Z",
+                "link": [
+                    {
+                        "@_fa": "true",
+                        "@ref": "self",
+                        "@href": "https://api.elsevier.com/content/article/pii/S0950705118304702"
+                    },
+                    {
+                        "@_fa": "true",
+                        "@ref": "scidir",
+                        "@href": "https://www.sciencedirect.com/science/article/pii/S0950705118304702?dgcid=api_sd_search-api-endpoint"
+                    }
+                ],
+                "dc:identifier": "DOI:10.1016/j.knosys.2018.09.019",
+                "prism:url": "https://api.elsevier.com/content/article/pii/S0950705118304702",
+                "dc:title": "AMIDST: A Java toolbox for scalable probabilistic machine learning",
+                "dc:creator": "Andrés R. Masegosa",
+                "prism:publicationName": "Knowledge-Based Systems",
+                "prism:volume": "163",
+                "prism:coverDate": "2019-01-01",
+                "prism:startingPage": "595",
+                "prism:endingPage": "597",
+                "prism:doi": "10.1016/j.knosys.2018.09.019",
+                "openaccess": false,
+                "pii": "S0950705118304702",
+                "authors": {
+                    "author": [
+                        {
+                            "$": "Andrés R. Masegosa"
+                        },
+                        {
+                            "$": "Ana M. Martínez"
+                        },
+                        {
+                            "$": "Anders L. Madsen"
+                        }
+                    ]
+                }
+            },
+            {
+                "@_fa": "true",
+                "load-date": "2009-05-05T00:00:00.000Z",
+                "link": [
+                    {
+                        "@_fa": "true",
+                        "@ref": "self",
+                        "@href": "https://api.elsevier.com/content/article/pii/S0950584909000470"
+                    },
+                    {
+                        "@_fa": "true",
+                        "@ref": "scidir",
+                        "@href": "https://www.sciencedirect.com/science/article/pii/S0950584909000470?dgcid=api_sd_search-api-endpoint"
+                    }
+                ],
+                "dc:identifier": "DOI:10.1016/j.infsof.2009.04.010",
+                "prism:url": "https://api.elsevier.com/content/article/pii/S0950584909000470",
+                "dc:title": "Decompilation of Java bytecode to Prolog by partial evaluation",
+                "dc:creator": "Miguel Gómez-Zamalloa",
+                "prism:publicationName": "Information and Software Technology",
+                "prism:volume": "51",
+                "prism:coverDate": "2009-10-31",
+                "prism:startingPage": "1409",
+                "prism:endingPage": "1427",
+                "prism:doi": "10.1016/j.infsof.2009.04.010",
+                "openaccess": false,
+                "pii": "S0950584909000470",
+                "authors": {
+                    "author": [
+                        {
+                            "$": "Miguel Gómez-Zamalloa"
+                        },
+                        {
+                            "$": "Elvira Albert"
+                        },
+                        {
+                            "$": "Germán Puebla"
+                        }
+                    ]
+                }
+            },
+            {
+                "@_fa": "true",
+                "load-date": "2017-05-31T00:00:00.000Z",
+                "link": [
+                    {
+                        "@_fa": "true",
+                        "@ref": "self",
+                        "@href": "https://api.elsevier.com/content/article/pii/S2351989417300525"
+                    },
+                    {
+                        "@_fa": "true",
+                        "@ref": "scidir",
+                        "@href": "https://www.sciencedirect.com/science/article/pii/S2351989417300525?dgcid=api_sd_search-api-endpoint"
+                    }
+                ],
+                "dc:identifier": "DOI:10.1016/j.gecco.2017.04.004",
+                "prism:url": "https://api.elsevier.com/content/article/pii/S2351989417300525",
+                "dc:title": "The Harry Potter effect: The rise in trade of owls as pets in Java and Bali, Indonesia",
+                "dc:creator": "Vincent Nijman",
+                "prism:publicationName": "Global Ecology and Conservation",
+                "prism:volume": "11",
+                "prism:coverDate": "2017-07-31",
+                "prism:startingPage": "84",
+                "prism:endingPage": "94",
+                "prism:doi": "10.1016/j.gecco.2017.04.004",
+                "openaccess": true,
+                "pii": "S2351989417300525",
+                "authors": {
+                    "author": [
+                        {
+                            "$": "Vincent Nijman"
+                        },
+                        {
+                            "$": "K. Anne-Isola Nekaris"
+                        }
+                    ]
+                }
+            },
+            {
+                "@_fa": "true",
+                "load-date": "2007-07-26T00:00:00.000Z",
+                "link": [
+                    {
+                        "@_fa": "true",
+                        "@ref": "self",
+                        "@href": "https://api.elsevier.com/content/article/pii/S1571066107005117"
+                    },
+                    {
+                        "@_fa": "true",
+                        "@ref": "scidir",
+                        "@href": "https://www.sciencedirect.com/science/article/pii/S1571066107005117?dgcid=api_sd_search-api-endpoint"
+                    }
+                ],
+                "dc:identifier": "DOI:10.1016/j.entcs.2007.06.006",
+                "prism:url": "https://api.elsevier.com/content/article/pii/S1571066107005117",
+                "dc:title": "Java+ITP: A Verification Tool Based on Hoare Logic and Algebraic Semantics",
+                "dc:creator": "Ralf Sasse",
+                "prism:publicationName": "Electronic Notes in Theoretical Computer Science",
+                "prism:volume": "176",
+                "prism:coverDate": "2007-07-28",
+                "prism:startingPage": "29",
+                "prism:endingPage": "46",
+                "prism:doi": "10.1016/j.entcs.2007.06.006",
+                "openaccess": true,
+                "pii": "S1571066107005117",
+                "authors": {
+                    "author": [
+                        {
+                            "$": "Ralf Sasse"
+                        },
+                        {
+                            "$": "José Meseguer"
+                        }
+                    ]
+                }
+            },
+            {
+                "@_fa": "true",
+                "load-date": "2019-07-26T00:00:00.000Z",
+                "link": [
+                    {
+                        "@_fa": "true",
+                        "@ref": "self",
+                        "@href": "https://api.elsevier.com/content/article/pii/S0272771418303597"
+                    },
+                    {
+                        "@_fa": "true",
+                        "@ref": "scidir",
+                        "@href": "https://www.sciencedirect.com/science/article/pii/S0272771418303597?dgcid=api_sd_search-api-endpoint"
+                    }
+                ],
+                "dc:identifier": "DOI:10.1016/j.ecss.2019.106300",
+                "prism:url": "https://api.elsevier.com/content/article/pii/S0272771418303597",
+                "dc:title": "Impact of deforestation on mangrove tree diversity, biomass and community dynamics in the Segara Anakan lagoon, Java, Indonesia: A ten-year perspective",
+                "dc:creator": "Inga Nordhaus",
+                "prism:publicationName": "Estuarine, Coastal and Shelf Science",
+                "prism:volume": "227",
+                "prism:coverDate": "2019-10-31",
+                "prism:startingPage": "106300",
+                "prism:doi": "10.1016/j.ecss.2019.106300",
+                "openaccess": false,
+                "pii": "S0272771418303597",
+                "authors": {
+                    "author": [
+                        {
+                            "$": "Inga Nordhaus"
+                        },
+                        {
+                            "$": "Marijana Toben"
+                        },
+                        {
+                            "$": "Arida Fauziyah"
+                        }
+                    ]
+                }
+            },
+            {
+                "@_fa": "true",
+                "load-date": "2008-05-23T00:00:00.000Z",
+                "link": [
+                    {
+                        "@_fa": "true",
+                        "@ref": "self",
+                        "@href": "https://api.elsevier.com/content/article/pii/S093938890800038X"
+                    },
+                    {
+                        "@_fa": "true",
+                        "@ref": "scidir",
+                        "@href": "https://www.sciencedirect.com/science/article/pii/S093938890800038X?dgcid=api_sd_search-api-endpoint"
+                    }
+                ],
+                "dc:identifier": "DOI:10.1016/j.zemedi.2008.04.006",
+                "prism:url": "https://api.elsevier.com/content/article/pii/S093938890800038X",
+                "dc:title": "Eine Java-Klassenbibliothek für den Zugriff auf Cadplan-Daten",
+                "dc:creator": "Norbert Zagler",
+                "prism:publicationName": "Zeitschrift für Medizinische Physik",
+                "prism:volume": "18",
+                "prism:coverDate": "2008-12-31",
+                "prism:startingPage": "297",
+                "prism:endingPage": "300",
+                "prism:doi": "10.1016/j.zemedi.2008.04.006",
+                "openaccess": false,
+                "pii": "S093938890800038X",
+                "authors": {
+                    "author": "Norbert Zagler"
+                }
+            },
+            {
+                "@_fa": "true",
+                "load-date": "2015-10-01T00:00:00.000Z",
+                "link": [
+                    {
+                        "@_fa": "true",
+                        "@ref": "self",
+                        "@href": "https://api.elsevier.com/content/article/pii/S1389934115300484"
+                    },
+                    {
+                        "@_fa": "true",
+                        "@ref": "scidir",
+                        "@href": "https://www.sciencedirect.com/science/article/pii/S1389934115300484?dgcid=api_sd_search-api-endpoint"
+                    }
+                ],
+                "dc:identifier": "DOI:10.1016/j.forpol.2015.09.005",
+                "prism:url": "https://api.elsevier.com/content/article/pii/S1389934115300484",
+                "dc:title": "The emerging power of peasant farmers in the tenurial conflicts over the uses of state forestland in Central Java, Indonesia",
+                "dc:creator": "Ahmad Maryudi",
+                "prism:publicationName": "Forest Policy and Economics",
+                "prism:volume": "67",
+                "prism:coverDate": "2016-06-30",
+                "prism:startingPage": "70",
+                "prism:endingPage": "75",
+                "prism:doi": "10.1016/j.forpol.2015.09.005",
+                "openaccess": false,
+                "pii": "S1389934115300484",
+                "authors": {
+                    "author": [
+                        {
+                            "$": "Ahmad Maryudi"
+                        },
+                        {
+                            "$": "Erlita R. Citraningtyas"
+                        },
+                        {
+                            "$": "Bowo D. Siswoko"
+                        }
+                    ]
+                }
+            },
+            {
+                "@_fa": "true",
+                "load-date": "2015-11-23T00:00:00.000Z",
+                "link": [
+                    {
+                        "@_fa": "true",
+                        "@ref": "self",
+                        "@href": "https://api.elsevier.com/content/article/pii/S187770581503341X"
+                    },
+                    {
+                        "@_fa": "true",
+                        "@ref": "scidir",
+                        "@href": "https://www.sciencedirect.com/science/article/pii/S187770581503341X?dgcid=api_sd_search-api-endpoint"
+                    }
+                ],
+                "dc:identifier": "DOI:10.1016/j.proeng.2015.11.024",
+                "prism:url": "https://api.elsevier.com/content/article/pii/S187770581503341X",
+                "dc:title": "The Application of Rainfall-Runoff-inundation (RRI) Model for Inundation Case in Upper Citarum Watershed, West Java-Indonesia",
+                "dc:creator": "Kania Dewi Nastiti",
+                "prism:publicationName": "Procedia Engineering",
+                "prism:volume": "125",
+                "prism:coverDate": "2015-12-31",
+                "prism:startingPage": "166",
+                "prism:endingPage": "172",
+                "prism:doi": "10.1016/j.proeng.2015.11.024",
+                "openaccess": true,
+                "pii": "S187770581503341X",
+                "authors": {
+                    "author": [
+                        {
+                            "$": "Kania Dewi Nastiti"
+                        },
+                        {
+                            "$": "Yeonsu Kim"
+                        },
+                        {
+                            "$": "Hyunuk An"
+                        }
+                    ]
+                }
+            },
+            {
+                "@_fa": "true",
+                "load-date": "2017-05-13T00:00:00.000Z",
+                "link": [
+                    {
+                        "@_fa": "true",
+                        "@ref": "self",
+                        "@href": "https://api.elsevier.com/content/article/pii/S1474667017321304"
+                    },
+                    {
+                        "@_fa": "true",
+                        "@ref": "scidir",
+                        "@href": "https://www.sciencedirect.com/science/article/pii/S1474667017321304?dgcid=api_sd_search-api-endpoint"
+                    }
+                ],
+                "dc:identifier": "DOI:10.1016/S1474-6670(17)32130-4",
+                "prism:url": "https://api.elsevier.com/content/article/pii/S1474667017321304",
+                "dc:title": "A MATLAB/Java Interface to the MICA Wheelchair",
+                "dc:creator": "Sven Rönnbäck",
+                "prism:publicationName": "IFAC Proceedings Volumes",
+                "prism:volume": "37",
+                "prism:coverDate": "2004-06-30",
+                "prism:startingPage": "93",
+                "prism:endingPage": "98",
+                "prism:doi": "10.1016/S1474-6670(17)32130-4",
+                "openaccess": false,
+                "pii": "S1474667017321304",
+                "authors": {
+                    "author": [
+                        {
+                            "$": "Sven Rönnbäck"
+                        },
+                        {
+                            "$": "David Rosendahl"
+                        },
+                        {
+                            "$": "Kalevi Hyyppä"
+                        }
+                    ]
+                }
+            },
+            {
+                "@_fa": "true",
+                "load-date": "2003-04-25T00:00:00.000Z",
+                "link": [
+                    {
+                        "@_fa": "true",
+                        "@ref": "self",
+                        "@href": "https://api.elsevier.com/content/article/pii/S0169260703000257"
+                    },
+                    {
+                        "@_fa": "true",
+                        "@ref": "scidir",
+                        "@href": "https://www.sciencedirect.com/science/article/pii/S0169260703000257?dgcid=api_sd_search-api-endpoint"
+                    }
+                ],
+                "dc:identifier": "DOI:10.1016/S0169-2607(03)00025-7",
+                "prism:url": "https://api.elsevier.com/content/article/pii/S0169260703000257",
+                "dc:title": "A distributed computing system for magnetic resonance imaging: Java-based processing and binding of XML",
+                "dc:creator": "R de Beer",
+                "prism:publicationName": "Computer Methods and Programs in Biomedicine",
+                "prism:volume": "73",
+                "prism:coverDate": "2004-03-31",
+                "prism:startingPage": "221",
+                "prism:endingPage": "231",
+                "prism:doi": "10.1016/S0169-2607(03)00025-7",
+                "openaccess": false,
+                "pii": "S0169260703000257",
+                "authors": {
+                    "author": [
+                        {
+                            "$": "R de Beer"
+                        },
+                        {
+                            "$": "D Graveron-Demilly"
+                        },
+                        {
+                            "$": "D van Ormondt"
+                        }
+                    ]
+                }
+            },
+            {
+                "@_fa": "true",
+                "load-date": "2018-03-07T00:00:00.000Z",
+                "link": [
+                    {
+                        "@_fa": "true",
+                        "@ref": "self",
+                        "@href": "https://api.elsevier.com/content/article/pii/S2212420918302802"
+                    },
+                    {
+                        "@_fa": "true",
+                        "@ref": "scidir",
+                        "@href": "https://www.sciencedirect.com/science/article/pii/S2212420918302802?dgcid=api_sd_search-api-endpoint"
+                    }
+                ],
+                "dc:identifier": "DOI:10.1016/j.ijdrr.2018.03.007",
+                "prism:url": "https://api.elsevier.com/content/article/pii/S2212420918302802",
+                "dc:title": "Towards understanding vulnerability: Investigating disruptions in cropping schedules in irrigated rice fields in West Java",
+                "dc:creator": "Riswan Sianturi",
+                "prism:publicationName": "International Journal of Disaster Risk Reduction",
+                "prism:volume": "28",
+                "prism:coverDate": "2018-06-30",
+                "prism:startingPage": "335",
+                "prism:endingPage": "349",
+                "prism:doi": "10.1016/j.ijdrr.2018.03.007",
+                "openaccess": false,
+                "pii": "S2212420918302802",
+                "authors": {
+                    "author": [
+                        {
+                            "$": "Riswan Sianturi"
+                        },
+                        {
+                            "$": "Victor Jetten"
+                        }
+                    ]
+                }
+            },
+            {
+                "@_fa": "true",
+                "load-date": "2013-02-27T00:00:00.000Z",
+                "link": [
+                    {
+                        "@_fa": "true",
+                        "@ref": "self",
+                        "@href": "https://api.elsevier.com/content/article/pii/S2212567112003280"
+                    },
+                    {
+                        "@_fa": "true",
+                        "@ref": "scidir",
+                        "@href": "https://www.sciencedirect.com/science/article/pii/S2212567112003280?dgcid=api_sd_search-api-endpoint"
+                    }
+                ],
+                "dc:identifier": "DOI:10.1016/S2212-5671(12)00328-0",
+                "prism:url": "https://api.elsevier.com/content/article/pii/S2212567112003280",
+                "dc:title": "Characteristics of Small Medium Manufacturing Industries In the Era of ACFTA: Case Study from West Java",
+                "dc:creator": "Gandhi Pawitan",
+                "prism:publicationName": "Procedia Economics and Finance",
+                "prism:volume": "4",
+                "prism:coverDate": "2012-12-31",
+                "prism:startingPage": "130",
+                "prism:endingPage": "139",
+                "prism:doi": "10.1016/S2212-5671(12)00328-0",
+                "openaccess": true,
+                "pii": "S2212567112003280",
+                "authors": {
+                    "author": "Gandhi Pawitan"
+                }
+            },
+            {
+                "@_fa": "true",
+                "load-date": "2007-10-22T00:00:00.000Z",
+                "link": [
+                    {
+                        "@_fa": "true",
+                        "@ref": "self",
+                        "@href": "https://api.elsevier.com/content/article/pii/S0167642307001712"
+                    },
+                    {
+                        "@_fa": "true",
+                        "@ref": "scidir",
+                        "@href": "https://www.sciencedirect.com/science/article/pii/S0167642307001712?dgcid=api_sd_search-api-endpoint"
+                    }
+                ],
+                "dc:identifier": "DOI:10.1016/j.scico.2007.07.004",
+                "prism:url": "https://api.elsevier.com/content/article/pii/S0167642307001712",
+                "dc:title": "Java heap protection for debugging native methods",
+                "dc:creator": "Yuji Chiba",
+                "prism:publicationName": "Science of Computer Programming",
+                "prism:volume": "70",
+                "prism:coverDate": "2008-02-01",
+                "prism:startingPage": "149",
+                "prism:endingPage": "167",
+                "prism:doi": "10.1016/j.scico.2007.07.004",
+                "openaccess": true,
+                "pii": "S0167642307001712",
+                "authors": {
+                    "author": "Yuji Chiba"
+                }
+            },
+            {
+                "@_fa": "true",
+                "load-date": "2018-04-16T00:00:00.000Z",
+                "link": [
+                    {
+                        "@_fa": "true",
+                        "@ref": "self",
+                        "@href": "https://api.elsevier.com/content/article/pii/S0167587717307766"
+                    },
+                    {
+                        "@_fa": "true",
+                        "@ref": "scidir",
+                        "@href": "https://www.sciencedirect.com/science/article/pii/S0167587717307766?dgcid=api_sd_search-api-endpoint"
+                    }
+                ],
+                "dc:identifier": "DOI:10.1016/j.prevetmed.2018.04.008",
+                "prism:url": "https://api.elsevier.com/content/article/pii/S0167587717307766",
+                "dc:title": "Exploring contacts facilitating transmission of influenza A(H5N1) virus between poultry farms in West Java, Indonesia: A major role for backyard farms?",
+                "dc:creator": "Hendra Wibawa",
+                "prism:publicationName": "Preventive Veterinary Medicine",
+                "prism:volume": "156",
+                "prism:coverDate": "2018-08-01",
+                "prism:startingPage": "8",
+                "prism:endingPage": "15",
+                "prism:doi": "10.1016/j.prevetmed.2018.04.008",
+                "openaccess": true,
+                "pii": "S0167587717307766",
+                "authors": {
+                    "author": [
+                        {
+                            "$": "Hendra Wibawa"
+                        },
+                        {
+                            "$": "Desniwaty Karo-Karo"
+                        },
+                        {
+                            "$": "Arjan Stegeman"
+                        }
+                    ]
+                }
+            },
+            {
+                "@_fa": "true",
+                "load-date": "2013-03-15T00:00:00.000Z",
+                "link": [
+                    {
+                        "@_fa": "true",
+                        "@ref": "self",
+                        "@href": "https://api.elsevier.com/content/article/pii/S1353485813700357"
+                    },
+                    {
+                        "@_fa": "true",
+                        "@ref": "scidir",
+                        "@href": "https://www.sciencedirect.com/science/article/pii/S1353485813700357?dgcid=api_sd_search-api-endpoint"
+                    }
+                ],
+                "dc:identifier": "DOI:10.1016/S1353-4858(13)70035-7",
+                "prism:url": "https://api.elsevier.com/content/article/pii/S1353485813700357",
+                "dc:title": "Facebook, Apple and Microsoft hit by Java exploit at watering hole",
+                "prism:publicationName": "Network Security",
+                "prism:volume": "2013",
+                "prism:coverDate": "2013-03-31",
+                "prism:startingPage": "1",
+                "prism:endingPage": "2",
+                "prism:doi": "10.1016/S1353-4858(13)70035-7",
+                "openaccess": false,
+                "pii": "S1353485813700357",
+                "authors": null
+            },
+            {
+                "@_fa": "true",
+                "load-date": "2014-05-02T00:00:00.000Z",
+                "link": [
+                    {
+                        "@_fa": "true",
+                        "@ref": "self",
+                        "@href": "https://api.elsevier.com/content/article/pii/S1878029614000590"
+                    },
+                    {
+                        "@_fa": "true",
+                        "@ref": "scidir",
+                        "@href": "https://www.sciencedirect.com/science/article/pii/S1878029614000590?dgcid=api_sd_search-api-endpoint"
+                    }
+                ],
+                "dc:identifier": "DOI:10.1016/j.proenv.2014.03.058",
+                "prism:url": "https://api.elsevier.com/content/article/pii/S1878029614000590",
+                "dc:title": "Land Tenure Conflict in the Middle of Africa van Java (Baluran National Park)",
+                "dc:creator": "Kristiani Fajar Wianti",
+                "prism:publicationName": "Procedia Environmental Sciences",
+                "prism:volume": "20",
+                "prism:coverDate": "2014-12-31",
+                "prism:startingPage": "459",
+                "prism:endingPage": "467",
+                "prism:doi": "10.1016/j.proenv.2014.03.058",
+                "openaccess": true,
+                "pii": "S1878029614000590",
+                "authors": {
+                    "author": "Kristiani Fajar Wianti"
+                }
+            },
+            {
+                "@_fa": "true",
+                "load-date": "2004-01-17T00:00:00.000Z",
+                "link": [
+                    {
+                        "@_fa": "true",
+                        "@ref": "self",
+                        "@href": "https://api.elsevier.com/content/article/pii/S0950584903002180"
+                    },
+                    {
+                        "@_fa": "true",
+                        "@ref": "scidir",
+                        "@href": "https://www.sciencedirect.com/science/article/pii/S0950584903002180?dgcid=api_sd_search-api-endpoint"
+                    }
+                ],
+                "dc:identifier": "DOI:10.1016/j.infsof.2003.11.001",
+                "prism:url": "https://api.elsevier.com/content/article/pii/S0950584903002180",
+                "dc:title": "Size and effort estimation for applications written in Java",
+                "dc:creator": "J. Kaczmarek",
+                "prism:publicationName": "Information and Software Technology",
+                "prism:volume": "46",
+                "prism:coverDate": "2004-07-01",
+                "prism:startingPage": "589",
+                "prism:endingPage": "601",
+                "prism:doi": "10.1016/j.infsof.2003.11.001",
+                "openaccess": false,
+                "pii": "S0950584903002180",
+                "authors": {
+                    "author": [
+                        {
+                            "$": "J. Kaczmarek"
+                        },
+                        {
+                            "$": "M. Kucharski"
+                        }
+                    ]
+                }
+            },
+            {
+                "@_fa": "true",
+                "load-date": "2015-03-14T00:00:00.000Z",
+                "link": [
+                    {
+                        "@_fa": "true",
+                        "@ref": "self",
+                        "@href": "https://api.elsevier.com/content/article/pii/S1877042815005789"
+                    },
+                    {
+                        "@_fa": "true",
+                        "@ref": "scidir",
+                        "@href": "https://www.sciencedirect.com/science/article/pii/S1877042815005789?dgcid=api_sd_search-api-endpoint"
+                    }
+                ],
+                "dc:identifier": "DOI:10.1016/j.sbspro.2015.01.541",
+                "prism:url": "https://api.elsevier.com/content/article/pii/S1877042815005789",
+                "dc:title": "Teaching Java Programming on Smartphone-pedagogy and Innovation; Proposal of its Ontology Oriented Implementation",
+                "dc:creator": "Mr. Santhosh John",
+                "prism:publicationName": "Procedia - Social and Behavioral Sciences",
+                "prism:volume": "176",
+                "prism:coverDate": "2015-02-20",
+                "prism:startingPage": "787",
+                "prism:endingPage": "794",
+                "prism:doi": "10.1016/j.sbspro.2015.01.541",
+                "openaccess": true,
+                "pii": "S1877042815005789",
+                "authors": {
+                    "author": [
+                        {
+                            "$": "Mr. Santhosh John"
+                        },
+                        {
+                            "$": "Mary Shanthi Rani"
+                        }
+                    ]
+                }
+            },
+            {
+                "@_fa": "true",
+                "load-date": "2015-09-11T00:00:00.000Z",
+                "link": [
+                    {
+                        "@_fa": "true",
+                        "@ref": "self",
+                        "@href": "https://api.elsevier.com/content/article/pii/B9780123944436500238"
+                    },
+                    {
+                        "@_fa": "true",
+                        "@ref": "scidir",
+                        "@href": "https://www.sciencedirect.com/science/article/pii/B9780123944436500238?dgcid=api_sd_search-api-endpoint"
+                    }
+                ],
+                "dc:identifier": "DOI:10.1016/B978-0-12-394443-6.50023-8",
+                "prism:url": "https://api.elsevier.com/content/article/pii/B9780123944436500238",
+                "dc:title": "23: Java",
+                "dc:creator": "Daniel Shiffman",
+                "prism:publicationName": "Learning Processing",
+                "prism:coverDate": "2015-12-31",
+                "prism:startingPage": "503",
+                "prism:endingPage": "522",
+                "prism:doi": "10.1016/B978-0-12-394443-6.50023-8",
+                "openaccess": false,
+                "pii": "B9780123944436500238",
+                "authors": {
+                    "author": "Daniel Shiffman"
+                }
+            },
+            {
+                "@_fa": "true",
+                "load-date": "2015-01-31T00:00:00.000Z",
+                "link": [
+                    {
+                        "@_fa": "true",
+                        "@ref": "self",
+                        "@href": "https://api.elsevier.com/content/article/pii/S1878029615000559"
+                    },
+                    {
+                        "@_fa": "true",
+                        "@ref": "scidir",
+                        "@href": "https://www.sciencedirect.com/science/article/pii/S1878029615000559?dgcid=api_sd_search-api-endpoint"
+                    }
+                ],
+                "dc:identifier": "DOI:10.1016/j.proenv.2015.01.054",
+                "prism:url": "https://api.elsevier.com/content/article/pii/S1878029615000559",
+                "dc:title": "The Diversity of Gut Bacteria Associated with Milkfish (<ce:italic>Chanos Chanos Forsksal</ce:italic>) from Northern Coast of Central Java, Indonesia",
+                "dc:creator": "Slamet Budi Prayitno",
+                "prism:publicationName": "Procedia Environmental Sciences",
+                "prism:volume": "23",
+                "prism:coverDate": "2015-12-31",
+                "prism:startingPage": "375",
+                "prism:endingPage": "384",
+                "prism:doi": "10.1016/j.proenv.2015.01.054",
+                "openaccess": true,
+                "pii": "S1878029615000559",
+                "authors": {
+                    "author": [
+                        {
+                            "$": "Slamet Budi Prayitno"
+                        },
+                        {
+                            "$": " Sarwan"
+                        },
+                        {
+                            "$": " Sarjito"
+                        }
+                    ]
+                }
+            },
+            {
+                "@_fa": "true",
+                "load-date": "2016-06-25T00:00:00.000Z",
+                "link": [
+                    {
+                        "@_fa": "true",
+                        "@ref": "self",
+                        "@href": "https://api.elsevier.com/content/article/pii/B9780444634283501478"
+                    },
+                    {
+                        "@_fa": "true",
+                        "@ref": "scidir",
+                        "@href": "https://www.sciencedirect.com/science/article/pii/B9780444634283501478?dgcid=api_sd_search-api-endpoint"
+                    }
+                ],
+                "dc:identifier": "DOI:10.1016/B978-0-444-63428-3.50147-8",
+                "prism:url": "https://api.elsevier.com/content/article/pii/B9780444634283501478",
+                "dc:title": "Hybrid plant-wide Simulation and Modelling using Reference nets and Java",
+                "dc:creator": "Stefan Hubert",
+                "prism:publicationName": "Computer Aided Chemical Engineering",
+                "prism:volume": "38",
+                "prism:coverDate": "2016-12-31",
+                "prism:startingPage": "853",
+                "prism:endingPage": "858",
+                "prism:doi": "10.1016/B978-0-444-63428-3.50147-8",
+                "openaccess": false,
+                "pii": "B9780444634283501478",
+                "authors": {
+                    "author": [
+                        {
+                            "$": "Stefan Hubert"
+                        },
+                        {
+                            "$": "Darius Rückert"
+                        },
+                        {
+                            "$": "Antonio Delgado"
+                        }
+                    ]
+                }
+            },
+            {
+                "@_fa": "true",
+                "load-date": "2013-10-02T00:00:00.000Z",
+                "link": [
+                    {
+                        "@_fa": "true",
+                        "@ref": "self",
+                        "@href": "https://api.elsevier.com/content/article/pii/S0044848613005061"
+                    },
+                    {
+                        "@_fa": "true",
+                        "@ref": "scidir",
+                        "@href": "https://www.sciencedirect.com/science/article/pii/S0044848613005061?dgcid=api_sd_search-api-endpoint"
+                    }
+                ],
+                "dc:identifier": "DOI:10.1016/j.aquaculture.2013.09.048",
+                "prism:url": "https://api.elsevier.com/content/article/pii/S0044848613005061",
+                "dc:title": "Traditional pharmacopeia in small scale freshwater fish farms in West Java, Indonesia: An ethnoveterinary approach",
+                "dc:creator": "Domenico Caruso",
+                "prism:publicationName": "Aquaculture",
+                "prism:volume": "416–417",
+                "prism:coverDate": "2013-12-05",
+                "prism:startingPage": "334",
+                "prism:endingPage": "345",
+                "prism:doi": "10.1016/j.aquaculture.2013.09.048",
+                "openaccess": false,
+                "pii": "S0044848613005061",
+                "authors": {
+                    "author": [
+                        {
+                            "$": "Domenico Caruso"
+                        },
+                        {
+                            "$": "Angela Maria Lusiastuti"
+                        },
+                        {
+                            "$": "Marc Legendre"
+                        }
+                    ]
+                }
+            },
+            {
+                "@_fa": "true",
+                "load-date": "2000-08-24T00:00:00.000Z",
+                "link": [
+                    {
+                        "@_fa": "true",
+                        "@ref": "self",
+                        "@href": "https://api.elsevier.com/content/article/pii/S014193310000079X"
+                    },
+                    {
+                        "@_fa": "true",
+                        "@ref": "scidir",
+                        "@href": "https://www.sciencedirect.com/science/article/pii/S014193310000079X?dgcid=api_sd_search-api-endpoint"
+                    }
+                ],
+                "dc:identifier": "DOI:10.1016/S0141-9331(00)00079-X",
+                "prism:url": "https://api.elsevier.com/content/article/pii/S014193310000079X",
+                "dc:title": "A quantitative study for Java microprocessor architectural requirements. Part I: Instruction set design",
+                "dc:creator": "M. W El-Kharashi",
+                "prism:publicationName": "Microprocessors and Microsystems",
+                "prism:volume": "24",
+                "prism:coverDate": "2000-09-01",
+                "prism:startingPage": "225",
+                "prism:endingPage": "236",
+                "prism:doi": "10.1016/S0141-9331(00)00079-X",
+                "openaccess": false,
+                "pii": "S014193310000079X",
+                "authors": {
+                    "author": [
+                        {
+                            "$": "M. W El-Kharashi"
+                        },
+                        {
+                            "$": "F ElGuibaly"
+                        },
+                        {
+                            "$": "K. F Li"
+                        }
+                    ]
+                }
+            },
+            {
+                "@_fa": "true",
+                "load-date": "2010-04-09T00:00:00.000Z",
+                "link": [
+                    {
+                        "@_fa": "true",
+                        "@ref": "self",
+                        "@href": "https://api.elsevier.com/content/article/pii/S0961953410001005"
+                    },
+                    {
+                        "@_fa": "true",
+                        "@ref": "scidir",
+                        "@href": "https://www.sciencedirect.com/science/article/pii/S0961953410001005?dgcid=api_sd_search-api-endpoint"
+                    }
+                ],
+                "dc:identifier": "DOI:10.1016/j.biombioe.2010.03.005",
+                "prism:url": "https://api.elsevier.com/content/article/pii/S0961953410001005",
+                "dc:title": "Coconut oil extraction by the traditional Java method: An investigation of its potential application in aqueous Jatropha oil extraction",
+                "dc:creator": "Ahmad Marasabessy",
+                "prism:publicationName": "Biomass and Bioenergy",
+                "prism:volume": "34",
+                "prism:coverDate": "2010-08-31",
+                "prism:startingPage": "1141",
+                "prism:endingPage": "1148",
+                "prism:doi": "10.1016/j.biombioe.2010.03.005",
+                "openaccess": false,
+                "pii": "S0961953410001005",
+                "authors": {
+                    "author": [
+                        {
+                            "$": "Ahmad Marasabessy"
+                        },
+                        {
+                            "$": "Maelita R. Moeis"
+                        },
+                        {
+                            "$": "Ruud A. Weusthuis"
+                        }
+                    ]
+                }
+            },
+            {
+                "@_fa": "true",
+                "load-date": "2007-07-04T00:00:00.000Z",
+                "link": [
+                    {
+                        "@_fa": "true",
+                        "@ref": "self",
+                        "@href": "https://api.elsevier.com/content/article/pii/S1477842407000176"
+                    },
+                    {
+                        "@_fa": "true",
+                        "@ref": "scidir",
+                        "@href": "https://www.sciencedirect.com/science/article/pii/S1477842407000176?dgcid=api_sd_search-api-endpoint"
+                    }
+                ],
+                "dc:identifier": "DOI:10.1016/j.cl.2007.06.004",
+                "prism:url": "https://api.elsevier.com/content/article/pii/S1477842407000176",
+                "dc:title": "Efficient exception handling in Java bytecode-to-C ahead-of-time compiler for embedded systems",
+                "dc:creator": "Dong-Heon Jung",
+                "prism:publicationName": "Computer Languages, Systems & Structures",
+                "prism:volume": "34",
+                "prism:coverDate": "2008-12-31",
+                "prism:startingPage": "170",
+                "prism:endingPage": "183",
+                "prism:doi": "10.1016/j.cl.2007.06.004",
+                "openaccess": false,
+                "pii": "S1477842407000176",
+                "authors": {
+                    "author": [
+                        {
+                            "$": "Dong-Heon Jung"
+                        },
+                        {
+                            "$": "JongKuk Park"
+                        },
+                        {
+                            "$": "Soo-Mook Moon"
+                        }
+                    ]
+                }
+            },
+            {
+                "@_fa": "true",
+                "load-date": "2016-03-02T00:00:00.000Z",
+                "link": [
+                    {
+                        "@_fa": "true",
+                        "@ref": "self",
+                        "@href": "https://api.elsevier.com/content/article/pii/S104061821600135X"
+                    },
+                    {
+                        "@_fa": "true",
+                        "@ref": "scidir",
+                        "@href": "https://www.sciencedirect.com/science/article/pii/S104061821600135X?dgcid=api_sd_search-api-endpoint"
+                    }
+                ],
+                "dc:identifier": "DOI:10.1016/j.quaint.2015.12.091",
+                "prism:url": "https://api.elsevier.com/content/article/pii/S104061821600135X",
+                "dc:title": "Matar: A forgotten but promising Pleistocene locality in East Java",
+                "dc:creator": "M. Ruly Fauzi",
+                "prism:publicationName": "Quaternary International",
+                "prism:volume": "416",
+                "prism:coverDate": "2016-09-19",
+                "prism:startingPage": "183",
+                "prism:endingPage": "192",
+                "prism:doi": "10.1016/j.quaint.2015.12.091",
+                "openaccess": false,
+                "pii": "S104061821600135X",
+                "authors": {
+                    "author": [
+                        {
+                            "$": "M. Ruly Fauzi"
+                        },
+                        {
+                            "$": "M. M. Ansyori"
+                        },
+                        {
+                            "$": "T. Simanjuntak"
+                        }
+                    ]
+                }
+            },
+            {
+                "@_fa": "true",
+                "load-date": "2017-01-03T00:00:00.000Z",
+                "link": [
+                    {
+                        "@_fa": "true",
+                        "@ref": "self",
+                        "@href": "https://api.elsevier.com/content/article/pii/S1978301916300195"
+                    },
+                    {
+                        "@_fa": "true",
+                        "@ref": "scidir",
+                        "@href": "https://www.sciencedirect.com/science/article/pii/S1978301916300195?dgcid=api_sd_search-api-endpoint"
+                    }
+                ],
+                "dc:identifier": "DOI:10.1016/j.hjb.2016.12.004",
+                "prism:url": "https://api.elsevier.com/content/article/pii/S1978301916300195",
+                "dc:title": "The <ce:italic>Meq</ce:italic> Gene Molecular Profile of Marek’s Disease Virus Serotype 1 From Kampung and Arabic Chicken Farms in Sukabumi, West Java, Indonesia",
+                "dc:creator": "Risza Hartawan",
+                "prism:publicationName": "HAYATI Journal of Biosciences",
+                "prism:volume": "23",
+                "prism:coverDate": "2016-10-31",
+                "prism:startingPage": "160",
+                "prism:endingPage": "167",
+                "prism:doi": "10.1016/j.hjb.2016.12.004",
+                "openaccess": true,
+                "pii": "S1978301916300195",
+                "authors": {
+                    "author": [
+                        {
+                            "$": "Risza Hartawan"
+                        },
+                        {
+                            "$": "Ni Luh Putu Indi Dharmayanti"
+                        }
+                    ]
+                }
+            },
+            {
+                "@_fa": "true",
+                "load-date": "2009-04-22T00:00:00.000Z",
+                "link": [
+                    {
+                        "@_fa": "true",
+                        "@ref": "self",
+                        "@href": "https://api.elsevier.com/content/article/pii/S0957417409003662"
+                    },
+                    {
+                        "@_fa": "true",
+                        "@ref": "scidir",
+                        "@href": "https://www.sciencedirect.com/science/article/pii/S0957417409003662?dgcid=api_sd_search-api-endpoint"
+                    }
+                ],
+                "dc:identifier": "DOI:10.1016/j.eswa.2009.04.024",
+                "prism:url": "https://api.elsevier.com/content/article/pii/S0957417409003662",
+                "dc:title": "JEETuningExpert: A software assistant for improving Java Enterprise Edition application performance",
+                "dc:creator": "Marco Crasso",
+                "prism:publicationName": "Expert Systems with Applications",
+                "prism:volume": "36",
+                "prism:coverDate": "2009-11-30",
+                "prism:startingPage": "11718",
+                "prism:endingPage": "11729",
+                "prism:doi": "10.1016/j.eswa.2009.04.024",
+                "openaccess": false,
+                "pii": "S0957417409003662",
+                "authors": {
+                    "author": [
+                        {
+                            "$": "Marco Crasso"
+                        },
+                        {
+                            "$": "Alejandro Zunino"
+                        },
+                        {
+                            "$": "Marcelo Campo"
+                        }
+                    ]
+                }
+            },
+            {
+                "@_fa": "true",
+                "load-date": "2013-03-18T00:00:00.000Z",
+                "link": [
+                    {
+                        "@_fa": "true",
+                        "@ref": "self",
+                        "@href": "https://api.elsevier.com/content/article/pii/S0360544213001461"
+                    },
+                    {
+                        "@_fa": "true",
+                        "@ref": "scidir",
+                        "@href": "https://www.sciencedirect.com/science/article/pii/S0360544213001461?dgcid=api_sd_search-api-endpoint"
+                    }
+                ],
+                "dc:identifier": "DOI:10.1016/j.energy.2013.02.032",
+                "prism:url": "https://api.elsevier.com/content/article/pii/S0360544213001461",
+                "dc:title": "Comparative energy input–output and financial analyses of greenhouse and open field vegetables production in West Java, Indonesia",
+                "dc:creator": "Nita Kuswardhani",
+                "prism:publicationName": "Energy",
+                "prism:volume": "53",
+                "prism:coverDate": "2013-05-01",
+                "prism:startingPage": "83",
+                "prism:endingPage": "92",
+                "prism:doi": "10.1016/j.energy.2013.02.032",
+                "openaccess": false,
+                "pii": "S0360544213001461",
+                "authors": {
+                    "author": [
+                        {
+                            "$": "Nita Kuswardhani"
+                        },
+                        {
+                            "$": "Peeyush Soni"
+                        },
+                        {
+                            "$": "Ganesh P. Shivakoti"
+                        }
+                    ]
+                }
+            },
+            {
+                "@_fa": "true",
+                "load-date": "2003-01-31T00:00:00.000Z",
+                "link": [
+                    {
+                        "@_fa": "true",
+                        "@ref": "self",
+                        "@href": "https://api.elsevier.com/content/article/pii/S0014498302000281"
+                    },
+                    {
+                        "@_fa": "true",
+                        "@ref": "scidir",
+                        "@href": "https://www.sciencedirect.com/science/article/pii/S0014498302000281?dgcid=api_sd_search-api-endpoint"
+                    }
+                ],
+                "dc:identifier": "DOI:10.1016/S0014-4983(02)00028-1",
+                "prism:url": "https://api.elsevier.com/content/article/pii/S0014498302000281",
+                "dc:title": "Rich and poor before the Industrial Revolution: a comparison between Java and the Netherlands at the beginning of the 19th century",
+                "dc:creator": "Jan Luiten van Zanden",
+                "prism:publicationName": "Explorations in Economic History",
+                "prism:volume": "40",
+                "prism:coverDate": "2003-01-31",
+                "prism:startingPage": "1",
+                "prism:endingPage": "23",
+                "prism:doi": "10.1016/S0014-4983(02)00028-1",
+                "openaccess": false,
+                "pii": "S0014498302000281",
+                "authors": {
+                    "author": "Jan Luiten van Zanden"
+                }
+            },
+            {
+                "@_fa": "true",
+                "load-date": "2010-04-29T00:00:00.000Z",
+                "link": [
+                    {
+                        "@_fa": "true",
+                        "@ref": "self",
+                        "@href": "https://api.elsevier.com/content/article/pii/S016764231000078X"
+                    },
+                    {
+                        "@_fa": "true",
+                        "@ref": "scidir",
+                        "@href": "https://www.sciencedirect.com/science/article/pii/S016764231000078X?dgcid=api_sd_search-api-endpoint"
+                    }
+                ],
+                "dc:identifier": "DOI:10.1016/j.scico.2010.04.009",
+                "prism:url": "https://api.elsevier.com/content/article/pii/S016764231000078X",
+                "dc:title": "Listener latency profiling: Measuring the perceptible performance of interactive Java applications",
+                "dc:creator": "Milan Jovic",
+                "prism:publicationName": "Science of Computer Programming",
+                "prism:volume": "76",
+                "prism:coverDate": "2011-11-01",
+                "prism:startingPage": "1054",
+                "prism:endingPage": "1072",
+                "prism:doi": "10.1016/j.scico.2010.04.009",
+                "openaccess": true,
+                "pii": "S016764231000078X",
+                "authors": {
+                    "author": [
+                        {
+                            "$": "Milan Jovic"
+                        },
+                        {
+                            "$": "Matthias Hauswirth"
+                        }
+                    ]
+                }
+            },
+            {
+                "@_fa": "true",
+                "load-date": "2005-11-24T00:00:00.000Z",
+                "link": [
+                    {
+                        "@_fa": "true",
+                        "@ref": "self",
+                        "@href": "https://api.elsevier.com/content/article/pii/S1571066105051431"
+                    },
+                    {
+                        "@_fa": "true",
+                        "@ref": "scidir",
+                        "@href": "https://www.sciencedirect.com/science/article/pii/S1571066105051431?dgcid=api_sd_search-api-endpoint"
+                    }
+                ],
+                "dc:identifier": "DOI:10.1016/j.entcs.2005.02.037",
+                "prism:url": "https://api.elsevier.com/content/article/pii/S1571066105051431",
+                "dc:title": "Java Bytecode Transformations for Efficient, Portable CPU Accounting",
+                "dc:creator": "Walter Binder",
+                "prism:publicationName": "Electronic Notes in Theoretical Computer Science",
+                "prism:volume": "141",
+                "prism:coverDate": "2005-12-05",
+                "prism:startingPage": "53",
+                "prism:endingPage": "73",
+                "prism:doi": "10.1016/j.entcs.2005.02.037",
+                "openaccess": true,
+                "pii": "S1571066105051431",
+                "authors": {
+                    "author": [
+                        {
+                            "$": "Walter Binder"
+                        },
+                        {
+                            "$": "Jarle Hulaas"
+                        }
+                    ]
+                }
+            },
+            {
+                "@_fa": "true",
+                "load-date": "2000-09-14T00:00:00.000Z",
+                "link": [
+                    {
+                        "@_fa": "true",
+                        "@ref": "self",
+                        "@href": "https://api.elsevier.com/content/article/pii/S0920379600001381"
+                    },
+                    {
+                        "@_fa": "true",
+                        "@ref": "scidir",
+                        "@href": "https://www.sciencedirect.com/science/article/pii/S0920379600001381?dgcid=api_sd_search-api-endpoint"
+                    }
+                ],
+                "dc:identifier": "DOI:10.1016/S0920-3796(00)00138-1",
+                "prism:url": "https://api.elsevier.com/content/article/pii/S0920379600001381",
+                "dc:title": "Upgrading a TEXTOR Data Acquisition system for remote participation using Java and Corba",
+                "dc:creator": "M Korten",
+                "prism:publicationName": "Fusion Engineering and Design",
+                "prism:volume": "48",
+                "prism:coverDate": "2000-08-01",
+                "prism:startingPage": "239",
+                "prism:endingPage": "245",
+                "prism:doi": "10.1016/S0920-3796(00)00138-1",
+                "openaccess": false,
+                "pii": "S0920379600001381",
+                "authors": {
+                    "author": [
+                        {
+                            "$": "M Korten"
+                        },
+                        {
+                            "$": "B Becks"
+                        },
+                        {
+                            "$": "U Samm"
+                        }
+                    ]
+                }
+            },
+            {
+                "@_fa": "true",
+                "load-date": "2018-08-04T00:00:00.000Z",
+                "link": [
+                    {
+                        "@_fa": "true",
+                        "@ref": "self",
+                        "@href": "https://api.elsevier.com/content/article/pii/S0195666317308401"
+                    },
+                    {
+                        "@_fa": "true",
+                        "@ref": "scidir",
+                        "@href": "https://www.sciencedirect.com/science/article/pii/S0195666317308401?dgcid=api_sd_search-api-endpoint"
+                    }
+                ],
+                "dc:identifier": "DOI:10.1016/j.appet.2018.08.005",
+                "prism:url": "https://api.elsevier.com/content/article/pii/S0195666317308401",
+                "dc:title": "Food choices made by primary carers (mothers/ grandmothers) in West Java, Indonesia",
+                "dc:creator": "Cut Novianti Rachmi",
+                "prism:publicationName": "Appetite",
+                "prism:volume": "130",
+                "prism:coverDate": "2018-11-01",
+                "prism:startingPage": "84",
+                "prism:endingPage": "92",
+                "prism:doi": "10.1016/j.appet.2018.08.005",
+                "openaccess": false,
+                "pii": "S0195666317308401",
+                "authors": {
+                    "author": [
+                        {
+                            "$": "Cut Novianti Rachmi"
+                        },
+                        {
+                            "$": "Cynthia Louise Hunter"
+                        },
+                        {
+                            "$": "Louise Alison Baur"
+                        }
+                    ]
+                }
+            },
+            {
+                "@_fa": "true",
+                "load-date": "2015-12-09T00:00:00.000Z",
+                "link": [
+                    {
+                        "@_fa": "true",
+                        "@ref": "self",
+                        "@href": "https://api.elsevier.com/content/article/pii/S1877042815054713"
+                    },
+                    {
+                        "@_fa": "true",
+                        "@ref": "scidir",
+                        "@href": "https://www.sciencedirect.com/science/article/pii/S1877042815054713?dgcid=api_sd_search-api-endpoint"
+                    }
+                ],
+                "dc:identifier": "DOI:10.1016/j.sbspro.2015.11.131",
+                "prism:url": "https://api.elsevier.com/content/article/pii/S1877042815054713",
+                "dc:title": "The Impact of the Values of Islamic Religiosity to Islamic Job Satisfaction in Tasikmalaya West Java, Indonesia, Industrial Centre",
+                "dc:creator": "Ima Amaliah",
+                "prism:publicationName": "Procedia - Social and Behavioral Sciences",
+                "prism:volume": "211",
+                "prism:coverDate": "2015-11-25",
+                "prism:startingPage": "984",
+                "prism:endingPage": "991",
+                "prism:doi": "10.1016/j.sbspro.2015.11.131",
+                "openaccess": true,
+                "pii": "S1877042815054713",
+                "authors": {
+                    "author": [
+                        {
+                            "$": "Ima Amaliah"
+                        },
+                        {
+                            "$": "Tasya Aspiranti"
+                        },
+                        {
+                            "$": "Pupung Purnamasari"
+                        }
+                    ]
+                }
+            },
+            {
+                "@_fa": "true",
+                "load-date": "2020-09-19T00:00:00.000Z",
+                "link": [
+                    {
+                        "@_fa": "true",
+                        "@ref": "self",
+                        "@href": "https://api.elsevier.com/content/article/pii/S2213624X20300997"
+                    },
+                    {
+                        "@_fa": "true",
+                        "@ref": "scidir",
+                        "@href": "https://www.sciencedirect.com/science/article/pii/S2213624X20300997?dgcid=api_sd_search-api-endpoint"
+                    }
+                ],
+                "dc:identifier": "DOI:10.1016/j.cstp.2020.09.004",
+                "prism:url": "https://api.elsevier.com/content/article/pii/S2213624X20300997",
+                "dc:title": "Analysing vulnerability of road network and guiding evacuees to sheltered areas: Case study of Mt Merapi, Central Java, Indonesia",
+                "dc:creator": " Hardiansyah",
+                "prism:publicationName": "Case Studies on Transport Policy",
+                "prism:volume": "8",
+                "prism:coverDate": "2020-12-31",
+                "prism:startingPage": "1329",
+                "prism:endingPage": "1340",
+                "prism:doi": "10.1016/j.cstp.2020.09.004",
+                "openaccess": false,
+                "pii": "S2213624X20300997",
+                "authors": {
+                    "author": [
+                        {
+                            "$": " Hardiansyah"
+                        },
+                        {
+                            "$": "Imam Muthohar"
+                        },
+                        {
+                            "$": "Sigit Priyanto"
+                        }
+                    ]
+                }
+            },
+            {
+                "@_fa": "true",
+                "load-date": "2006-10-20T00:00:00.000Z",
+                "link": [
+                    {
+                        "@_fa": "true",
+                        "@ref": "self",
+                        "@href": "https://api.elsevier.com/content/article/pii/S1571066106004968"
+                    },
+                    {
+                        "@_fa": "true",
+                        "@ref": "scidir",
+                        "@href": "https://www.sciencedirect.com/science/article/pii/S1571066106004968?dgcid=api_sd_search-api-endpoint"
+                    }
+                ],
+                "dc:identifier": "DOI:10.1016/j.entcs.2006.07.017",
+                "prism:url": "https://api.elsevier.com/content/article/pii/S1571066106004968",
+                "dc:title": "Quantitative Static Analysis Over Semirings: Analysing Cache Behaviour for Java Card",
+                "dc:creator": "Pascal Sotin",
+                "prism:publicationName": "Electronic Notes in Theoretical Computer Science",
+                "prism:volume": "164",
+                "prism:coverDate": "2006-10-26",
+                "prism:startingPage": "153",
+                "prism:endingPage": "167",
+                "prism:doi": "10.1016/j.entcs.2006.07.017",
+                "openaccess": true,
+                "pii": "S1571066106004968",
+                "authors": {
+                    "author": [
+                        {
+                            "$": "Pascal Sotin"
+                        },
+                        {
+                            "$": "David Cachera"
+                        },
+                        {
+                            "$": "Thomas Jensen"
+                        }
+                    ]
+                }
+            },
+            {
+                "@_fa": "true",
+                "load-date": "2008-12-25T00:00:00.000Z",
+                "link": [
+                    {
+                        "@_fa": "true",
+                        "@ref": "self",
+                        "@href": "https://api.elsevier.com/content/article/pii/S0890540108001405"
+                    },
+                    {
+                        "@_fa": "true",
+                        "@ref": "scidir",
+                        "@href": "https://www.sciencedirect.com/science/article/pii/S0890540108001405?dgcid=api_sd_search-api-endpoint"
+                    }
+                ],
+                "dc:identifier": "DOI:10.1016/j.ic.2008.12.002",
+                "prism:url": "https://api.elsevier.com/content/article/pii/S0890540108001405",
+                "dc:title": "On an algorithm determining direct superclasses in Java and similar languages with inner classes—Its correctness, completeness and uniqueness of solutions",
+                "dc:creator": "Hans Langmaack",
+                "prism:publicationName": "Information and Computation",
+                "prism:volume": "207",
+                "prism:coverDate": "2009-03-31",
+                "prism:startingPage": "389",
+                "prism:endingPage": "410",
+                "prism:doi": "10.1016/j.ic.2008.12.002",
+                "openaccess": true,
+                "pii": "S0890540108001405",
+                "authors": {
+                    "author": [
+                        {
+                            "$": "Hans Langmaack"
+                        },
+                        {
+                            "$": "Andrzej Salwicki"
+                        },
+                        {
+                            "$": "Marek Warpechowski"
+                        }
+                    ]
+                }
+            },
+            {
+                "@_fa": "true",
+                "load-date": "2010-01-04T00:00:00.000Z",
+                "link": [
+                    {
+                        "@_fa": "true",
+                        "@ref": "self",
+                        "@href": "https://api.elsevier.com/content/article/pii/S0037073809002929"
+                    },
+                    {
+                        "@_fa": "true",
+                        "@ref": "scidir",
+                        "@href": "https://www.sciencedirect.com/science/article/pii/S0037073809002929?dgcid=api_sd_search-api-endpoint"
+                    }
+                ],
+                "dc:identifier": "DOI:10.1016/j.sedgeo.2009.12.005",
+                "prism:url": "https://api.elsevier.com/content/article/pii/S0037073809002929",
+                "dc:title": "The TsuSedMod inversion model applied to the deposits of the 2004 Sumatra and 2006 Java tsunami and implications for estimating flow parameters of palaeo-tsunami",
+                "dc:creator": "Michaela Spiske",
+                "prism:publicationName": "Sedimentary Geology",
+                "prism:volume": "224",
+                "prism:coverDate": "2010-03-01",
+                "prism:startingPage": "29",
+                "prism:endingPage": "37",
+                "prism:doi": "10.1016/j.sedgeo.2009.12.005",
+                "openaccess": false,
+                "pii": "S0037073809002929",
+                "authors": {
+                    "author": [
+                        {
+                            "$": "Michaela Spiske"
+                        },
+                        {
+                            "$": "Robert Weiss"
+                        },
+                        {
+                            "$": "Hendra Amijaya"
+                        }
+                    ]
+                }
+            },
+            {
+                "@_fa": "true",
+                "load-date": "2005-04-27T00:00:00.000Z",
+                "link": [
+                    {
+                        "@_fa": "true",
+                        "@ref": "self",
+                        "@href": "https://api.elsevier.com/content/article/pii/S0047248405000291"
+                    },
+                    {
+                        "@_fa": "true",
+                        "@ref": "scidir",
+                        "@href": "https://www.sciencedirect.com/science/article/pii/S0047248405000291?dgcid=api_sd_search-api-endpoint"
+                    }
+                ],
+                "dc:identifier": "DOI:10.1016/j.jhevol.2005.01.005",
+                "prism:url": "https://api.elsevier.com/content/article/pii/S0047248405000291",
+                "dc:title": "The first hominid fossil recovered from West Java, Indonesia",
+                "dc:creator": "Andrew Kramer",
+                "prism:publicationName": "Journal of Human Evolution",
+                "prism:volume": "48",
+                "prism:coverDate": "2005-06-30",
+                "prism:startingPage": "661",
+                "prism:endingPage": "667",
+                "prism:doi": "10.1016/j.jhevol.2005.01.005",
+                "openaccess": false,
+                "pii": "S0047248405000291",
+                "authors": {
+                    "author": [
+                        {
+                            "$": "Andrew Kramer"
+                        },
+                        {
+                            "$": "Tony Djubiantono"
+                        },
+                        {
+                            "$": " Agus"
+                        }
+                    ]
+                }
+            },
+            {
+                "@_fa": "true",
+                "load-date": "2006-12-13T00:00:00.000Z",
+                "link": [
+                    {
+                        "@_fa": "true",
+                        "@ref": "self",
+                        "@href": "https://api.elsevier.com/content/article/pii/S0169260706002173"
+                    },
+                    {
+                        "@_fa": "true",
+                        "@ref": "scidir",
+                        "@href": "https://www.sciencedirect.com/science/article/pii/S0169260706002173?dgcid=api_sd_search-api-endpoint"
+                    }
+                ],
+                "dc:identifier": "DOI:10.1016/j.cmpb.2006.09.005",
+                "prism:url": "https://api.elsevier.com/content/article/pii/S0169260706002173",
+                "dc:title": "Java-based framework for processing and displaying short-echo-time magnetic resonance spectroscopy signals",
+                "dc:creator": "B. De Neuter",
+                "prism:publicationName": "Computer Methods and Programs in Biomedicine",
+                "prism:volume": "85",
+                "prism:coverDate": "2007-02-28",
+                "prism:startingPage": "129",
+                "prism:endingPage": "137",
+                "prism:doi": "10.1016/j.cmpb.2006.09.005",
+                "openaccess": false,
+                "pii": "S0169260706002173",
+                "authors": {
+                    "author": [
+                        {
+                            "$": "B. De Neuter"
+                        },
+                        {
+                            "$": "J. Luts"
+                        },
+                        {
+                            "$": "S. Van Huffel"
+                        }
+                    ]
+                }
+            },
+            {
+                "@_fa": "true",
+                "load-date": "2010-04-29T00:00:00.000Z",
+                "link": [
+                    {
+                        "@_fa": "true",
+                        "@ref": "self",
+                        "@href": "https://api.elsevier.com/content/article/pii/S0167642310000778"
+                    },
+                    {
+                        "@_fa": "true",
+                        "@ref": "scidir",
+                        "@href": "https://www.sciencedirect.com/science/article/pii/S0167642310000778?dgcid=api_sd_search-api-endpoint"
+                    }
+                ],
+                "dc:identifier": "DOI:10.1016/j.scico.2010.04.008",
+                "prism:url": "https://api.elsevier.com/content/article/pii/S0167642310000778",
+                "dc:title": "“Slimming” a Java virtual machine by way of cold code removal and optimistic partial program loading",
+                "dc:creator": "Gregor Wagner",
+                "prism:publicationName": "Science of Computer Programming",
+                "prism:volume": "76",
+                "prism:coverDate": "2011-11-01",
+                "prism:startingPage": "1037",
+                "prism:endingPage": "1053",
+                "prism:doi": "10.1016/j.scico.2010.04.008",
+                "openaccess": true,
+                "pii": "S0167642310000778",
+                "authors": {
+                    "author": [
+                        {
+                            "$": "Gregor Wagner"
+                        },
+                        {
+                            "$": "Andreas Gal"
+                        },
+                        {
+                            "$": "Michael Franz"
+                        }
+                    ]
+                }
+            },
+            {
+                "@_fa": "true",
+                "load-date": "2002-05-28T00:00:00.000Z",
+                "link": [
+                    {
+                        "@_fa": "true",
+                        "@ref": "self",
+                        "@href": "https://api.elsevier.com/content/article/pii/S0950584902000654"
+                    },
+                    {
+                        "@_fa": "true",
+                        "@ref": "scidir",
+                        "@href": "https://www.sciencedirect.com/science/article/pii/S0950584902000654?dgcid=api_sd_search-api-endpoint"
+                    }
+                ],
+                "dc:identifier": "DOI:10.1016/S0950-5849(02)00065-4",
+                "prism:url": "https://api.elsevier.com/content/article/pii/S0950584902000654",
+                "dc:title": "Molecule-oriented programming in Java",
+                "dc:creator": "Jan Bergstra",
+                "prism:publicationName": "Information and Software Technology",
+                "prism:volume": "44",
+                "prism:coverDate": "2002-08-15",
+                "prism:startingPage": "617",
+                "prism:endingPage": "638",
+                "prism:doi": "10.1016/S0950-5849(02)00065-4",
+                "openaccess": false,
+                "pii": "S0950584902000654",
+                "authors": {
+                    "author": "Jan Bergstra"
+                }
+            }
+        ]
+    }
+}

@@ -1,13 +1,27 @@
-api:
+api_ieee:
   url: 'https://ieeexploreapi.ieee.org/api/v1'
-  key: '5az2n3znt5xasjxtk4ud2v6v'
+  key: 'epr47e9r9zhk6wm2t5c22qf6  '
   path: '/search/articles'
-  max_records: 1
+  max_records: 200
+  table: 'articles'
+  page: 1
+
+api_scid:
+  url: 'https://api.elsevier.com'
+  key: '7f59af901d2d86f78a1fd60c1bf9426a'
+  path: '/content/search/sciencedirect'
+  count: 100
+  table: 'articles'
+  page: 1
+  httpAccept: application/json
 
 search: ['big data', 'java']
-
 # AND, OR, NOT
 operator: 'OR'
+# Extract, SQLile, BitText
+mode: 'SQLile'
+# IEEE, SCID
+scope: 'SCID'
 
 data:
   [
